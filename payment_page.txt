@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LeadTapApp | Confirm & Fund</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <script>
+    function updateTotal() {
+      const plan = document.getElementById("plan").value;
+      const leads = parseInt(document.getElementById("leadCredits").value) || 0;
+
+      const plans = {
+        Starter: { membership: 99, costPerLead: 350 },
+        Pro: { membership: 499, costPerLead: 300 },
+        Power: { membership: 999, costPerLead: 250 },
+        Elite: { membership: 1999, costPerLead: 200 },
+      };
+
+      const { membership, costPerLead } = plans[plan];
+      const total = membership + (leads * costPerLead);
+
+      document.getElementById("totalDisplay").textContent = `$${total.toLocaleString()}`;
+      document.getElementById("detailsLine").textContent = `Includes ${leads} lead credit${leads !== 1 ? 's' : ''} at $${costPerLead} each + $${membership} membership`;
+    }
+  </script>
+</head>
+<body class="bg-gray-50 text-gray-800">
+  <header class="bg-white shadow py-4 px-6 mb-8">
+    <div class="max-w-6xl mx-auto flex items-center justify-between">
+      <img src="logo.png" alt="LeadTapApp Logo" class="h-10">
+    </div>
+  </header>
+
+  <section class="max-w-3xl mx-auto bg-white p-8 rounded-xl shadow">
+    <h1 class="text-3xl font-bold mb-6">Confirm Your Plan & Fund Your Account</h1>
+
+    <form class="space-y-6" onsubmit="event.preventDefault();">
+      <div>
+        <label for="plan" class="block text-sm font-medium mb-1">Select Your Plan</label>
+        <select id="plan" onchange="updateTotal()" class="w-full border border-gray-300 rounded-md px-4 py-2">
+          <option value="Starter">Starter - $99/month + $350 per credit</option>
+          <option value="Pro">Pro - $499/month + $300 per credit</option>
+          <option value="Power" selected>Power - $999/month + $250 per credit</option>
+          <option value="Elite">Elite - $1999/month + $200 per credit</option>
+        </select>
+      </div>
+
+      <div>
+        <label for="leadCredits" class="block text-sm font-medium mb-1">How many lead credits do you want to start with?</label>
+        <div class="flex gap-4">
+          <input type="number" id="leadCredits" min="1" value="10" class="flex-1 border border-gray-300 rounded-md px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500">
+          <button type="button" onclick="updateTotal()" class="bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-blue-700">Apply</button>
+        </div>
+        <p class="text-sm text-gray-500 mt-1">You can purchase more credits at any time.</p>
+      </div>
+
+      <div class="border-t pt-4">
+        <h3 class="text-lg font-semibold mb-2">Estimated Total</h3>
+        <p id="totalDisplay" class="text-2xl text-blue-700 font-bold">$3,499</p>
+        <p id="detailsLine" class="text-sm text-gray-500">Includes 10 lead credits at $250 each + $999 membership</p>
+      </div>
+
+      <button type="submit" class="bg-blue-700 text-white font-semibold px-6 py-3 rounded-xl hover:bg-blue-800 w-full">Complete Purchase</button>
+    </form>
+  </section>
+
+  <script>
+    window.onload = updateTotal;
+  </script>
+</body>
+</html>
