@@ -1,0 +1,4133 @@
+[
+  {
+    "City": "Accoville",
+    "Zip Codes": [
+      25606
+    ]
+  },
+  {
+    "City": "Albright",
+    "Zip Codes": [
+      26519
+    ]
+  },
+  {
+    "City": "Alderson",
+    "Zip Codes": [
+      24910
+    ]
+  },
+  {
+    "City": "Alkol",
+    "Zip Codes": [
+      25501
+    ]
+  },
+  {
+    "City": "Allen Junction",
+    "Zip Codes": [
+      25810
+    ]
+  },
+  {
+    "City": "Alloy",
+    "Zip Codes": [
+      25002
+    ]
+  },
+  {
+    "City": "Alma",
+    "Zip Codes": [
+      26320
+    ]
+  },
+  {
+    "City": "Alum Bridge",
+    "Zip Codes": [
+      26321
+    ]
+  },
+  {
+    "City": "Alum Creek",
+    "Zip Codes": [
+      25003
+    ]
+  },
+  {
+    "City": "Amherstdale",
+    "Zip Codes": [
+      25607
+    ]
+  },
+  {
+    "City": "Amigo",
+    "Zip Codes": [
+      25811
+    ]
+  },
+  {
+    "City": "Amma",
+    "Zip Codes": [
+      25005
+    ]
+  },
+  {
+    "City": "Anawalt",
+    "Zip Codes": [
+      24808
+    ]
+  },
+  {
+    "City": "Anmoore",
+    "Zip Codes": [
+      26323
+    ]
+  },
+  {
+    "City": "Ansted",
+    "Zip Codes": [
+      25812
+    ]
+  },
+  {
+    "City": "Apple Grove",
+    "Zip Codes": [
+      25502
+    ]
+  },
+  {
+    "City": "Arbovale",
+    "Zip Codes": [
+      24915
+    ]
+  },
+  {
+    "City": "Arnett",
+    "Zip Codes": [
+      25007
+    ]
+  },
+  {
+    "City": "Arnoldsburg",
+    "Zip Codes": [
+      25234
+    ]
+  },
+  {
+    "City": "Arthurdale",
+    "Zip Codes": [
+      26520
+    ]
+  },
+  {
+    "City": "Artie",
+    "Zip Codes": [
+      25008
+    ]
+  },
+  {
+    "City": "Asbury",
+    "Zip Codes": [
+      24916
+    ]
+  },
+  {
+    "City": "Ashford",
+    "Zip Codes": [
+      25009
+    ]
+  },
+  {
+    "City": "Ashton",
+    "Zip Codes": [
+      25503
+    ]
+  },
+  {
+    "City": "Athens",
+    "Zip Codes": [
+      24712
+    ]
+  },
+  {
+    "City": "Auburn",
+    "Zip Codes": [
+      26325
+    ]
+  },
+  {
+    "City": "Augusta",
+    "Zip Codes": [
+      26704
+    ]
+  },
+  {
+    "City": "Aurora",
+    "Zip Codes": [
+      26705
+    ]
+  },
+  {
+    "City": "Avondale",
+    "Zip Codes": [
+      24811
+    ]
+  },
+  {
+    "City": "Baisden",
+    "Zip Codes": [
+      25608
+    ]
+  },
+  {
+    "City": "Baker",
+    "Zip Codes": [
+      26801
+    ]
+  },
+  {
+    "City": "Ballard",
+    "Zip Codes": [
+      24918
+    ]
+  },
+  {
+    "City": "Bancroft",
+    "Zip Codes": [
+      25011
+    ]
+  },
+  {
+    "City": "Barboursville",
+    "Zip Codes": [
+      25504
+    ]
+  },
+  {
+    "City": "Barrackville",
+    "Zip Codes": [
+      26559
+    ]
+  },
+  {
+    "City": "Bartley",
+    "Zip Codes": [
+      24813
+    ]
+  },
+  {
+    "City": "Bartow",
+    "Zip Codes": [
+      24920
+    ]
+  },
+  {
+    "City": "Baxter",
+    "Zip Codes": [
+      26560
+    ]
+  },
+  {
+    "City": "Bayard",
+    "Zip Codes": [
+      26707
+    ]
+  },
+  {
+    "City": "Beaver",
+    "Zip Codes": [
+      25813
+    ]
+  },
+  {
+    "City": "Beckley",
+    "Zip Codes": [
+      25801
+    ]
+  },
+  {
+    "City": "Beech Bottom",
+    "Zip Codes": [
+      26030
+    ]
+  },
+  {
+    "City": "Beeson",
+    "Zip Codes": [
+      24714
+    ]
+  },
+  {
+    "City": "Belington",
+    "Zip Codes": [
+      26250
+    ]
+  },
+  {
+    "City": "Belle",
+    "Zip Codes": [
+      25015
+    ]
+  },
+  {
+    "City": "Belleville",
+    "Zip Codes": [
+      26133
+    ]
+  },
+  {
+    "City": "Belmont",
+    "Zip Codes": [
+      26134
+    ]
+  },
+  {
+    "City": "Belva",
+    "Zip Codes": [
+      26656
+    ]
+  },
+  {
+    "City": "Benwood",
+    "Zip Codes": [
+      26031
+    ]
+  },
+  {
+    "City": "Berea",
+    "Zip Codes": [
+      26327
+    ]
+  },
+  {
+    "City": "Bergoo",
+    "Zip Codes": [
+      26298
+    ]
+  },
+  {
+    "City": "Berkeley Springs",
+    "Zip Codes": [
+      25411
+    ]
+  },
+  {
+    "City": "Berwind",
+    "Zip Codes": [
+      24815
+    ]
+  },
+  {
+    "City": "Bethany",
+    "Zip Codes": [
+      26032
+    ]
+  },
+  {
+    "City": "Beverly",
+    "Zip Codes": [
+      26253
+    ]
+  },
+  {
+    "City": "Bickmore",
+    "Zip Codes": [
+      25019
+    ]
+  },
+  {
+    "City": "Big Bend",
+    "Zip Codes": [
+      26136
+    ]
+  },
+  {
+    "City": "Big Creek",
+    "Zip Codes": [
+      25505
+    ]
+  },
+  {
+    "City": "Big Sandy",
+    "Zip Codes": [
+      24816
+    ]
+  },
+  {
+    "City": "Big Springs",
+    "Zip Codes": [
+      26137
+    ]
+  },
+  {
+    "City": "Bim",
+    "Zip Codes": [
+      25021
+    ]
+  },
+  {
+    "City": "Birch River",
+    "Zip Codes": [
+      26610
+    ]
+  },
+  {
+    "City": "Blacksville",
+    "Zip Codes": [
+      26521
+    ]
+  },
+  {
+    "City": "Blair",
+    "Zip Codes": [
+      25022
+    ]
+  },
+  {
+    "City": "Bloomery",
+    "Zip Codes": [
+      26817
+    ]
+  },
+  {
+    "City": "Bloomingrose",
+    "Zip Codes": [
+      25024
+    ]
+  },
+  {
+    "City": "Blount",
+    "Zip Codes": [
+      25025
+    ]
+  },
+  {
+    "City": "Bluefield",
+    "Zip Codes": [
+      24701
+    ]
+  },
+  {
+    "City": "Bob White",
+    "Zip Codes": [
+      25028
+    ]
+  },
+  {
+    "City": "Bolt",
+    "Zip Codes": [
+      25817
+    ]
+  },
+  {
+    "City": "Bomont",
+    "Zip Codes": [
+      25030
+    ]
+  },
+  {
+    "City": "Boomer",
+    "Zip Codes": [
+      25031
+    ]
+  },
+  {
+    "City": "Bowden",
+    "Zip Codes": [
+      26254
+    ]
+  },
+  {
+    "City": "Bradley",
+    "Zip Codes": [
+      25818
+    ]
+  },
+  {
+    "City": "Bradshaw",
+    "Zip Codes": [
+      24817
+    ]
+  },
+  {
+    "City": "Bramwell",
+    "Zip Codes": [
+      24715
+    ]
+  },
+  {
+    "City": "Branchland",
+    "Zip Codes": [
+      25506
+    ]
+  },
+  {
+    "City": "Brandywine",
+    "Zip Codes": [
+      26802
+    ]
+  },
+  {
+    "City": "Breeden",
+    "Zip Codes": [
+      25666
+    ]
+  },
+  {
+    "City": "Brenton",
+    "Zip Codes": [
+      24818
+    ]
+  },
+  {
+    "City": "Bridgeport",
+    "Zip Codes": [
+      26330
+    ]
+  },
+  {
+    "City": "Brohard",
+    "Zip Codes": [
+      26138
+    ]
+  },
+  {
+    "City": "Bruceton Mills",
+    "Zip Codes": [
+      26525
+    ]
+  },
+  {
+    "City": "Bruno",
+    "Zip Codes": [
+      25611
+    ]
+  },
+  {
+    "City": "Buckeye",
+    "Zip Codes": [
+      24924
+    ]
+  },
+  {
+    "City": "Buckhannon",
+    "Zip Codes": [
+      26201
+    ]
+  },
+  {
+    "City": "Bud",
+    "Zip Codes": [
+      24716
+    ]
+  },
+  {
+    "City": "Buffalo",
+    "Zip Codes": [
+      25033
+    ]
+  },
+  {
+    "City": "Bunker Hill",
+    "Zip Codes": [
+      25413
+    ]
+  },
+  {
+    "City": "Burlington",
+    "Zip Codes": [
+      26710
+    ]
+  },
+  {
+    "City": "Burnsville",
+    "Zip Codes": [
+      26335
+    ]
+  },
+  {
+    "City": "Burton",
+    "Zip Codes": [
+      26562
+    ]
+  },
+  {
+    "City": "Cabin Creek",
+    "Zip Codes": [
+      25035
+    ]
+  },
+  {
+    "City": "Cabins",
+    "Zip Codes": [
+      26855
+    ]
+  },
+  {
+    "City": "Cairo",
+    "Zip Codes": [
+      26337
+    ]
+  },
+  {
+    "City": "Caldwell",
+    "Zip Codes": [
+      24925
+    ]
+  },
+  {
+    "City": "Calvin",
+    "Zip Codes": [
+      26660
+    ]
+  },
+  {
+    "City": "Camden",
+    "Zip Codes": [
+      26338
+    ]
+  },
+  {
+    "City": "Camden On Gauley",
+    "Zip Codes": [
+      26208
+    ]
+  },
+  {
+    "City": "Cameron",
+    "Zip Codes": [
+      26033
+    ]
+  },
+  {
+    "City": "Camp Creek",
+    "Zip Codes": [
+      25820
+    ]
+  },
+  {
+    "City": "Cannelton",
+    "Zip Codes": [
+      25036
+    ]
+  },
+  {
+    "City": "Canvas",
+    "Zip Codes": [
+      26662
+    ]
+  },
+  {
+    "City": "Capon Bridge",
+    "Zip Codes": [
+      26711
+    ]
+  },
+  {
+    "City": "Capon Springs",
+    "Zip Codes": [
+      26823
+    ]
+  },
+  {
+    "City": "Carolina",
+    "Zip Codes": [
+      26563
+    ]
+  },
+  {
+    "City": "Cass",
+    "Zip Codes": [
+      24927
+    ]
+  },
+  {
+    "City": "Cedar Grove",
+    "Zip Codes": [
+      25039
+    ]
+  },
+  {
+    "City": "Cedarville",
+    "Zip Codes": [
+      26611
+    ]
+  },
+  {
+    "City": "Center Point",
+    "Zip Codes": [
+      26339
+    ]
+  },
+  {
+    "City": "Ceredo",
+    "Zip Codes": [
+      25507
+    ]
+  },
+  {
+    "City": "Chapmanville",
+    "Zip Codes": [
+      25508
+    ]
+  },
+  {
+    "City": "Charles Town",
+    "Zip Codes": [
+      25414
+    ]
+  },
+  {
+    "City": "Charleston",
+    "Zip Codes": [
+      25301,
+      25320,
+      25302,
+      25304,
+      25306,
+      25313,
+      25305,
+      25315,
+      25312,
+      25314,
+      25311
+    ]
+  },
+  {
+    "City": "Charlton Heights",
+    "Zip Codes": [
+      25040
+    ]
+  },
+  {
+    "City": "Charmco",
+    "Zip Codes": [
+      25958
+    ]
+  },
+  {
+    "City": "Chester",
+    "Zip Codes": [
+      26034
+    ]
+  },
+  {
+    "City": "Chloe",
+    "Zip Codes": [
+      25235
+    ]
+  },
+  {
+    "City": "Circleville",
+    "Zip Codes": [
+      26804
+    ]
+  },
+  {
+    "City": "Clarksburg",
+    "Zip Codes": [
+      26301
+    ]
+  },
+  {
+    "City": "Clay",
+    "Zip Codes": [
+      25043
+    ]
+  },
+  {
+    "City": "Clear Creek",
+    "Zip Codes": [
+      25044
+    ]
+  },
+  {
+    "City": "Clear Fork",
+    "Zip Codes": [
+      24822
+    ]
+  },
+  {
+    "City": "Clendenin",
+    "Zip Codes": [
+      25045
+    ]
+  },
+  {
+    "City": "Cleveland",
+    "Zip Codes": [
+      26215
+    ]
+  },
+  {
+    "City": "Clothier",
+    "Zip Codes": [
+      25047
+    ]
+  },
+  {
+    "City": "Coal City",
+    "Zip Codes": [
+      25823
+    ]
+  },
+  {
+    "City": "Coal Mountain",
+    "Zip Codes": [
+      24823
+    ]
+  },
+  {
+    "City": "Coalton",
+    "Zip Codes": [
+      26257
+    ]
+  },
+  {
+    "City": "Colcord",
+    "Zip Codes": [
+      25048
+    ]
+  },
+  {
+    "City": "Colliers",
+    "Zip Codes": [
+      26035
+    ]
+  },
+  {
+    "City": "Comfort",
+    "Zip Codes": [
+      25049
+    ]
+  },
+  {
+    "City": "Cool Ridge",
+    "Zip Codes": [
+      25825
+    ]
+  },
+  {
+    "City": "Copen",
+    "Zip Codes": [
+      26615
+    ]
+  },
+  {
+    "City": "Corinne",
+    "Zip Codes": [
+      25826
+    ]
+  },
+  {
+    "City": "Costa",
+    "Zip Codes": [
+      25051
+    ]
+  },
+  {
+    "City": "Cottageville",
+    "Zip Codes": [
+      25239
+    ]
+  },
+  {
+    "City": "Covel",
+    "Zip Codes": [
+      24719
+    ]
+  },
+  {
+    "City": "Cowen",
+    "Zip Codes": [
+      26206
+    ]
+  },
+  {
+    "City": "Coxs Mills",
+    "Zip Codes": [
+      26342
+    ]
+  },
+  {
+    "City": "Crab Orchard",
+    "Zip Codes": [
+      25827
+    ]
+  },
+  {
+    "City": "Craigsville",
+    "Zip Codes": [
+      26205
+    ]
+  },
+  {
+    "City": "Crawford",
+    "Zip Codes": [
+      26343
+    ]
+  },
+  {
+    "City": "Crawley",
+    "Zip Codes": [
+      24931
+    ]
+  },
+  {
+    "City": "Creston",
+    "Zip Codes": [
+      26141
+    ]
+  },
+  {
+    "City": "Crum",
+    "Zip Codes": [
+      25669
+    ]
+  },
+  {
+    "City": "Cucumber",
+    "Zip Codes": [
+      24826
+    ]
+  },
+  {
+    "City": "Culloden",
+    "Zip Codes": [
+      25510
+    ]
+  },
+  {
+    "City": "Cyclone",
+    "Zip Codes": [
+      24827
+    ]
+  },
+  {
+    "City": "Dailey",
+    "Zip Codes": [
+      26259
+    ]
+  },
+  {
+    "City": "Dallas",
+    "Zip Codes": [
+      26036
+    ]
+  },
+  {
+    "City": "Danese",
+    "Zip Codes": [
+      25831
+    ]
+  },
+  {
+    "City": "Daniels",
+    "Zip Codes": [
+      25832
+    ]
+  },
+  {
+    "City": "Danville",
+    "Zip Codes": [
+      25053
+    ]
+  },
+  {
+    "City": "Davin",
+    "Zip Codes": [
+      25617
+    ]
+  },
+  {
+    "City": "Davis",
+    "Zip Codes": [
+      26260
+    ]
+  },
+  {
+    "City": "Davisville",
+    "Zip Codes": [
+      26142
+    ]
+  },
+  {
+    "City": "Davy",
+    "Zip Codes": [
+      24828
+    ]
+  },
+  {
+    "City": "Dawes",
+    "Zip Codes": [
+      25054
+    ]
+  },
+  {
+    "City": "Deep Water",
+    "Zip Codes": [
+      25057
+    ]
+  },
+  {
+    "City": "Delbarton",
+    "Zip Codes": [
+      25670
+    ]
+  },
+  {
+    "City": "Delray",
+    "Zip Codes": [
+      26714
+    ]
+  },
+  {
+    "City": "Diana",
+    "Zip Codes": [
+      26217
+    ]
+  },
+  {
+    "City": "Dille",
+    "Zip Codes": [
+      26617
+    ]
+  },
+  {
+    "City": "Dingess",
+    "Zip Codes": [
+      25671
+    ]
+  },
+  {
+    "City": "Dixie",
+    "Zip Codes": [
+      25059
+    ]
+  },
+  {
+    "City": "Dorothy",
+    "Zip Codes": [
+      25060
+    ]
+  },
+  {
+    "City": "Dry Creek",
+    "Zip Codes": [
+      25062
+    ]
+  },
+  {
+    "City": "Drybranch",
+    "Zip Codes": [
+      25061
+    ]
+  },
+  {
+    "City": "Dryfork",
+    "Zip Codes": [
+      26263
+    ]
+  },
+  {
+    "City": "Duck",
+    "Zip Codes": [
+      25063
+    ]
+  },
+  {
+    "City": "Dunbar",
+    "Zip Codes": [
+      25064
+    ]
+  },
+  {
+    "City": "Dunlow",
+    "Zip Codes": [
+      25511
+    ]
+  },
+  {
+    "City": "Dunmore",
+    "Zip Codes": [
+      24934
+    ]
+  },
+  {
+    "City": "Durbin",
+    "Zip Codes": [
+      26264
+    ]
+  },
+  {
+    "City": "East Bank",
+    "Zip Codes": [
+      25067
+    ]
+  },
+  {
+    "City": "East Lynn",
+    "Zip Codes": [
+      25512
+    ]
+  },
+  {
+    "City": "Eccles",
+    "Zip Codes": [
+      25836
+    ]
+  },
+  {
+    "City": "Edgarton",
+    "Zip Codes": [
+      25672
+    ]
+  },
+  {
+    "City": "Edmond",
+    "Zip Codes": [
+      25837
+    ]
+  },
+  {
+    "City": "Eglon",
+    "Zip Codes": [
+      26716
+    ]
+  },
+  {
+    "City": "Elbert",
+    "Zip Codes": [
+      24830
+    ]
+  },
+  {
+    "City": "Eleanor",
+    "Zip Codes": [
+      25070
+    ]
+  },
+  {
+    "City": "Elizabeth",
+    "Zip Codes": [
+      26143
+    ]
+  },
+  {
+    "City": "Elk Garden",
+    "Zip Codes": [
+      26717
+    ]
+  },
+  {
+    "City": "Elkhorn",
+    "Zip Codes": [
+      24831
+    ]
+  },
+  {
+    "City": "Elkins",
+    "Zip Codes": [
+      26241
+    ]
+  },
+  {
+    "City": "Elkview",
+    "Zip Codes": [
+      25071
+    ]
+  },
+  {
+    "City": "Ellamore",
+    "Zip Codes": [
+      26267
+    ]
+  },
+  {
+    "City": "Ellenboro",
+    "Zip Codes": [
+      26346
+    ]
+  },
+  {
+    "City": "Enterprise",
+    "Zip Codes": [
+      26568
+    ]
+  },
+  {
+    "City": "Erbacon",
+    "Zip Codes": [
+      26203
+    ]
+  },
+  {
+    "City": "Eskdale",
+    "Zip Codes": [
+      25075
+    ]
+  },
+  {
+    "City": "Ethel",
+    "Zip Codes": [
+      25076
+    ]
+  },
+  {
+    "City": "Evans",
+    "Zip Codes": [
+      25241
+    ]
+  },
+  {
+    "City": "Exchange",
+    "Zip Codes": [
+      26619
+    ]
+  },
+  {
+    "City": "Fairdale",
+    "Zip Codes": [
+      25839
+    ]
+  },
+  {
+    "City": "Fairmont",
+    "Zip Codes": [
+      26554
+    ]
+  },
+  {
+    "City": "Fairview",
+    "Zip Codes": [
+      26570
+    ]
+  },
+  {
+    "City": "Falling Waters",
+    "Zip Codes": [
+      25419
+    ]
+  },
+  {
+    "City": "Fanrock",
+    "Zip Codes": [
+      24834
+    ]
+  },
+  {
+    "City": "Farmington",
+    "Zip Codes": [
+      26571
+    ]
+  },
+  {
+    "City": "Fayetteville",
+    "Zip Codes": [
+      25840
+    ]
+  },
+  {
+    "City": "Fenwick",
+    "Zip Codes": [
+      26202
+    ]
+  },
+  {
+    "City": "Fisher",
+    "Zip Codes": [
+      26818
+    ]
+  },
+  {
+    "City": "Flat Top",
+    "Zip Codes": [
+      25841
+    ]
+  },
+  {
+    "City": "Flatwoods",
+    "Zip Codes": [
+      26621
+    ]
+  },
+  {
+    "City": "Flemington",
+    "Zip Codes": [
+      26347
+    ]
+  },
+  {
+    "City": "Follansbee",
+    "Zip Codes": [
+      26037
+    ]
+  },
+  {
+    "City": "Folsom",
+    "Zip Codes": [
+      26348
+    ]
+  },
+  {
+    "City": "Forest Hill",
+    "Zip Codes": [
+      24935
+    ]
+  },
+  {
+    "City": "Fort Ashby",
+    "Zip Codes": [
+      26719
+    ]
+  },
+  {
+    "City": "Fort Gay",
+    "Zip Codes": [
+      25514
+    ]
+  },
+  {
+    "City": "Foster",
+    "Zip Codes": [
+      25081
+    ]
+  },
+  {
+    "City": "Four States",
+    "Zip Codes": [
+      26572
+    ]
+  },
+  {
+    "City": "Frametown",
+    "Zip Codes": [
+      26623
+    ]
+  },
+  {
+    "City": "Frankford",
+    "Zip Codes": [
+      24938
+    ]
+  },
+  {
+    "City": "Franklin",
+    "Zip Codes": [
+      26807
+    ]
+  },
+  {
+    "City": "Fraziers Bottom",
+    "Zip Codes": [
+      25082
+    ]
+  },
+  {
+    "City": "Freeman",
+    "Zip Codes": [
+      24724
+    ]
+  },
+  {
+    "City": "French Creek",
+    "Zip Codes": [
+      26218
+    ]
+  },
+  {
+    "City": "Friendly",
+    "Zip Codes": [
+      26146
+    ]
+  },
+  {
+    "City": "Gallagher",
+    "Zip Codes": [
+      25083
+    ]
+  },
+  {
+    "City": "Gallipolis Ferry",
+    "Zip Codes": [
+      25515
+    ]
+  },
+  {
+    "City": "Galloway",
+    "Zip Codes": [
+      26349
+    ]
+  },
+  {
+    "City": "Gandeeville",
+    "Zip Codes": [
+      25243
+    ]
+  },
+  {
+    "City": "Gap Mills",
+    "Zip Codes": [
+      24941
+    ]
+  },
+  {
+    "City": "Gary",
+    "Zip Codes": [
+      24836
+    ]
+  },
+  {
+    "City": "Gassaway",
+    "Zip Codes": [
+      26624
+    ]
+  },
+  {
+    "City": "Gauley Bridge",
+    "Zip Codes": [
+      25085
+    ]
+  },
+  {
+    "City": "Gay",
+    "Zip Codes": [
+      25244
+    ]
+  },
+  {
+    "City": "Genoa",
+    "Zip Codes": [
+      25517
+    ]
+  },
+  {
+    "City": "Gerrardstown",
+    "Zip Codes": [
+      25420
+    ]
+  },
+  {
+    "City": "Ghent",
+    "Zip Codes": [
+      25843
+    ]
+  },
+  {
+    "City": "Gilbert",
+    "Zip Codes": [
+      25621
+    ]
+  },
+  {
+    "City": "Given",
+    "Zip Codes": [
+      25245
+    ]
+  },
+  {
+    "City": "Glady",
+    "Zip Codes": [
+      26268
+    ]
+  },
+  {
+    "City": "Glasgow",
+    "Zip Codes": [
+      25086
+    ]
+  },
+  {
+    "City": "Glen",
+    "Zip Codes": [
+      25088
+    ]
+  },
+  {
+    "City": "Glen Dale",
+    "Zip Codes": [
+      26038
+    ]
+  },
+  {
+    "City": "Glen Daniel",
+    "Zip Codes": [
+      25844
+    ]
+  },
+  {
+    "City": "Glen Easton",
+    "Zip Codes": [
+      26039
+    ]
+  },
+  {
+    "City": "Glen Ferris",
+    "Zip Codes": [
+      25090
+    ]
+  },
+  {
+    "City": "Glen Fork",
+    "Zip Codes": [
+      25845
+    ]
+  },
+  {
+    "City": "Glen Jean",
+    "Zip Codes": [
+      25846
+    ]
+  },
+  {
+    "City": "Glen Rogers",
+    "Zip Codes": [
+      25848
+    ]
+  },
+  {
+    "City": "Glen White",
+    "Zip Codes": [
+      25849
+    ]
+  },
+  {
+    "City": "Glenville",
+    "Zip Codes": [
+      26351
+    ]
+  },
+  {
+    "City": "Glenwood",
+    "Zip Codes": [
+      25520
+    ]
+  },
+  {
+    "City": "Gordon",
+    "Zip Codes": [
+      25093
+    ]
+  },
+  {
+    "City": "Gormania",
+    "Zip Codes": [
+      26720
+    ]
+  },
+  {
+    "City": "Grafton",
+    "Zip Codes": [
+      26354
+    ]
+  },
+  {
+    "City": "Grant Town",
+    "Zip Codes": [
+      26574
+    ]
+  },
+  {
+    "City": "Grantsville",
+    "Zip Codes": [
+      26147
+    ]
+  },
+  {
+    "City": "Granville",
+    "Zip Codes": [
+      26534
+    ]
+  },
+  {
+    "City": "Great Cacapon",
+    "Zip Codes": [
+      25422
+    ]
+  },
+  {
+    "City": "Green Bank",
+    "Zip Codes": [
+      24944
+    ]
+  },
+  {
+    "City": "Green Spring",
+    "Zip Codes": [
+      26722
+    ]
+  },
+  {
+    "City": "Greenville",
+    "Zip Codes": [
+      24945
+    ]
+  },
+  {
+    "City": "Griffithsville",
+    "Zip Codes": [
+      25521
+    ]
+  },
+  {
+    "City": "Gypsy",
+    "Zip Codes": [
+      26361
+    ]
+  },
+  {
+    "City": "Hacker Valley",
+    "Zip Codes": [
+      26222
+    ]
+  },
+  {
+    "City": "Hambleton",
+    "Zip Codes": [
+      26269
+    ]
+  },
+  {
+    "City": "Hamlin",
+    "Zip Codes": [
+      25523
+    ]
+  },
+  {
+    "City": "Handley",
+    "Zip Codes": [
+      25102
+    ]
+  },
+  {
+    "City": "Hanover",
+    "Zip Codes": [
+      24839
+    ]
+  },
+  {
+    "City": "Hansford",
+    "Zip Codes": [
+      25103
+    ]
+  },
+  {
+    "City": "Harman",
+    "Zip Codes": [
+      26270
+    ]
+  },
+  {
+    "City": "Harpers Ferry",
+    "Zip Codes": [
+      25425
+    ]
+  },
+  {
+    "City": "Harrisville",
+    "Zip Codes": [
+      26362
+    ]
+  },
+  {
+    "City": "Hartford",
+    "Zip Codes": [
+      25247
+    ]
+  },
+  {
+    "City": "Harts",
+    "Zip Codes": [
+      25524
+    ]
+  },
+  {
+    "City": "Haywood",
+    "Zip Codes": [
+      26366
+    ]
+  },
+  {
+    "City": "Heaters",
+    "Zip Codes": [
+      26627
+    ]
+  },
+  {
+    "City": "Hedgesville",
+    "Zip Codes": [
+      25427
+    ]
+  },
+  {
+    "City": "Helen",
+    "Zip Codes": [
+      25853
+    ]
+  },
+  {
+    "City": "Helvetia",
+    "Zip Codes": [
+      26224
+    ]
+  },
+  {
+    "City": "Henderson",
+    "Zip Codes": [
+      25106
+    ]
+  },
+  {
+    "City": "Hendricks",
+    "Zip Codes": [
+      26271
+    ]
+  },
+  {
+    "City": "Henlawson",
+    "Zip Codes": [
+      25624
+    ]
+  },
+  {
+    "City": "Hensley",
+    "Zip Codes": [
+      24843
+    ]
+  },
+  {
+    "City": "Hepzibah",
+    "Zip Codes": [
+      26369
+    ]
+  },
+  {
+    "City": "Herndon",
+    "Zip Codes": [
+      24726
+    ]
+  },
+  {
+    "City": "Hernshaw",
+    "Zip Codes": [
+      25107
+    ]
+  },
+  {
+    "City": "Hewett",
+    "Zip Codes": [
+      25108
+    ]
+  },
+  {
+    "City": "Hiawatha",
+    "Zip Codes": [
+      24729
+    ]
+  },
+  {
+    "City": "Hico",
+    "Zip Codes": [
+      25854
+    ]
+  },
+  {
+    "City": "High View",
+    "Zip Codes": [
+      26808
+    ]
+  },
+  {
+    "City": "Hillsboro",
+    "Zip Codes": [
+      24946
+    ]
+  },
+  {
+    "City": "Hilltop",
+    "Zip Codes": [
+      25855
+    ]
+  },
+  {
+    "City": "Hinton",
+    "Zip Codes": [
+      25951
+    ]
+  },
+  {
+    "City": "Holden",
+    "Zip Codes": [
+      25625
+    ]
+  },
+  {
+    "City": "Hometown",
+    "Zip Codes": [
+      25109
+    ]
+  },
+  {
+    "City": "Horner",
+    "Zip Codes": [
+      26372
+    ]
+  },
+  {
+    "City": "Hugheston",
+    "Zip Codes": [
+      25110
+    ]
+  },
+  {
+    "City": "Hundred",
+    "Zip Codes": [
+      26575
+    ]
+  },
+  {
+    "City": "Huntington",
+    "Zip Codes": [
+      25701,
+      25703,
+      25705,
+      25702,
+      25704
+    ]
+  },
+  {
+    "City": "Hurricane",
+    "Zip Codes": [
+      25526
+    ]
+  },
+  {
+    "City": "Huttonsville",
+    "Zip Codes": [
+      26273
+    ]
+  },
+  {
+    "City": "Iaeger",
+    "Zip Codes": [
+      24844
+    ]
+  },
+  {
+    "City": "Idamay",
+    "Zip Codes": [
+      26576
+    ]
+  },
+  {
+    "City": "Ikes Fork",
+    "Zip Codes": [
+      24845
+    ]
+  },
+  {
+    "City": "Independence",
+    "Zip Codes": [
+      26374
+    ]
+  },
+  {
+    "City": "Indore",
+    "Zip Codes": [
+      25111
+    ]
+  },
+  {
+    "City": "Institute",
+    "Zip Codes": [
+      25112
+    ]
+  },
+  {
+    "City": "Inwood",
+    "Zip Codes": [
+      25428
+    ]
+  },
+  {
+    "City": "Ireland",
+    "Zip Codes": [
+      26376
+    ]
+  },
+  {
+    "City": "Isaban",
+    "Zip Codes": [
+      24846
+    ]
+  },
+  {
+    "City": "Itmann",
+    "Zip Codes": [
+      24847
+    ]
+  },
+  {
+    "City": "Ivydale",
+    "Zip Codes": [
+      25113
+    ]
+  },
+  {
+    "City": "Jacksonburg",
+    "Zip Codes": [
+      26377
+    ]
+  },
+  {
+    "City": "Jane Lew",
+    "Zip Codes": [
+      26378
+    ]
+  },
+  {
+    "City": "Jeffrey",
+    "Zip Codes": [
+      25114
+    ]
+  },
+  {
+    "City": "Jenkinjones",
+    "Zip Codes": [
+      24848
+    ]
+  },
+  {
+    "City": "Jesse",
+    "Zip Codes": [
+      24849
+    ]
+  },
+  {
+    "City": "Jolo",
+    "Zip Codes": [
+      24850
+    ]
+  },
+  {
+    "City": "Josephine",
+    "Zip Codes": [
+      25857
+    ]
+  },
+  {
+    "City": "Julian",
+    "Zip Codes": [
+      25529
+    ]
+  },
+  {
+    "City": "Jumping Branch",
+    "Zip Codes": [
+      25969
+    ]
+  },
+  {
+    "City": "Junior",
+    "Zip Codes": [
+      26275
+    ]
+  },
+  {
+    "City": "Justice",
+    "Zip Codes": [
+      24851
+    ]
+  },
+  {
+    "City": "Kanawha Falls",
+    "Zip Codes": [
+      25115
+    ]
+  },
+  {
+    "City": "Kanawha Head",
+    "Zip Codes": [
+      26228
+    ]
+  },
+  {
+    "City": "Kearneysville",
+    "Zip Codes": [
+      25430
+    ]
+  },
+  {
+    "City": "Kegley",
+    "Zip Codes": [
+      24731
+    ]
+  },
+  {
+    "City": "Kenna",
+    "Zip Codes": [
+      25248
+    ]
+  },
+  {
+    "City": "Kenova",
+    "Zip Codes": [
+      25530
+    ]
+  },
+  {
+    "City": "Kerens",
+    "Zip Codes": [
+      26276
+    ]
+  },
+  {
+    "City": "Kermit",
+    "Zip Codes": [
+      25674
+    ]
+  },
+  {
+    "City": "Keyser",
+    "Zip Codes": [
+      26726
+    ]
+  },
+  {
+    "City": "Kiahsville",
+    "Zip Codes": [
+      25534
+    ]
+  },
+  {
+    "City": "Kimball",
+    "Zip Codes": [
+      24853
+    ]
+  },
+  {
+    "City": "Kimberly",
+    "Zip Codes": [
+      25118
+    ]
+  },
+  {
+    "City": "Kincaid",
+    "Zip Codes": [
+      25119
+    ]
+  },
+  {
+    "City": "Kingwood",
+    "Zip Codes": [
+      26537
+    ]
+  },
+  {
+    "City": "Kistler",
+    "Zip Codes": [
+      25628
+    ]
+  },
+  {
+    "City": "Kopperston",
+    "Zip Codes": [
+      24854
+    ]
+  },
+  {
+    "City": "Lahmansville",
+    "Zip Codes": [
+      26731
+    ]
+  },
+  {
+    "City": "Lake",
+    "Zip Codes": [
+      25121
+    ]
+  },
+  {
+    "City": "Lansing",
+    "Zip Codes": [
+      25862
+    ]
+  },
+  {
+    "City": "Lashmeet",
+    "Zip Codes": [
+      24733
+    ]
+  },
+  {
+    "City": "Lavalette",
+    "Zip Codes": [
+      25535
+    ]
+  },
+  {
+    "City": "Layland",
+    "Zip Codes": [
+      25864
+    ]
+  },
+  {
+    "City": "Le Roy",
+    "Zip Codes": [
+      25252
+    ]
+  },
+  {
+    "City": "Left Hand",
+    "Zip Codes": [
+      25251
+    ]
+  },
+  {
+    "City": "Leivasy",
+    "Zip Codes": [
+      26676
+    ]
+  },
+  {
+    "City": "Lenore",
+    "Zip Codes": [
+      25676
+    ]
+  },
+  {
+    "City": "Leon",
+    "Zip Codes": [
+      25123
+    ]
+  },
+  {
+    "City": "Lerona",
+    "Zip Codes": [
+      25971
+    ]
+  },
+  {
+    "City": "Lesage",
+    "Zip Codes": [
+      25537
+    ]
+  },
+  {
+    "City": "Leslie",
+    "Zip Codes": [
+      25972
+    ]
+  },
+  {
+    "City": "Lester",
+    "Zip Codes": [
+      25865
+    ]
+  },
+  {
+    "City": "Letart",
+    "Zip Codes": [
+      25253
+    ]
+  },
+  {
+    "City": "Levels",
+    "Zip Codes": [
+      25431
+    ]
+  },
+  {
+    "City": "Lewisburg",
+    "Zip Codes": [
+      24901
+    ]
+  },
+  {
+    "City": "Liberty",
+    "Zip Codes": [
+      25124
+    ]
+  },
+  {
+    "City": "Lindside",
+    "Zip Codes": [
+      24951
+    ]
+  },
+  {
+    "City": "Linn",
+    "Zip Codes": [
+      26384
+    ]
+  },
+  {
+    "City": "Little Birch",
+    "Zip Codes": [
+      26629
+    ]
+  },
+  {
+    "City": "Littleton",
+    "Zip Codes": [
+      26581
+    ]
+  },
+  {
+    "City": "Lizemores",
+    "Zip Codes": [
+      25125
+    ]
+  },
+  {
+    "City": "Logan",
+    "Zip Codes": [
+      25601
+    ]
+  },
+  {
+    "City": "London",
+    "Zip Codes": [
+      25126
+    ]
+  },
+  {
+    "City": "Lookout",
+    "Zip Codes": [
+      25868
+    ]
+  },
+  {
+    "City": "Looneyville",
+    "Zip Codes": [
+      25259
+    ]
+  },
+  {
+    "City": "Lorado",
+    "Zip Codes": [
+      25630
+    ]
+  },
+  {
+    "City": "Lost City",
+    "Zip Codes": [
+      26810
+    ]
+  },
+  {
+    "City": "Lost Creek",
+    "Zip Codes": [
+      26385
+    ]
+  },
+  {
+    "City": "Lumberport",
+    "Zip Codes": [
+      26386
+    ]
+  },
+  {
+    "City": "Lyburn",
+    "Zip Codes": [
+      25632
+    ]
+  },
+  {
+    "City": "Lynco",
+    "Zip Codes": [
+      24857
+    ]
+  },
+  {
+    "City": "Maben",
+    "Zip Codes": [
+      25870
+    ]
+  },
+  {
+    "City": "Mabie",
+    "Zip Codes": [
+      26278
+    ]
+  },
+  {
+    "City": "Mabscott",
+    "Zip Codes": [
+      25871
+    ]
+  },
+  {
+    "City": "MacArthur",
+    "Zip Codes": [
+      25873
+    ]
+  },
+  {
+    "City": "Macfarlan",
+    "Zip Codes": [
+      26148
+    ]
+  },
+  {
+    "City": "Madison",
+    "Zip Codes": [
+      25130
+    ]
+  },
+  {
+    "City": "Maidsville",
+    "Zip Codes": [
+      26541
+    ]
+  },
+  {
+    "City": "Mallory",
+    "Zip Codes": [
+      25634
+    ]
+  },
+  {
+    "City": "Mammoth",
+    "Zip Codes": [
+      25132
+    ]
+  },
+  {
+    "City": "Man",
+    "Zip Codes": [
+      25635
+    ]
+  },
+  {
+    "City": "Mannington",
+    "Zip Codes": [
+      26582
+    ]
+  },
+  {
+    "City": "Marlinton",
+    "Zip Codes": [
+      24954
+    ]
+  },
+  {
+    "City": "Martinsburg",
+    "Zip Codes": [
+      25404,
+      25405,
+      25403,
+      25401
+    ]
+  },
+  {
+    "City": "Mason",
+    "Zip Codes": [
+      25260
+    ]
+  },
+  {
+    "City": "Masontown",
+    "Zip Codes": [
+      26542
+    ]
+  },
+  {
+    "City": "Matewan",
+    "Zip Codes": [
+      25678
+    ]
+  },
+  {
+    "City": "Matheny",
+    "Zip Codes": [
+      24860
+    ]
+  },
+  {
+    "City": "Mathias",
+    "Zip Codes": [
+      26812
+    ]
+  },
+  {
+    "City": "Matoaka",
+    "Zip Codes": [
+      24736
+    ]
+  },
+  {
+    "City": "Maxwelton",
+    "Zip Codes": [
+      24957
+    ]
+  },
+  {
+    "City": "Maybeury",
+    "Zip Codes": [
+      24861
+    ]
+  },
+  {
+    "City": "Maysel",
+    "Zip Codes": [
+      25133
+    ]
+  },
+  {
+    "City": "Maysville",
+    "Zip Codes": [
+      26833
+    ]
+  },
+  {
+    "City": "McGraws",
+    "Zip Codes": [
+      25875
+    ]
+  },
+  {
+    "City": "Mcmechen",
+    "Zip Codes": [
+      26040
+    ]
+  },
+  {
+    "City": "Meadow Bridge",
+    "Zip Codes": [
+      25976
+    ]
+  },
+  {
+    "City": "Meadow Creek",
+    "Zip Codes": [
+      25977
+    ]
+  },
+  {
+    "City": "Meadowbrook",
+    "Zip Codes": [
+      26404
+    ]
+  },
+  {
+    "City": "Metz",
+    "Zip Codes": [
+      26585
+    ]
+  },
+  {
+    "City": "Miami",
+    "Zip Codes": [
+      25134
+    ]
+  },
+  {
+    "City": "Middlebourne",
+    "Zip Codes": [
+      26149
+    ]
+  },
+  {
+    "City": "Midkiff",
+    "Zip Codes": [
+      25540
+    ]
+  },
+  {
+    "City": "Midway",
+    "Zip Codes": [
+      25878
+    ]
+  },
+  {
+    "City": "Mill Creek",
+    "Zip Codes": [
+      26280
+    ]
+  },
+  {
+    "City": "Millstone",
+    "Zip Codes": [
+      25261
+    ]
+  },
+  {
+    "City": "Millville",
+    "Zip Codes": [
+      25432
+    ]
+  },
+  {
+    "City": "Millwood",
+    "Zip Codes": [
+      25262
+    ]
+  },
+  {
+    "City": "Milton",
+    "Zip Codes": [
+      25541
+    ]
+  },
+  {
+    "City": "Minden",
+    "Zip Codes": [
+      25879
+    ]
+  },
+  {
+    "City": "Mineral Wells",
+    "Zip Codes": [
+      26150
+    ]
+  },
+  {
+    "City": "Moatsville",
+    "Zip Codes": [
+      26405
+    ]
+  },
+  {
+    "City": "Mohawk",
+    "Zip Codes": [
+      24862
+    ]
+  },
+  {
+    "City": "Montana Mines",
+    "Zip Codes": [
+      26586
+    ]
+  },
+  {
+    "City": "Montcalm",
+    "Zip Codes": [
+      24737
+    ]
+  },
+  {
+    "City": "Monterville",
+    "Zip Codes": [
+      26282
+    ]
+  },
+  {
+    "City": "Montgomery",
+    "Zip Codes": [
+      25136
+    ]
+  },
+  {
+    "City": "Montrose",
+    "Zip Codes": [
+      26283
+    ]
+  },
+  {
+    "City": "Moorefield",
+    "Zip Codes": [
+      26836
+    ]
+  },
+  {
+    "City": "Morgantown",
+    "Zip Codes": [
+      26505,
+      26501,
+      26508
+    ]
+  },
+  {
+    "City": "Moundsville",
+    "Zip Codes": [
+      26041
+    ]
+  },
+  {
+    "City": "Mount Alto",
+    "Zip Codes": [
+      25264
+    ]
+  },
+  {
+    "City": "Mount Carbon",
+    "Zip Codes": [
+      25139
+    ]
+  },
+  {
+    "City": "Mount Clare",
+    "Zip Codes": [
+      26408
+    ]
+  },
+  {
+    "City": "Mount Gay",
+    "Zip Codes": [
+      25637
+    ]
+  },
+  {
+    "City": "Mount Hope",
+    "Zip Codes": [
+      25880
+    ]
+  },
+  {
+    "City": "Mount Lookout",
+    "Zip Codes": [
+      26678
+    ]
+  },
+  {
+    "City": "Mount Nebo",
+    "Zip Codes": [
+      26679
+    ]
+  },
+  {
+    "City": "Mount Olive",
+    "Zip Codes": [
+      25185
+    ]
+  },
+  {
+    "City": "Mount Storm",
+    "Zip Codes": [
+      26739
+    ]
+  },
+  {
+    "City": "Mount Zion",
+    "Zip Codes": [
+      26151
+    ]
+  },
+  {
+    "City": "Mullens",
+    "Zip Codes": [
+      25882
+    ]
+  },
+  {
+    "City": "Munday",
+    "Zip Codes": [
+      26152
+    ]
+  },
+  {
+    "City": "Nallen",
+    "Zip Codes": [
+      26680
+    ]
+  },
+  {
+    "City": "Naoma",
+    "Zip Codes": [
+      25140
+    ]
+  },
+  {
+    "City": "Napier",
+    "Zip Codes": [
+      26631
+    ]
+  },
+  {
+    "City": "Nebo",
+    "Zip Codes": [
+      25141
+    ]
+  },
+  {
+    "City": "Nellis",
+    "Zip Codes": [
+      25142
+    ]
+  },
+  {
+    "City": "Nemours",
+    "Zip Codes": [
+      24738
+    ]
+  },
+  {
+    "City": "Nettie",
+    "Zip Codes": [
+      26681
+    ]
+  },
+  {
+    "City": "New Creek",
+    "Zip Codes": [
+      26743
+    ]
+  },
+  {
+    "City": "New Cumberland",
+    "Zip Codes": [
+      26047
+    ]
+  },
+  {
+    "City": "New Haven",
+    "Zip Codes": [
+      25265
+    ]
+  },
+  {
+    "City": "New Manchester",
+    "Zip Codes": [
+      26056
+    ]
+  },
+  {
+    "City": "New Martinsville",
+    "Zip Codes": [
+      26155
+    ]
+  },
+  {
+    "City": "New Milton",
+    "Zip Codes": [
+      26411
+    ]
+  },
+  {
+    "City": "New Richmond",
+    "Zip Codes": [
+      24867
+    ]
+  },
+  {
+    "City": "Newburg",
+    "Zip Codes": [
+      26410
+    ]
+  },
+  {
+    "City": "Newell",
+    "Zip Codes": [
+      26050
+    ]
+  },
+  {
+    "City": "Newhall",
+    "Zip Codes": [
+      24866
+    ]
+  },
+  {
+    "City": "Newton",
+    "Zip Codes": [
+      25266
+    ]
+  },
+  {
+    "City": "Nimitz",
+    "Zip Codes": [
+      25978
+    ]
+  },
+  {
+    "City": "Nitro",
+    "Zip Codes": [
+      25143
+    ]
+  },
+  {
+    "City": "Normantown",
+    "Zip Codes": [
+      25267
+    ]
+  },
+  {
+    "City": "North Matewan",
+    "Zip Codes": [
+      25688
+    ]
+  },
+  {
+    "City": "North Spring",
+    "Zip Codes": [
+      24869
+    ]
+  },
+  {
+    "City": "Northfork",
+    "Zip Codes": [
+      24868
+    ]
+  },
+  {
+    "City": "Norton",
+    "Zip Codes": [
+      26285
+    ]
+  },
+  {
+    "City": "Oak Hill",
+    "Zip Codes": [
+      25901
+    ]
+  },
+  {
+    "City": "Oceana",
+    "Zip Codes": [
+      24870
+    ]
+  },
+  {
+    "City": "Odd",
+    "Zip Codes": [
+      25902
+    ]
+  },
+  {
+    "City": "Old Fields",
+    "Zip Codes": [
+      26845
+    ]
+  },
+  {
+    "City": "Omar",
+    "Zip Codes": [
+      25638
+    ]
+  },
+  {
+    "City": "Ona",
+    "Zip Codes": [
+      25545
+    ]
+  },
+  {
+    "City": "Orgas",
+    "Zip Codes": [
+      25148
+    ]
+  },
+  {
+    "City": "Orlando",
+    "Zip Codes": [
+      26412
+    ]
+  },
+  {
+    "City": "Orma",
+    "Zip Codes": [
+      25268
+    ]
+  },
+  {
+    "City": "Osage",
+    "Zip Codes": [
+      26543
+    ]
+  },
+  {
+    "City": "Ottawa",
+    "Zip Codes": [
+      25149
+    ]
+  },
+  {
+    "City": "Paden City",
+    "Zip Codes": [
+      26159
+    ]
+  },
+  {
+    "City": "Page",
+    "Zip Codes": [
+      25152
+    ]
+  },
+  {
+    "City": "Pageton",
+    "Zip Codes": [
+      24871
+    ]
+  },
+  {
+    "City": "Palestine",
+    "Zip Codes": [
+      26160
+    ]
+  },
+  {
+    "City": "Panther",
+    "Zip Codes": [
+      24872
+    ]
+  },
+  {
+    "City": "Parkersburg",
+    "Zip Codes": [
+      26104,
+      26101
+    ]
+  },
+  {
+    "City": "Parsons",
+    "Zip Codes": [
+      26287
+    ]
+  },
+  {
+    "City": "Paw Paw",
+    "Zip Codes": [
+      25434
+    ]
+  },
+  {
+    "City": "Pax",
+    "Zip Codes": [
+      25904
+    ]
+  },
+  {
+    "City": "Paynesville",
+    "Zip Codes": [
+      24873
+    ]
+  },
+  {
+    "City": "Peach Creek",
+    "Zip Codes": [
+      25639
+    ]
+  },
+  {
+    "City": "Pecks Mill",
+    "Zip Codes": [
+      25547
+    ]
+  },
+  {
+    "City": "Pence Springs",
+    "Zip Codes": [
+      24962
+    ]
+  },
+  {
+    "City": "Pennsboro",
+    "Zip Codes": [
+      26415
+    ]
+  },
+  {
+    "City": "Petersburg",
+    "Zip Codes": [
+      26847
+    ]
+  },
+  {
+    "City": "Peterstown",
+    "Zip Codes": [
+      24963
+    ]
+  },
+  {
+    "City": "Petroleum",
+    "Zip Codes": [
+      26161
+    ]
+  },
+  {
+    "City": "Peytona",
+    "Zip Codes": [
+      25154
+    ]
+  },
+  {
+    "City": "Philippi",
+    "Zip Codes": [
+      26416
+    ]
+  },
+  {
+    "City": "Pickens",
+    "Zip Codes": [
+      26230
+    ]
+  },
+  {
+    "City": "Piedmont",
+    "Zip Codes": [
+      26750
+    ]
+  },
+  {
+    "City": "Pinch",
+    "Zip Codes": [
+      25156
+    ]
+  },
+  {
+    "City": "Pine Grove",
+    "Zip Codes": [
+      26419
+    ]
+  },
+  {
+    "City": "Pineville",
+    "Zip Codes": [
+      24874
+    ]
+  },
+  {
+    "City": "Piney View",
+    "Zip Codes": [
+      25906
+    ]
+  },
+  {
+    "City": "Pipestem",
+    "Zip Codes": [
+      25979
+    ]
+  },
+  {
+    "City": "Poca",
+    "Zip Codes": [
+      25159
+    ]
+  },
+  {
+    "City": "Point Pleasant",
+    "Zip Codes": [
+      25550
+    ]
+  },
+  {
+    "City": "Points",
+    "Zip Codes": [
+      25437
+    ]
+  },
+  {
+    "City": "Pond Gap",
+    "Zip Codes": [
+      25160
+    ]
+  },
+  {
+    "City": "Pool",
+    "Zip Codes": [
+      26684
+    ]
+  },
+  {
+    "City": "Powellton",
+    "Zip Codes": [
+      25161
+    ]
+  },
+  {
+    "City": "Pratt",
+    "Zip Codes": [
+      25162
+    ]
+  },
+  {
+    "City": "Premier",
+    "Zip Codes": [
+      24878
+    ]
+  },
+  {
+    "City": "Prichard",
+    "Zip Codes": [
+      25555
+    ]
+  },
+  {
+    "City": "Prince",
+    "Zip Codes": [
+      25907
+    ]
+  },
+  {
+    "City": "Princeton",
+    "Zip Codes": [
+      24740
+    ]
+  },
+  {
+    "City": "Princewick",
+    "Zip Codes": [
+      25908
+    ]
+  },
+  {
+    "City": "Procious",
+    "Zip Codes": [
+      25164
+    ]
+  },
+  {
+    "City": "Proctor",
+    "Zip Codes": [
+      26055
+    ]
+  },
+  {
+    "City": "Pullman",
+    "Zip Codes": [
+      26421
+    ]
+  },
+  {
+    "City": "Purgitsville",
+    "Zip Codes": [
+      26852
+    ]
+  },
+  {
+    "City": "Quinwood",
+    "Zip Codes": [
+      25981
+    ]
+  },
+  {
+    "City": "Rachel",
+    "Zip Codes": [
+      26587
+    ]
+  },
+  {
+    "City": "Racine",
+    "Zip Codes": [
+      25165
+    ]
+  },
+  {
+    "City": "Ragland",
+    "Zip Codes": [
+      25690
+    ]
+  },
+  {
+    "City": "Rainelle",
+    "Zip Codes": [
+      25962
+    ]
+  },
+  {
+    "City": "Raleigh",
+    "Zip Codes": [
+      25911
+    ]
+  },
+  {
+    "City": "Ranger",
+    "Zip Codes": [
+      25557
+    ]
+  },
+  {
+    "City": "Ranson",
+    "Zip Codes": [
+      25438
+    ]
+  },
+  {
+    "City": "Ravencliff",
+    "Zip Codes": [
+      25913
+    ]
+  },
+  {
+    "City": "Ravenswood",
+    "Zip Codes": [
+      26164
+    ]
+  },
+  {
+    "City": "Raysal",
+    "Zip Codes": [
+      24879
+    ]
+  },
+  {
+    "City": "Reader",
+    "Zip Codes": [
+      26167
+    ]
+  },
+  {
+    "City": "Red House",
+    "Zip Codes": [
+      25168
+    ]
+  },
+  {
+    "City": "Red Jacket",
+    "Zip Codes": [
+      25692
+    ]
+  },
+  {
+    "City": "Reedsville",
+    "Zip Codes": [
+      26547
+    ]
+  },
+  {
+    "City": "Reedy",
+    "Zip Codes": [
+      25270
+    ]
+  },
+  {
+    "City": "Renick",
+    "Zip Codes": [
+      24966
+    ]
+  },
+  {
+    "City": "Reynoldsville",
+    "Zip Codes": [
+      26422
+    ]
+  },
+  {
+    "City": "Rhodell",
+    "Zip Codes": [
+      25915
+    ]
+  },
+  {
+    "City": "Richwood",
+    "Zip Codes": [
+      26261
+    ]
+  },
+  {
+    "City": "Ridgeley",
+    "Zip Codes": [
+      26753
+    ]
+  },
+  {
+    "City": "Ridgeview",
+    "Zip Codes": [
+      25169
+    ]
+  },
+  {
+    "City": "Rio",
+    "Zip Codes": [
+      26755
+    ]
+  },
+  {
+    "City": "Ripley",
+    "Zip Codes": [
+      25271
+    ]
+  },
+  {
+    "City": "Riverton",
+    "Zip Codes": [
+      26814
+    ]
+  },
+  {
+    "City": "Rivesville",
+    "Zip Codes": [
+      26588
+    ]
+  },
+  {
+    "City": "Robson",
+    "Zip Codes": [
+      25173
+    ]
+  },
+  {
+    "City": "Rock",
+    "Zip Codes": [
+      24747
+    ]
+  },
+  {
+    "City": "Rock Cave",
+    "Zip Codes": [
+      26234
+    ]
+  },
+  {
+    "City": "Rock Creek",
+    "Zip Codes": [
+      25174
+    ]
+  },
+  {
+    "City": "Rock View",
+    "Zip Codes": [
+      24880
+    ]
+  },
+  {
+    "City": "Rockport",
+    "Zip Codes": [
+      26169
+    ]
+  },
+  {
+    "City": "Roderfield",
+    "Zip Codes": [
+      24881
+    ]
+  },
+  {
+    "City": "Romney",
+    "Zip Codes": [
+      26757
+    ]
+  },
+  {
+    "City": "Ronceverte",
+    "Zip Codes": [
+      24970
+    ]
+  },
+  {
+    "City": "Rosedale",
+    "Zip Codes": [
+      26636
+    ]
+  },
+  {
+    "City": "Rosemont",
+    "Zip Codes": [
+      26424
+    ]
+  },
+  {
+    "City": "Rowlesburg",
+    "Zip Codes": [
+      26425
+    ]
+  },
+  {
+    "City": "Rupert",
+    "Zip Codes": [
+      25984
+    ]
+  },
+  {
+    "City": "Sabine",
+    "Zip Codes": [
+      25916
+    ]
+  },
+  {
+    "City": "Saint Albans",
+    "Zip Codes": [
+      25177
+    ]
+  },
+  {
+    "City": "Saint Marys",
+    "Zip Codes": [
+      26170
+    ]
+  },
+  {
+    "City": "Salem",
+    "Zip Codes": [
+      26426
+    ]
+  },
+  {
+    "City": "Salt Rock",
+    "Zip Codes": [
+      25559
+    ]
+  },
+  {
+    "City": "Sand Fork",
+    "Zip Codes": [
+      26430
+    ]
+  },
+  {
+    "City": "Sandstone",
+    "Zip Codes": [
+      25985
+    ]
+  },
+  {
+    "City": "Sandyville",
+    "Zip Codes": [
+      25275
+    ]
+  },
+  {
+    "City": "Sarah Ann",
+    "Zip Codes": [
+      25644
+    ]
+  },
+  {
+    "City": "Saulsville",
+    "Zip Codes": [
+      25876
+    ]
+  },
+  {
+    "City": "Saxon",
+    "Zip Codes": [
+      25180
+    ]
+  },
+  {
+    "City": "Scarbro",
+    "Zip Codes": [
+      25917
+    ]
+  },
+  {
+    "City": "Scott Depot",
+    "Zip Codes": [
+      25560
+    ]
+  },
+  {
+    "City": "Secondcreek",
+    "Zip Codes": [
+      24974
+    ]
+  },
+  {
+    "City": "Selbyville",
+    "Zip Codes": [
+      26236
+    ]
+  },
+  {
+    "City": "Seneca Rocks",
+    "Zip Codes": [
+      26884
+    ]
+  },
+  {
+    "City": "Seth",
+    "Zip Codes": [
+      25181
+    ]
+  },
+  {
+    "City": "Shady Spring",
+    "Zip Codes": [
+      25918
+    ]
+  },
+  {
+    "City": "Shanks",
+    "Zip Codes": [
+      26761
+    ]
+  },
+  {
+    "City": "Sharples",
+    "Zip Codes": [
+      25183
+    ]
+  },
+  {
+    "City": "Shenandoah Junction",
+    "Zip Codes": [
+      25442
+    ]
+  },
+  {
+    "City": "Shepherdstown",
+    "Zip Codes": [
+      25443
+    ]
+  },
+  {
+    "City": "Shinnston",
+    "Zip Codes": [
+      26431
+    ]
+  },
+  {
+    "City": "Shock",
+    "Zip Codes": [
+      26638
+    ]
+  },
+  {
+    "City": "Simon",
+    "Zip Codes": [
+      24882
+    ]
+  },
+  {
+    "City": "Simpson",
+    "Zip Codes": [
+      26435
+    ]
+  },
+  {
+    "City": "Sinks Grove",
+    "Zip Codes": [
+      24976
+    ]
+  },
+  {
+    "City": "Sistersville",
+    "Zip Codes": [
+      26175
+    ]
+  },
+  {
+    "City": "Slab Fork",
+    "Zip Codes": [
+      25920
+    ]
+  },
+  {
+    "City": "Slanesville",
+    "Zip Codes": [
+      25444
+    ]
+  },
+  {
+    "City": "Slatyfork",
+    "Zip Codes": [
+      26291
+    ]
+  },
+  {
+    "City": "Smithburg",
+    "Zip Codes": [
+      26436
+    ]
+  },
+  {
+    "City": "Smithers",
+    "Zip Codes": [
+      25186
+    ]
+  },
+  {
+    "City": "Smithfield",
+    "Zip Codes": [
+      26437
+    ]
+  },
+  {
+    "City": "Smithville",
+    "Zip Codes": [
+      26178
+    ]
+  },
+  {
+    "City": "Smoot",
+    "Zip Codes": [
+      24977
+    ]
+  },
+  {
+    "City": "Snowshoe",
+    "Zip Codes": [
+      26209
+    ]
+  },
+  {
+    "City": "Sod",
+    "Zip Codes": [
+      25564
+    ]
+  },
+  {
+    "City": "Sophia",
+    "Zip Codes": [
+      25921
+    ]
+  },
+  {
+    "City": "South Charleston",
+    "Zip Codes": [
+      25309,
+      25303
+    ]
+  },
+  {
+    "City": "Southside",
+    "Zip Codes": [
+      25187
+    ]
+  },
+  {
+    "City": "Spanishburg",
+    "Zip Codes": [
+      25922
+    ]
+  },
+  {
+    "City": "Spelter",
+    "Zip Codes": [
+      26438
+    ]
+  },
+  {
+    "City": "Spencer",
+    "Zip Codes": [
+      25276
+    ]
+  },
+  {
+    "City": "Springfield",
+    "Zip Codes": [
+      26763
+    ]
+  },
+  {
+    "City": "Spurlockville",
+    "Zip Codes": [
+      25565
+    ]
+  },
+  {
+    "City": "Squire",
+    "Zip Codes": [
+      24884
+    ]
+  },
+  {
+    "City": "Stephenson",
+    "Zip Codes": [
+      25928
+    ]
+  },
+  {
+    "City": "Stollings",
+    "Zip Codes": [
+      25646
+    ]
+  },
+  {
+    "City": "Sugar Grove",
+    "Zip Codes": [
+      26815
+    ]
+  },
+  {
+    "City": "Sumerco",
+    "Zip Codes": [
+      25567
+    ]
+  },
+  {
+    "City": "Summersville",
+    "Zip Codes": [
+      26651
+    ]
+  },
+  {
+    "City": "Summit Point",
+    "Zip Codes": [
+      25446
+    ]
+  },
+  {
+    "City": "Surveyor",
+    "Zip Codes": [
+      25932
+    ]
+  },
+  {
+    "City": "Sutton",
+    "Zip Codes": [
+      26601
+    ]
+  },
+  {
+    "City": "Swiss",
+    "Zip Codes": [
+      26690
+    ]
+  },
+  {
+    "City": "Switchback",
+    "Zip Codes": [
+      24887
+    ]
+  },
+  {
+    "City": "Switzer",
+    "Zip Codes": [
+      25647
+    ]
+  },
+  {
+    "City": "Sylvester",
+    "Zip Codes": [
+      25193
+    ]
+  },
+  {
+    "City": "Tad",
+    "Zip Codes": [
+      25201
+    ]
+  },
+  {
+    "City": "Talcott",
+    "Zip Codes": [
+      24981
+    ]
+  },
+  {
+    "City": "Tallmansville",
+    "Zip Codes": [
+      26237
+    ]
+  },
+  {
+    "City": "Terra Alta",
+    "Zip Codes": [
+      26764
+    ]
+  },
+  {
+    "City": "Thomas",
+    "Zip Codes": [
+      26292
+    ]
+  },
+  {
+    "City": "Thornton",
+    "Zip Codes": [
+      26440
+    ]
+  },
+  {
+    "City": "Thorpe",
+    "Zip Codes": [
+      24888
+    ]
+  },
+  {
+    "City": "Thurmond",
+    "Zip Codes": [
+      25936
+    ]
+  },
+  {
+    "City": "Tioga",
+    "Zip Codes": [
+      26691
+    ]
+  },
+  {
+    "City": "Tornado",
+    "Zip Codes": [
+      25202
+    ]
+  },
+  {
+    "City": "Triadelphia",
+    "Zip Codes": [
+      26059
+    ]
+  },
+  {
+    "City": "Troy",
+    "Zip Codes": [
+      26443
+    ]
+  },
+  {
+    "City": "Tunnelton",
+    "Zip Codes": [
+      26444
+    ]
+  },
+  {
+    "City": "Turtle Creek",
+    "Zip Codes": [
+      25203
+    ]
+  },
+  {
+    "City": "Twilight",
+    "Zip Codes": [
+      25204
+    ]
+  },
+  {
+    "City": "Uneeda",
+    "Zip Codes": [
+      25205
+    ]
+  },
+  {
+    "City": "Union",
+    "Zip Codes": [
+      24983
+    ]
+  },
+  {
+    "City": "Upper Tract",
+    "Zip Codes": [
+      26866
+    ]
+  },
+  {
+    "City": "Upperglade",
+    "Zip Codes": [
+      26266
+    ]
+  },
+  {
+    "City": "Valley Bend",
+    "Zip Codes": [
+      26293
+    ]
+  },
+  {
+    "City": "Valley Grove",
+    "Zip Codes": [
+      26060
+    ]
+  },
+  {
+    "City": "Valley Head",
+    "Zip Codes": [
+      26294
+    ]
+  },
+  {
+    "City": "Van",
+    "Zip Codes": [
+      25206
+    ]
+  },
+  {
+    "City": "Varney",
+    "Zip Codes": [
+      25696
+    ]
+  },
+  {
+    "City": "Verdunville",
+    "Zip Codes": [
+      25649
+    ]
+  },
+  {
+    "City": "Verner",
+    "Zip Codes": [
+      25650
+    ]
+  },
+  {
+    "City": "Victor",
+    "Zip Codes": [
+      25938
+    ]
+  },
+  {
+    "City": "Vienna",
+    "Zip Codes": [
+      26105
+    ]
+  },
+  {
+    "City": "Volga",
+    "Zip Codes": [
+      26238
+    ]
+  },
+  {
+    "City": "Waiteville",
+    "Zip Codes": [
+      24984
+    ]
+  },
+  {
+    "City": "Walker",
+    "Zip Codes": [
+      26180
+    ]
+  },
+  {
+    "City": "Walkersville",
+    "Zip Codes": [
+      26447
+    ]
+  },
+  {
+    "City": "Wallace",
+    "Zip Codes": [
+      26448
+    ]
+  },
+  {
+    "City": "Wallback",
+    "Zip Codes": [
+      25285
+    ]
+  },
+  {
+    "City": "Walton",
+    "Zip Codes": [
+      25286
+    ]
+  },
+  {
+    "City": "Wana",
+    "Zip Codes": [
+      26590
+    ]
+  },
+  {
+    "City": "War",
+    "Zip Codes": [
+      24892
+    ]
+  },
+  {
+    "City": "Wardensville",
+    "Zip Codes": [
+      26851
+    ]
+  },
+  {
+    "City": "Warriormine",
+    "Zip Codes": [
+      24894
+    ]
+  },
+  {
+    "City": "Washington",
+    "Zip Codes": [
+      26181
+    ]
+  },
+  {
+    "City": "Waverly",
+    "Zip Codes": [
+      26184
+    ]
+  },
+  {
+    "City": "Wayne",
+    "Zip Codes": [
+      25570
+    ]
+  },
+  {
+    "City": "Webster Springs",
+    "Zip Codes": [
+      26288
+    ]
+  },
+  {
+    "City": "Weirton",
+    "Zip Codes": [
+      26062
+    ]
+  },
+  {
+    "City": "Welch",
+    "Zip Codes": [
+      24801
+    ]
+  },
+  {
+    "City": "Wellsburg",
+    "Zip Codes": [
+      26070
+    ]
+  },
+  {
+    "City": "West Columbia",
+    "Zip Codes": [
+      25287
+    ]
+  },
+  {
+    "City": "West Hamlin",
+    "Zip Codes": [
+      25571
+    ]
+  },
+  {
+    "City": "West Liberty",
+    "Zip Codes": [
+      26074
+    ]
+  },
+  {
+    "City": "West Milford",
+    "Zip Codes": [
+      26451
+    ]
+  },
+  {
+    "City": "West Union",
+    "Zip Codes": [
+      26456
+    ]
+  },
+  {
+    "City": "Weston",
+    "Zip Codes": [
+      26452
+    ]
+  },
+  {
+    "City": "Wharncliffe",
+    "Zip Codes": [
+      25651
+    ]
+  },
+  {
+    "City": "Wharton",
+    "Zip Codes": [
+      25208
+    ]
+  },
+  {
+    "City": "Wheeling",
+    "Zip Codes": [
+      26003
+    ]
+  },
+  {
+    "City": "White Oak",
+    "Zip Codes": [
+      25989
+    ]
+  },
+  {
+    "City": "White Sulphur Springs",
+    "Zip Codes": [
+      24986
+    ]
+  },
+  {
+    "City": "Whitesville",
+    "Zip Codes": [
+      25209
+    ]
+  },
+  {
+    "City": "Whitman",
+    "Zip Codes": [
+      25652
+    ]
+  },
+  {
+    "City": "Whitmer",
+    "Zip Codes": [
+      26296
+    ]
+  },
+  {
+    "City": "Widen",
+    "Zip Codes": [
+      25211
+    ]
+  },
+  {
+    "City": "Wiley Ford",
+    "Zip Codes": [
+      26767
+    ]
+  },
+  {
+    "City": "Wilkinson",
+    "Zip Codes": [
+      25653
+    ]
+  },
+  {
+    "City": "Williamsburg",
+    "Zip Codes": [
+      24991
+    ]
+  },
+  {
+    "City": "Williamson",
+    "Zip Codes": [
+      25661
+    ]
+  },
+  {
+    "City": "Williamstown",
+    "Zip Codes": [
+      26187
+    ]
+  },
+  {
+    "City": "Wilsondale",
+    "Zip Codes": [
+      25699
+    ]
+  },
+  {
+    "City": "Windsor Heights",
+    "Zip Codes": [
+      26075
+    ]
+  },
+  {
+    "City": "Winfield",
+    "Zip Codes": [
+      25213
+    ]
+  },
+  {
+    "City": "Winifrede",
+    "Zip Codes": [
+      25214
+    ]
+  },
+  {
+    "City": "Winona",
+    "Zip Codes": [
+      25942
+    ]
+  },
+  {
+    "City": "Worthington",
+    "Zip Codes": [
+      26591
+    ]
+  },
+  {
+    "City": "Wyoming",
+    "Zip Codes": [
+      24898
+    ]
+  },
+  {
+    "City": "Yawkey",
+    "Zip Codes": [
+      25573
+    ]
+  },
+  {
+    "City": "Yellow Spring",
+    "Zip Codes": [
+      26865
+    ]
+  },
+  {
+    "City": "Yolyn",
+    "Zip Codes": [
+      25654
+    ]
+  }
+]

@@ -1,0 +1,2878 @@
+[
+  {
+    "City": "Aberdeen",
+    "Zip Codes": [
+      98520
+    ]
+  },
+  {
+    "City": "Acme",
+    "Zip Codes": [
+      98220
+    ]
+  },
+  {
+    "City": "Addy",
+    "Zip Codes": [
+      99101
+    ]
+  },
+  {
+    "City": "Airway Heights",
+    "Zip Codes": [
+      99001
+    ]
+  },
+  {
+    "City": "Albion",
+    "Zip Codes": [
+      99102
+    ]
+  },
+  {
+    "City": "Allyn",
+    "Zip Codes": [
+      98524
+    ]
+  },
+  {
+    "City": "Almira",
+    "Zip Codes": [
+      99103
+    ]
+  },
+  {
+    "City": "Amanda Park",
+    "Zip Codes": [
+      98526
+    ]
+  },
+  {
+    "City": "Amboy",
+    "Zip Codes": [
+      98601
+    ]
+  },
+  {
+    "City": "Anacortes",
+    "Zip Codes": [
+      98221
+    ]
+  },
+  {
+    "City": "Anatone",
+    "Zip Codes": [
+      99401
+    ]
+  },
+  {
+    "City": "Anderson Island",
+    "Zip Codes": [
+      98303
+    ]
+  },
+  {
+    "City": "Appleton",
+    "Zip Codes": [
+      98602
+    ]
+  },
+  {
+    "City": "Ardenvoir",
+    "Zip Codes": [
+      98811
+    ]
+  },
+  {
+    "City": "Ariel",
+    "Zip Codes": [
+      98603
+    ]
+  },
+  {
+    "City": "Arlington",
+    "Zip Codes": [
+      98223
+    ]
+  },
+  {
+    "City": "Ashford",
+    "Zip Codes": [
+      98304
+    ]
+  },
+  {
+    "City": "Asotin",
+    "Zip Codes": [
+      99402
+    ]
+  },
+  {
+    "City": "Auburn",
+    "Zip Codes": [
+      98092,
+      98002,
+      98001
+    ]
+  },
+  {
+    "City": "Bainbridge Island",
+    "Zip Codes": [
+      98110
+    ]
+  },
+  {
+    "City": "Baring",
+    "Zip Codes": [
+      98224
+    ]
+  },
+  {
+    "City": "Battle Ground",
+    "Zip Codes": [
+      98604
+    ]
+  },
+  {
+    "City": "Bay Center",
+    "Zip Codes": [
+      98527
+    ]
+  },
+  {
+    "City": "Beaver",
+    "Zip Codes": [
+      98305
+    ]
+  },
+  {
+    "City": "Belfair",
+    "Zip Codes": [
+      98528
+    ]
+  },
+  {
+    "City": "Bellevue",
+    "Zip Codes": [
+      98007,
+      98008,
+      98005,
+      98004,
+      98006
+    ]
+  },
+  {
+    "City": "Bellingham",
+    "Zip Codes": [
+      98225,
+      98226,
+      98229
+    ]
+  },
+  {
+    "City": "Benge",
+    "Zip Codes": [
+      99105
+    ]
+  },
+  {
+    "City": "Benton City",
+    "Zip Codes": [
+      99320
+    ]
+  },
+  {
+    "City": "Beverly",
+    "Zip Codes": [
+      99321
+    ]
+  },
+  {
+    "City": "Bickleton",
+    "Zip Codes": [
+      99322
+    ]
+  },
+  {
+    "City": "Bingen",
+    "Zip Codes": [
+      98605
+    ]
+  },
+  {
+    "City": "Black Diamond",
+    "Zip Codes": [
+      98010
+    ]
+  },
+  {
+    "City": "Blaine",
+    "Zip Codes": [
+      98230
+    ]
+  },
+  {
+    "City": "Blakely Island",
+    "Zip Codes": [
+      98222
+    ]
+  },
+  {
+    "City": "Bonney Lake",
+    "Zip Codes": [
+      98391
+    ]
+  },
+  {
+    "City": "Bothell",
+    "Zip Codes": [
+      98012,
+      98011,
+      98021
+    ]
+  },
+  {
+    "City": "Bow",
+    "Zip Codes": [
+      98232
+    ]
+  },
+  {
+    "City": "Bremerton",
+    "Zip Codes": [
+      98314,
+      98311,
+      98337,
+      98310,
+      98312
+    ]
+  },
+  {
+    "City": "Brewster",
+    "Zip Codes": [
+      98812
+    ]
+  },
+  {
+    "City": "Bridgeport",
+    "Zip Codes": [
+      98813
+    ]
+  },
+  {
+    "City": "Brinnon",
+    "Zip Codes": [
+      98320
+    ]
+  },
+  {
+    "City": "Brush Prairie",
+    "Zip Codes": [
+      98606
+    ]
+  },
+  {
+    "City": "Buckley",
+    "Zip Codes": [
+      98321
+    ]
+  },
+  {
+    "City": "Bucoda",
+    "Zip Codes": [
+      98530
+    ]
+  },
+  {
+    "City": "Buena",
+    "Zip Codes": [
+      98921
+    ]
+  },
+  {
+    "City": "Burbank",
+    "Zip Codes": [
+      99323
+    ]
+  },
+  {
+    "City": "Burlington",
+    "Zip Codes": [
+      98233
+    ]
+  },
+  {
+    "City": "Camano Island",
+    "Zip Codes": [
+      98282
+    ]
+  },
+  {
+    "City": "Camas",
+    "Zip Codes": [
+      98607
+    ]
+  },
+  {
+    "City": "Camp Murray",
+    "Zip Codes": [
+      98430
+    ]
+  },
+  {
+    "City": "Carbonado",
+    "Zip Codes": [
+      98323
+    ]
+  },
+  {
+    "City": "Carlton",
+    "Zip Codes": [
+      98814
+    ]
+  },
+  {
+    "City": "Carnation",
+    "Zip Codes": [
+      98014
+    ]
+  },
+  {
+    "City": "Carson",
+    "Zip Codes": [
+      98610
+    ]
+  },
+  {
+    "City": "Cashmere",
+    "Zip Codes": [
+      98815
+    ]
+  },
+  {
+    "City": "Castle Rock",
+    "Zip Codes": [
+      98611
+    ]
+  },
+  {
+    "City": "Cathlamet",
+    "Zip Codes": [
+      98612
+    ]
+  },
+  {
+    "City": "Centerville",
+    "Zip Codes": [
+      98613
+    ]
+  },
+  {
+    "City": "Centralia",
+    "Zip Codes": [
+      98531
+    ]
+  },
+  {
+    "City": "Chattaroy",
+    "Zip Codes": [
+      99003
+    ]
+  },
+  {
+    "City": "Chehalis",
+    "Zip Codes": [
+      98532
+    ]
+  },
+  {
+    "City": "Chelan",
+    "Zip Codes": [
+      98816
+    ]
+  },
+  {
+    "City": "Chelan Falls",
+    "Zip Codes": [
+      98817
+    ]
+  },
+  {
+    "City": "Cheney",
+    "Zip Codes": [
+      99004
+    ]
+  },
+  {
+    "City": "Chewelah",
+    "Zip Codes": [
+      99109
+    ]
+  },
+  {
+    "City": "Chimacum",
+    "Zip Codes": [
+      98325
+    ]
+  },
+  {
+    "City": "Chinook",
+    "Zip Codes": [
+      98614
+    ]
+  },
+  {
+    "City": "Cinebar",
+    "Zip Codes": [
+      98533
+    ]
+  },
+  {
+    "City": "Clallam Bay",
+    "Zip Codes": [
+      98326
+    ]
+  },
+  {
+    "City": "Clarkston",
+    "Zip Codes": [
+      99403
+    ]
+  },
+  {
+    "City": "Clayton",
+    "Zip Codes": [
+      99110
+    ]
+  },
+  {
+    "City": "Cle Elum",
+    "Zip Codes": [
+      98922
+    ]
+  },
+  {
+    "City": "Clearlake",
+    "Zip Codes": [
+      98235
+    ]
+  },
+  {
+    "City": "Clinton",
+    "Zip Codes": [
+      98236
+    ]
+  },
+  {
+    "City": "Colbert",
+    "Zip Codes": [
+      99005
+    ]
+  },
+  {
+    "City": "Colfax",
+    "Zip Codes": [
+      99111
+    ]
+  },
+  {
+    "City": "College Place",
+    "Zip Codes": [
+      99324
+    ]
+  },
+  {
+    "City": "Colton",
+    "Zip Codes": [
+      99113
+    ]
+  },
+  {
+    "City": "Colville",
+    "Zip Codes": [
+      99114
+    ]
+  },
+  {
+    "City": "Conconully",
+    "Zip Codes": [
+      98819
+    ]
+  },
+  {
+    "City": "Concrete",
+    "Zip Codes": [
+      98237
+    ]
+  },
+  {
+    "City": "Connell",
+    "Zip Codes": [
+      99326
+    ]
+  },
+  {
+    "City": "Conway",
+    "Zip Codes": [
+      98238
+    ]
+  },
+  {
+    "City": "Copalis Beach",
+    "Zip Codes": [
+      98535
+    ]
+  },
+  {
+    "City": "Copalis Crossing",
+    "Zip Codes": [
+      98536
+    ]
+  },
+  {
+    "City": "Cosmopolis",
+    "Zip Codes": [
+      98537
+    ]
+  },
+  {
+    "City": "Cougar",
+    "Zip Codes": [
+      98616
+    ]
+  },
+  {
+    "City": "Coulee City",
+    "Zip Codes": [
+      99115
+    ]
+  },
+  {
+    "City": "Coulee Dam",
+    "Zip Codes": [
+      99116
+    ]
+  },
+  {
+    "City": "Coupeville",
+    "Zip Codes": [
+      98239
+    ]
+  },
+  {
+    "City": "Cowiche",
+    "Zip Codes": [
+      98923
+    ]
+  },
+  {
+    "City": "Creston",
+    "Zip Codes": [
+      99117
+    ]
+  },
+  {
+    "City": "Curlew",
+    "Zip Codes": [
+      99118
+    ]
+  },
+  {
+    "City": "Curtis",
+    "Zip Codes": [
+      98538
+    ]
+  },
+  {
+    "City": "Cusick",
+    "Zip Codes": [
+      99119
+    ]
+  },
+  {
+    "City": "Custer",
+    "Zip Codes": [
+      98240
+    ]
+  },
+  {
+    "City": "Dallesport",
+    "Zip Codes": [
+      98617
+    ]
+  },
+  {
+    "City": "Danville",
+    "Zip Codes": [
+      99121
+    ]
+  },
+  {
+    "City": "Darrington",
+    "Zip Codes": [
+      98241
+    ]
+  },
+  {
+    "City": "Davenport",
+    "Zip Codes": [
+      99122
+    ]
+  },
+  {
+    "City": "Dayton",
+    "Zip Codes": [
+      99328
+    ]
+  },
+  {
+    "City": "Deer Harbor",
+    "Zip Codes": [
+      98243
+    ]
+  },
+  {
+    "City": "Deer Park",
+    "Zip Codes": [
+      99006
+    ]
+  },
+  {
+    "City": "Deming",
+    "Zip Codes": [
+      98244
+    ]
+  },
+  {
+    "City": "Dixie",
+    "Zip Codes": [
+      99329
+    ]
+  },
+  {
+    "City": "Dryden",
+    "Zip Codes": [
+      98821
+    ]
+  },
+  {
+    "City": "Dupont",
+    "Zip Codes": [
+      98327
+    ]
+  },
+  {
+    "City": "Duvall",
+    "Zip Codes": [
+      98019
+    ]
+  },
+  {
+    "City": "East Wenatchee",
+    "Zip Codes": [
+      98802
+    ]
+  },
+  {
+    "City": "Easton",
+    "Zip Codes": [
+      98925
+    ]
+  },
+  {
+    "City": "Eastsound",
+    "Zip Codes": [
+      98245
+    ]
+  },
+  {
+    "City": "Eatonville",
+    "Zip Codes": [
+      98328
+    ]
+  },
+  {
+    "City": "Edmonds",
+    "Zip Codes": [
+      98026,
+      98020
+    ]
+  },
+  {
+    "City": "Edwall",
+    "Zip Codes": [
+      99008
+    ]
+  },
+  {
+    "City": "Elbe",
+    "Zip Codes": [
+      98330
+    ]
+  },
+  {
+    "City": "Electric City",
+    "Zip Codes": [
+      99123
+    ]
+  },
+  {
+    "City": "Elk",
+    "Zip Codes": [
+      99009
+    ]
+  },
+  {
+    "City": "Ellensburg",
+    "Zip Codes": [
+      98926
+    ]
+  },
+  {
+    "City": "Elma",
+    "Zip Codes": [
+      98541
+    ]
+  },
+  {
+    "City": "Elmer City",
+    "Zip Codes": [
+      99124
+    ]
+  },
+  {
+    "City": "Eltopia",
+    "Zip Codes": [
+      99330
+    ]
+  },
+  {
+    "City": "Endicott",
+    "Zip Codes": [
+      99125
+    ]
+  },
+  {
+    "City": "Entiat",
+    "Zip Codes": [
+      98822
+    ]
+  },
+  {
+    "City": "Enumclaw",
+    "Zip Codes": [
+      98022
+    ]
+  },
+  {
+    "City": "Ephrata",
+    "Zip Codes": [
+      98823
+    ]
+  },
+  {
+    "City": "Ethel",
+    "Zip Codes": [
+      98542
+    ]
+  },
+  {
+    "City": "Evans",
+    "Zip Codes": [
+      99126
+    ]
+  },
+  {
+    "City": "Everett",
+    "Zip Codes": [
+      98208,
+      98201,
+      98204,
+      98203,
+      98207
+    ]
+  },
+  {
+    "City": "Everson",
+    "Zip Codes": [
+      98247
+    ]
+  },
+  {
+    "City": "Fairchild Air Force Base",
+    "Zip Codes": [
+      99011
+    ]
+  },
+  {
+    "City": "Fairfield",
+    "Zip Codes": [
+      99012
+    ]
+  },
+  {
+    "City": "Fall City",
+    "Zip Codes": [
+      98024
+    ]
+  },
+  {
+    "City": "Farmington",
+    "Zip Codes": [
+      99128
+    ]
+  },
+  {
+    "City": "Federal Way",
+    "Zip Codes": [
+      98023,
+      98003
+    ]
+  },
+  {
+    "City": "Ferndale",
+    "Zip Codes": [
+      98248
+    ]
+  },
+  {
+    "City": "Fife",
+    "Zip Codes": [
+      98424
+    ]
+  },
+  {
+    "City": "Ford",
+    "Zip Codes": [
+      99013
+    ]
+  },
+  {
+    "City": "Forks",
+    "Zip Codes": [
+      98331
+    ]
+  },
+  {
+    "City": "Fox Island",
+    "Zip Codes": [
+      98333
+    ]
+  },
+  {
+    "City": "Freeland",
+    "Zip Codes": [
+      98249
+    ]
+  },
+  {
+    "City": "Friday Harbor",
+    "Zip Codes": [
+      98250
+    ]
+  },
+  {
+    "City": "Fruitland",
+    "Zip Codes": [
+      99129
+    ]
+  },
+  {
+    "City": "Galvin",
+    "Zip Codes": [
+      98544
+    ]
+  },
+  {
+    "City": "Garfield",
+    "Zip Codes": [
+      99130
+    ]
+  },
+  {
+    "City": "George",
+    "Zip Codes": [
+      98824
+    ]
+  },
+  {
+    "City": "Gifford",
+    "Zip Codes": [
+      99131
+    ]
+  },
+  {
+    "City": "Gig Harbor",
+    "Zip Codes": [
+      98329,
+      98332,
+      98335
+    ]
+  },
+  {
+    "City": "Glenoma",
+    "Zip Codes": [
+      98336
+    ]
+  },
+  {
+    "City": "Glenwood",
+    "Zip Codes": [
+      98619
+    ]
+  },
+  {
+    "City": "Gold Bar",
+    "Zip Codes": [
+      98251
+    ]
+  },
+  {
+    "City": "Goldendale",
+    "Zip Codes": [
+      98620
+    ]
+  },
+  {
+    "City": "Graham",
+    "Zip Codes": [
+      98338
+    ]
+  },
+  {
+    "City": "Grand Coulee",
+    "Zip Codes": [
+      99133
+    ]
+  },
+  {
+    "City": "Grandview",
+    "Zip Codes": [
+      98930
+    ]
+  },
+  {
+    "City": "Granger",
+    "Zip Codes": [
+      98932
+    ]
+  },
+  {
+    "City": "Granite Falls",
+    "Zip Codes": [
+      98252
+    ]
+  },
+  {
+    "City": "Grapeview",
+    "Zip Codes": [
+      98546
+    ]
+  },
+  {
+    "City": "Grayland",
+    "Zip Codes": [
+      98547
+    ]
+  },
+  {
+    "City": "Grays River",
+    "Zip Codes": [
+      98621
+    ]
+  },
+  {
+    "City": "Greenacres",
+    "Zip Codes": [
+      99016
+    ]
+  },
+  {
+    "City": "Greenbank",
+    "Zip Codes": [
+      98253
+    ]
+  },
+  {
+    "City": "Hamilton",
+    "Zip Codes": [
+      98255
+    ]
+  },
+  {
+    "City": "Hansville",
+    "Zip Codes": [
+      98340
+    ]
+  },
+  {
+    "City": "Harrah",
+    "Zip Codes": [
+      98933
+    ]
+  },
+  {
+    "City": "Harrington",
+    "Zip Codes": [
+      99134
+    ]
+  },
+  {
+    "City": "Hartline",
+    "Zip Codes": [
+      99135
+    ]
+  },
+  {
+    "City": "Hay",
+    "Zip Codes": [
+      99136
+    ]
+  },
+  {
+    "City": "Hoodsport",
+    "Zip Codes": [
+      98548
+    ]
+  },
+  {
+    "City": "Hooper",
+    "Zip Codes": [
+      99333
+    ]
+  },
+  {
+    "City": "Hoquiam",
+    "Zip Codes": [
+      98550
+    ]
+  },
+  {
+    "City": "Humptulips",
+    "Zip Codes": [
+      98552
+    ]
+  },
+  {
+    "City": "Hunters",
+    "Zip Codes": [
+      99137
+    ]
+  },
+  {
+    "City": "Ilwaco",
+    "Zip Codes": [
+      98624
+    ]
+  },
+  {
+    "City": "Inchelium",
+    "Zip Codes": [
+      99138
+    ]
+  },
+  {
+    "City": "Index",
+    "Zip Codes": [
+      98256
+    ]
+  },
+  {
+    "City": "Indianola",
+    "Zip Codes": [
+      98342
+    ]
+  },
+  {
+    "City": "Ione",
+    "Zip Codes": [
+      99139
+    ]
+  },
+  {
+    "City": "Issaquah",
+    "Zip Codes": [
+      98029,
+      98027
+    ]
+  },
+  {
+    "City": "Kahlotus",
+    "Zip Codes": [
+      99335
+    ]
+  },
+  {
+    "City": "Kalama",
+    "Zip Codes": [
+      98625
+    ]
+  },
+  {
+    "City": "Keller",
+    "Zip Codes": [
+      99140
+    ]
+  },
+  {
+    "City": "Kelso",
+    "Zip Codes": [
+      98626
+    ]
+  },
+  {
+    "City": "Kenmore",
+    "Zip Codes": [
+      98028
+    ]
+  },
+  {
+    "City": "Kennewick",
+    "Zip Codes": [
+      99337,
+      99336,
+      99338
+    ]
+  },
+  {
+    "City": "Kent",
+    "Zip Codes": [
+      98030,
+      98031,
+      98032,
+      98042
+    ]
+  },
+  {
+    "City": "Kettle Falls",
+    "Zip Codes": [
+      99141
+    ]
+  },
+  {
+    "City": "Keyport",
+    "Zip Codes": [
+      98345
+    ]
+  },
+  {
+    "City": "Kingston",
+    "Zip Codes": [
+      98346
+    ]
+  },
+  {
+    "City": "Kirkland",
+    "Zip Codes": [
+      98034,
+      98033
+    ]
+  },
+  {
+    "City": "Kittitas",
+    "Zip Codes": [
+      98934
+    ]
+  },
+  {
+    "City": "Klickitat",
+    "Zip Codes": [
+      98628
+    ]
+  },
+  {
+    "City": "La Center",
+    "Zip Codes": [
+      98629
+    ]
+  },
+  {
+    "City": "La Conner",
+    "Zip Codes": [
+      98257
+    ]
+  },
+  {
+    "City": "La Push",
+    "Zip Codes": [
+      98350
+    ]
+  },
+  {
+    "City": "Lacey",
+    "Zip Codes": [
+      98503
+    ]
+  },
+  {
+    "City": "Lacrosse",
+    "Zip Codes": [
+      99143
+    ]
+  },
+  {
+    "City": "Lake Stevens",
+    "Zip Codes": [
+      98258
+    ]
+  },
+  {
+    "City": "Lakebay",
+    "Zip Codes": [
+      98349
+    ]
+  },
+  {
+    "City": "Lakewood",
+    "Zip Codes": [
+      98499,
+      98439,
+      98498
+    ]
+  },
+  {
+    "City": "Lamona",
+    "Zip Codes": [
+      99144
+    ]
+  },
+  {
+    "City": "Lamont",
+    "Zip Codes": [
+      99017
+    ]
+  },
+  {
+    "City": "Langley",
+    "Zip Codes": [
+      98260
+    ]
+  },
+  {
+    "City": "Latah",
+    "Zip Codes": [
+      99018
+    ]
+  },
+  {
+    "City": "Laurier",
+    "Zip Codes": [
+      99146
+    ]
+  },
+  {
+    "City": "Leavenworth",
+    "Zip Codes": [
+      98826
+    ]
+  },
+  {
+    "City": "Liberty Lake",
+    "Zip Codes": [
+      99019
+    ]
+  },
+  {
+    "City": "Lilliwaup",
+    "Zip Codes": [
+      98555
+    ]
+  },
+  {
+    "City": "Lincoln",
+    "Zip Codes": [
+      99147
+    ]
+  },
+  {
+    "City": "Lind",
+    "Zip Codes": [
+      99341
+    ]
+  },
+  {
+    "City": "Long Beach",
+    "Zip Codes": [
+      98631
+    ]
+  },
+  {
+    "City": "Longbranch",
+    "Zip Codes": [
+      98351
+    ]
+  },
+  {
+    "City": "Longview",
+    "Zip Codes": [
+      98632
+    ]
+  },
+  {
+    "City": "Loomis",
+    "Zip Codes": [
+      98827
+    ]
+  },
+  {
+    "City": "Loon Lake",
+    "Zip Codes": [
+      99148
+    ]
+  },
+  {
+    "City": "Lopez Island",
+    "Zip Codes": [
+      98261
+    ]
+  },
+  {
+    "City": "Lummi Island",
+    "Zip Codes": [
+      98262
+    ]
+  },
+  {
+    "City": "Lyle",
+    "Zip Codes": [
+      98635
+    ]
+  },
+  {
+    "City": "Lyman",
+    "Zip Codes": [
+      98263
+    ]
+  },
+  {
+    "City": "Lynden",
+    "Zip Codes": [
+      98264
+    ]
+  },
+  {
+    "City": "Lynnwood",
+    "Zip Codes": [
+      98037,
+      98036,
+      98087
+    ]
+  },
+  {
+    "City": "Mabton",
+    "Zip Codes": [
+      98935
+    ]
+  },
+  {
+    "City": "Malaga",
+    "Zip Codes": [
+      98828
+    ]
+  },
+  {
+    "City": "Malden",
+    "Zip Codes": [
+      99149
+    ]
+  },
+  {
+    "City": "Malo",
+    "Zip Codes": [
+      99150
+    ]
+  },
+  {
+    "City": "Malone",
+    "Zip Codes": [
+      98559
+    ]
+  },
+  {
+    "City": "Malott",
+    "Zip Codes": [
+      98829
+    ]
+  },
+  {
+    "City": "Manchester",
+    "Zip Codes": [
+      98353
+    ]
+  },
+  {
+    "City": "Mansfield",
+    "Zip Codes": [
+      98830
+    ]
+  },
+  {
+    "City": "Manson",
+    "Zip Codes": [
+      98831
+    ]
+  },
+  {
+    "City": "Maple Falls",
+    "Zip Codes": [
+      98266
+    ]
+  },
+  {
+    "City": "Maple Valley",
+    "Zip Codes": [
+      98038
+    ]
+  },
+  {
+    "City": "Marblemount",
+    "Zip Codes": [
+      98267
+    ]
+  },
+  {
+    "City": "Marcus",
+    "Zip Codes": [
+      99151
+    ]
+  },
+  {
+    "City": "Marlin",
+    "Zip Codes": [
+      98832
+    ]
+  },
+  {
+    "City": "Marshall",
+    "Zip Codes": [
+      99020
+    ]
+  },
+  {
+    "City": "Marysville",
+    "Zip Codes": [
+      98270,
+      98271
+    ]
+  },
+  {
+    "City": "Matlock",
+    "Zip Codes": [
+      98560
+    ]
+  },
+  {
+    "City": "Mattawa",
+    "Zip Codes": [
+      99349
+    ]
+  },
+  {
+    "City": "Mazama",
+    "Zip Codes": [
+      98833
+    ]
+  },
+  {
+    "City": "Mcchord Afb",
+    "Zip Codes": [
+      98438
+    ]
+  },
+  {
+    "City": "Mccleary",
+    "Zip Codes": [
+      98557
+    ]
+  },
+  {
+    "City": "Mckenna",
+    "Zip Codes": [
+      98558
+    ]
+  },
+  {
+    "City": "Mead",
+    "Zip Codes": [
+      99021
+    ]
+  },
+  {
+    "City": "Medical Lake",
+    "Zip Codes": [
+      99022
+    ]
+  },
+  {
+    "City": "Medina",
+    "Zip Codes": [
+      98039
+    ]
+  },
+  {
+    "City": "Mercer Island",
+    "Zip Codes": [
+      98040
+    ]
+  },
+  {
+    "City": "Mesa",
+    "Zip Codes": [
+      99343
+    ]
+  },
+  {
+    "City": "Metaline",
+    "Zip Codes": [
+      99152
+    ]
+  },
+  {
+    "City": "Metaline Falls",
+    "Zip Codes": [
+      99153
+    ]
+  },
+  {
+    "City": "Methow",
+    "Zip Codes": [
+      98834
+    ]
+  },
+  {
+    "City": "Mica",
+    "Zip Codes": [
+      99023
+    ]
+  },
+  {
+    "City": "Milton",
+    "Zip Codes": [
+      98354
+    ]
+  },
+  {
+    "City": "Mineral",
+    "Zip Codes": [
+      98355
+    ]
+  },
+  {
+    "City": "Moclips",
+    "Zip Codes": [
+      98562
+    ]
+  },
+  {
+    "City": "Mohler",
+    "Zip Codes": [
+      99154
+    ]
+  },
+  {
+    "City": "Monitor",
+    "Zip Codes": [
+      98836
+    ]
+  },
+  {
+    "City": "Monroe",
+    "Zip Codes": [
+      98272
+    ]
+  },
+  {
+    "City": "Montesano",
+    "Zip Codes": [
+      98563
+    ]
+  },
+  {
+    "City": "Morton",
+    "Zip Codes": [
+      98356
+    ]
+  },
+  {
+    "City": "Moses Lake",
+    "Zip Codes": [
+      98837
+    ]
+  },
+  {
+    "City": "Mossyrock",
+    "Zip Codes": [
+      98564
+    ]
+  },
+  {
+    "City": "Mount Vernon",
+    "Zip Codes": [
+      98273,
+      98274
+    ]
+  },
+  {
+    "City": "Mountlake Terrace",
+    "Zip Codes": [
+      98043
+    ]
+  },
+  {
+    "City": "Moxee",
+    "Zip Codes": [
+      98936
+    ]
+  },
+  {
+    "City": "Mukilteo",
+    "Zip Codes": [
+      98275
+    ]
+  },
+  {
+    "City": "Naches",
+    "Zip Codes": [
+      98937
+    ]
+  },
+  {
+    "City": "Napavine",
+    "Zip Codes": [
+      98565
+    ]
+  },
+  {
+    "City": "Naselle",
+    "Zip Codes": [
+      98638
+    ]
+  },
+  {
+    "City": "Neah Bay",
+    "Zip Codes": [
+      98357
+    ]
+  },
+  {
+    "City": "Nespelem",
+    "Zip Codes": [
+      99155
+    ]
+  },
+  {
+    "City": "Newman Lake",
+    "Zip Codes": [
+      99025
+    ]
+  },
+  {
+    "City": "Newport",
+    "Zip Codes": [
+      99156
+    ]
+  },
+  {
+    "City": "Nine Mile Falls",
+    "Zip Codes": [
+      99026
+    ]
+  },
+  {
+    "City": "Nooksack",
+    "Zip Codes": [
+      98276
+    ]
+  },
+  {
+    "City": "Nordland",
+    "Zip Codes": [
+      98358
+    ]
+  },
+  {
+    "City": "North Bend",
+    "Zip Codes": [
+      98045
+    ]
+  },
+  {
+    "City": "North Bonneville",
+    "Zip Codes": [
+      98639
+    ]
+  },
+  {
+    "City": "Northport",
+    "Zip Codes": [
+      99157
+    ]
+  },
+  {
+    "City": "Oak Harbor",
+    "Zip Codes": [
+      98277,
+      98278
+    ]
+  },
+  {
+    "City": "Oakesdale",
+    "Zip Codes": [
+      99158
+    ]
+  },
+  {
+    "City": "Oakville",
+    "Zip Codes": [
+      98568
+    ]
+  },
+  {
+    "City": "Ocean Park",
+    "Zip Codes": [
+      98640
+    ]
+  },
+  {
+    "City": "Ocean Shores",
+    "Zip Codes": [
+      98569
+    ]
+  },
+  {
+    "City": "Odessa",
+    "Zip Codes": [
+      99159
+    ]
+  },
+  {
+    "City": "Okanogan",
+    "Zip Codes": [
+      98840
+    ]
+  },
+  {
+    "City": "Olalla",
+    "Zip Codes": [
+      98359
+    ]
+  },
+  {
+    "City": "Olga",
+    "Zip Codes": [
+      98279
+    ]
+  },
+  {
+    "City": "Olympia",
+    "Zip Codes": [
+      98502,
+      98506,
+      98516,
+      98513,
+      98501,
+      98512
+    ]
+  },
+  {
+    "City": "Omak",
+    "Zip Codes": [
+      98841
+    ]
+  },
+  {
+    "City": "Onalaska",
+    "Zip Codes": [
+      98570
+    ]
+  },
+  {
+    "City": "Orcas",
+    "Zip Codes": [
+      98280
+    ]
+  },
+  {
+    "City": "Orient",
+    "Zip Codes": [
+      99160
+    ]
+  },
+  {
+    "City": "Orondo",
+    "Zip Codes": [
+      98843
+    ]
+  },
+  {
+    "City": "Oroville",
+    "Zip Codes": [
+      98844
+    ]
+  },
+  {
+    "City": "Orting",
+    "Zip Codes": [
+      98360
+    ]
+  },
+  {
+    "City": "Othello",
+    "Zip Codes": [
+      99344
+    ]
+  },
+  {
+    "City": "Otis Orchards",
+    "Zip Codes": [
+      99027
+    ]
+  },
+  {
+    "City": "Outlook",
+    "Zip Codes": [
+      98938
+    ]
+  },
+  {
+    "City": "Oysterville",
+    "Zip Codes": [
+      98641
+    ]
+  },
+  {
+    "City": "Pacific",
+    "Zip Codes": [
+      98047
+    ]
+  },
+  {
+    "City": "Pacific Beach",
+    "Zip Codes": [
+      98571
+    ]
+  },
+  {
+    "City": "Packwood",
+    "Zip Codes": [
+      98361
+    ]
+  },
+  {
+    "City": "Palisades",
+    "Zip Codes": [
+      98845
+    ]
+  },
+  {
+    "City": "Palouse",
+    "Zip Codes": [
+      99161
+    ]
+  },
+  {
+    "City": "Parker",
+    "Zip Codes": [
+      98939
+    ]
+  },
+  {
+    "City": "Pasco",
+    "Zip Codes": [
+      99301
+    ]
+  },
+  {
+    "City": "Pateros",
+    "Zip Codes": [
+      98846
+    ]
+  },
+  {
+    "City": "Paterson",
+    "Zip Codes": [
+      99345
+    ]
+  },
+  {
+    "City": "Pe Ell",
+    "Zip Codes": [
+      98572
+    ]
+  },
+  {
+    "City": "Peshastin",
+    "Zip Codes": [
+      98847
+    ]
+  },
+  {
+    "City": "Plymouth",
+    "Zip Codes": [
+      99346
+    ]
+  },
+  {
+    "City": "Point Roberts",
+    "Zip Codes": [
+      98281
+    ]
+  },
+  {
+    "City": "Pomeroy",
+    "Zip Codes": [
+      99347
+    ]
+  },
+  {
+    "City": "Port Angeles",
+    "Zip Codes": [
+      98362,
+      98363
+    ]
+  },
+  {
+    "City": "Port Gamble",
+    "Zip Codes": [
+      98364
+    ]
+  },
+  {
+    "City": "Port Hadlock",
+    "Zip Codes": [
+      98339
+    ]
+  },
+  {
+    "City": "Port Ludlow",
+    "Zip Codes": [
+      98365
+    ]
+  },
+  {
+    "City": "Port Orchard",
+    "Zip Codes": [
+      98367,
+      98366
+    ]
+  },
+  {
+    "City": "Port Townsend",
+    "Zip Codes": [
+      98368
+    ]
+  },
+  {
+    "City": "Poulsbo",
+    "Zip Codes": [
+      98370
+    ]
+  },
+  {
+    "City": "Prescott",
+    "Zip Codes": [
+      99348
+    ]
+  },
+  {
+    "City": "Preston",
+    "Zip Codes": [
+      98050
+    ]
+  },
+  {
+    "City": "Prosser",
+    "Zip Codes": [
+      99350
+    ]
+  },
+  {
+    "City": "Pullman",
+    "Zip Codes": [
+      99163,
+      99164
+    ]
+  },
+  {
+    "City": "Puyallup",
+    "Zip Codes": [
+      98374,
+      98373,
+      98371,
+      98372,
+      98375
+    ]
+  },
+  {
+    "City": "Quilcene",
+    "Zip Codes": [
+      98376
+    ]
+  },
+  {
+    "City": "Quinault",
+    "Zip Codes": [
+      98575
+    ]
+  },
+  {
+    "City": "Quincy",
+    "Zip Codes": [
+      98848
+    ]
+  },
+  {
+    "City": "Rainier",
+    "Zip Codes": [
+      98576
+    ]
+  },
+  {
+    "City": "Randle",
+    "Zip Codes": [
+      98377
+    ]
+  },
+  {
+    "City": "Ravensdale",
+    "Zip Codes": [
+      98051
+    ]
+  },
+  {
+    "City": "Raymond",
+    "Zip Codes": [
+      98577
+    ]
+  },
+  {
+    "City": "Reardan",
+    "Zip Codes": [
+      99029
+    ]
+  },
+  {
+    "City": "Redmond",
+    "Zip Codes": [
+      98053,
+      98052
+    ]
+  },
+  {
+    "City": "Renton",
+    "Zip Codes": [
+      98059,
+      98058,
+      98056,
+      98055,
+      98057
+    ]
+  },
+  {
+    "City": "Republic",
+    "Zip Codes": [
+      99166
+    ]
+  },
+  {
+    "City": "Rice",
+    "Zip Codes": [
+      99167
+    ]
+  },
+  {
+    "City": "Richland",
+    "Zip Codes": [
+      99352,
+      99354
+    ]
+  },
+  {
+    "City": "Ridgefield",
+    "Zip Codes": [
+      98642
+    ]
+  },
+  {
+    "City": "Ritzville",
+    "Zip Codes": [
+      99169
+    ]
+  },
+  {
+    "City": "Riverside",
+    "Zip Codes": [
+      98849
+    ]
+  },
+  {
+    "City": "Rochester",
+    "Zip Codes": [
+      98579
+    ]
+  },
+  {
+    "City": "Rock Island",
+    "Zip Codes": [
+      98850
+    ]
+  },
+  {
+    "City": "Rockford",
+    "Zip Codes": [
+      99030
+    ]
+  },
+  {
+    "City": "Rockport",
+    "Zip Codes": [
+      98283
+    ]
+  },
+  {
+    "City": "Ronald",
+    "Zip Codes": [
+      98940
+    ]
+  },
+  {
+    "City": "Roosevelt",
+    "Zip Codes": [
+      99356
+    ]
+  },
+  {
+    "City": "Rosalia",
+    "Zip Codes": [
+      99170
+    ]
+  },
+  {
+    "City": "Rosburg",
+    "Zip Codes": [
+      98643
+    ]
+  },
+  {
+    "City": "Roslyn",
+    "Zip Codes": [
+      98941
+    ]
+  },
+  {
+    "City": "Roy",
+    "Zip Codes": [
+      98580
+    ]
+  },
+  {
+    "City": "Royal City",
+    "Zip Codes": [
+      99357
+    ]
+  },
+  {
+    "City": "Ryderwood",
+    "Zip Codes": [
+      98581
+    ]
+  },
+  {
+    "City": "Saint John",
+    "Zip Codes": [
+      99171
+    ]
+  },
+  {
+    "City": "Salkum",
+    "Zip Codes": [
+      98582
+    ]
+  },
+  {
+    "City": "Sammamish",
+    "Zip Codes": [
+      98074,
+      98075
+    ]
+  },
+  {
+    "City": "Satsop",
+    "Zip Codes": [
+      98583
+    ]
+  },
+  {
+    "City": "Seabeck",
+    "Zip Codes": [
+      98380
+    ]
+  },
+  {
+    "City": "Seattle",
+    "Zip Codes": [
+      98154,
+      98103,
+      98125,
+      98174,
+      98107,
+      98164,
+      98188,
+      98118,
+      98109,
+      98178,
+      98134,
+      98102,
+      98106,
+      98112,
+      98195,
+      98198,
+      98177,
+      98136,
+      98104,
+      98133,
+      98146,
+      98115,
+      98155,
+      98121,
+      98144,
+      98117,
+      98101,
+      98158,
+      98119,
+      98126,
+      98122,
+      98148,
+      98199,
+      98166,
+      98108,
+      98168,
+      98105,
+      98116
+    ]
+  },
+  {
+    "City": "Seaview",
+    "Zip Codes": [
+      98644
+    ]
+  },
+  {
+    "City": "Sedro Woolley",
+    "Zip Codes": [
+      98284
+    ]
+  },
+  {
+    "City": "Sekiu",
+    "Zip Codes": [
+      98381
+    ]
+  },
+  {
+    "City": "Selah",
+    "Zip Codes": [
+      98942
+    ]
+  },
+  {
+    "City": "Sequim",
+    "Zip Codes": [
+      98382
+    ]
+  },
+  {
+    "City": "Shaw Island",
+    "Zip Codes": [
+      98286
+    ]
+  },
+  {
+    "City": "Shelton",
+    "Zip Codes": [
+      98584
+    ]
+  },
+  {
+    "City": "Silver Creek",
+    "Zip Codes": [
+      98585
+    ]
+  },
+  {
+    "City": "Silverdale",
+    "Zip Codes": [
+      98383,
+      98315
+    ]
+  },
+  {
+    "City": "Silverlake",
+    "Zip Codes": [
+      98645
+    ]
+  },
+  {
+    "City": "Skamokawa",
+    "Zip Codes": [
+      98647
+    ]
+  },
+  {
+    "City": "Skykomish",
+    "Zip Codes": [
+      98288
+    ]
+  },
+  {
+    "City": "Snohomish",
+    "Zip Codes": [
+      98290,
+      98296
+    ]
+  },
+  {
+    "City": "Snoqualmie",
+    "Zip Codes": [
+      98065
+    ]
+  },
+  {
+    "City": "Snoqualmie Pass",
+    "Zip Codes": [
+      98068
+    ]
+  },
+  {
+    "City": "Soap Lake",
+    "Zip Codes": [
+      98851
+    ]
+  },
+  {
+    "City": "South Bend",
+    "Zip Codes": [
+      98586
+    ]
+  },
+  {
+    "City": "South Cle Elum",
+    "Zip Codes": [
+      98943
+    ]
+  },
+  {
+    "City": "South Prairie",
+    "Zip Codes": [
+      98385
+    ]
+  },
+  {
+    "City": "Spanaway",
+    "Zip Codes": [
+      98387
+    ]
+  },
+  {
+    "City": "Spangle",
+    "Zip Codes": [
+      99031
+    ]
+  },
+  {
+    "City": "Spokane",
+    "Zip Codes": [
+      99203,
+      99217,
+      99223,
+      99205,
+      99212,
+      99208,
+      99202,
+      99204,
+      99201,
+      99216,
+      99218,
+      99206,
+      99207,
+      99224
+    ]
+  },
+  {
+    "City": "Sprague",
+    "Zip Codes": [
+      99032
+    ]
+  },
+  {
+    "City": "Springdale",
+    "Zip Codes": [
+      99173
+    ]
+  },
+  {
+    "City": "Stanwood",
+    "Zip Codes": [
+      98292
+    ]
+  },
+  {
+    "City": "Starbuck",
+    "Zip Codes": [
+      99359
+    ]
+  },
+  {
+    "City": "Stehekin",
+    "Zip Codes": [
+      98852
+    ]
+  },
+  {
+    "City": "Steilacoom",
+    "Zip Codes": [
+      98388
+    ]
+  },
+  {
+    "City": "Steptoe",
+    "Zip Codes": [
+      99174
+    ]
+  },
+  {
+    "City": "Stevenson",
+    "Zip Codes": [
+      98648
+    ]
+  },
+  {
+    "City": "Stratford",
+    "Zip Codes": [
+      98853
+    ]
+  },
+  {
+    "City": "Sultan",
+    "Zip Codes": [
+      98294
+    ]
+  },
+  {
+    "City": "Sumas",
+    "Zip Codes": [
+      98295
+    ]
+  },
+  {
+    "City": "Sumner",
+    "Zip Codes": [
+      98390
+    ]
+  },
+  {
+    "City": "Sunnyside",
+    "Zip Codes": [
+      98944
+    ]
+  },
+  {
+    "City": "Suquamish",
+    "Zip Codes": [
+      98392
+    ]
+  },
+  {
+    "City": "Tacoma",
+    "Zip Codes": [
+      98405,
+      98404,
+      98402,
+      98406,
+      98408,
+      98433,
+      98446,
+      98421,
+      98447,
+      98422,
+      98465,
+      98416,
+      98407,
+      98409,
+      98445,
+      98418,
+      98443,
+      98403,
+      98466,
+      98444
+    ]
+  },
+  {
+    "City": "Taholah",
+    "Zip Codes": [
+      98587
+    ]
+  },
+  {
+    "City": "Tahuya",
+    "Zip Codes": [
+      98588
+    ]
+  },
+  {
+    "City": "Tekoa",
+    "Zip Codes": [
+      99033
+    ]
+  },
+  {
+    "City": "Tenino",
+    "Zip Codes": [
+      98589
+    ]
+  },
+  {
+    "City": "Thornton",
+    "Zip Codes": [
+      99176
+    ]
+  },
+  {
+    "City": "Thorp",
+    "Zip Codes": [
+      98946
+    ]
+  },
+  {
+    "City": "Tieton",
+    "Zip Codes": [
+      98947
+    ]
+  },
+  {
+    "City": "Tokeland",
+    "Zip Codes": [
+      98590
+    ]
+  },
+  {
+    "City": "Toledo",
+    "Zip Codes": [
+      98591
+    ]
+  },
+  {
+    "City": "Tonasket",
+    "Zip Codes": [
+      98855
+    ]
+  },
+  {
+    "City": "Toppenish",
+    "Zip Codes": [
+      98948
+    ]
+  },
+  {
+    "City": "Touchet",
+    "Zip Codes": [
+      99360
+    ]
+  },
+  {
+    "City": "Toutle",
+    "Zip Codes": [
+      98649
+    ]
+  },
+  {
+    "City": "Trout Lake",
+    "Zip Codes": [
+      98650
+    ]
+  },
+  {
+    "City": "Tumtum",
+    "Zip Codes": [
+      99034
+    ]
+  },
+  {
+    "City": "Twisp",
+    "Zip Codes": [
+      98856
+    ]
+  },
+  {
+    "City": "Underwood",
+    "Zip Codes": [
+      98651
+    ]
+  },
+  {
+    "City": "Union",
+    "Zip Codes": [
+      98592
+    ]
+  },
+  {
+    "City": "Uniontown",
+    "Zip Codes": [
+      99179
+    ]
+  },
+  {
+    "City": "University Place",
+    "Zip Codes": [
+      98467
+    ]
+  },
+  {
+    "City": "Usk",
+    "Zip Codes": [
+      99180
+    ]
+  },
+  {
+    "City": "Vader",
+    "Zip Codes": [
+      98593
+    ]
+  },
+  {
+    "City": "Valley",
+    "Zip Codes": [
+      99181
+    ]
+  },
+  {
+    "City": "Valleyford",
+    "Zip Codes": [
+      99036
+    ]
+  },
+  {
+    "City": "Vancouver",
+    "Zip Codes": [
+      98663,
+      98664,
+      98686,
+      98660,
+      98682,
+      98684,
+      98685,
+      98683,
+      98661,
+      98662,
+      98665
+    ]
+  },
+  {
+    "City": "Vantage",
+    "Zip Codes": [
+      98950
+    ]
+  },
+  {
+    "City": "Vashon",
+    "Zip Codes": [
+      98070
+    ]
+  },
+  {
+    "City": "Vaughn",
+    "Zip Codes": [
+      98394
+    ]
+  },
+  {
+    "City": "Veradale",
+    "Zip Codes": [
+      99037
+    ]
+  },
+  {
+    "City": "Wahkiacus",
+    "Zip Codes": [
+      98670
+    ]
+  },
+  {
+    "City": "Waitsburg",
+    "Zip Codes": [
+      99361
+    ]
+  },
+  {
+    "City": "Waldron",
+    "Zip Codes": [
+      98297
+    ]
+  },
+  {
+    "City": "Walla Walla",
+    "Zip Codes": [
+      99362
+    ]
+  },
+  {
+    "City": "Wallula",
+    "Zip Codes": [
+      99363
+    ]
+  },
+  {
+    "City": "Wapato",
+    "Zip Codes": [
+      98951
+    ]
+  },
+  {
+    "City": "Warden",
+    "Zip Codes": [
+      98857
+    ]
+  },
+  {
+    "City": "Washougal",
+    "Zip Codes": [
+      98671
+    ]
+  },
+  {
+    "City": "Washtucna",
+    "Zip Codes": [
+      99371
+    ]
+  },
+  {
+    "City": "Waterville",
+    "Zip Codes": [
+      98858
+    ]
+  },
+  {
+    "City": "Wauconda",
+    "Zip Codes": [
+      98859
+    ]
+  },
+  {
+    "City": "Waverly",
+    "Zip Codes": [
+      99039
+    ]
+  },
+  {
+    "City": "Wellpinit",
+    "Zip Codes": [
+      99040
+    ]
+  },
+  {
+    "City": "Wenatchee",
+    "Zip Codes": [
+      98801
+    ]
+  },
+  {
+    "City": "West Richland",
+    "Zip Codes": [
+      99353
+    ]
+  },
+  {
+    "City": "Westport",
+    "Zip Codes": [
+      98595
+    ]
+  },
+  {
+    "City": "White Salmon",
+    "Zip Codes": [
+      98672
+    ]
+  },
+  {
+    "City": "White Swan",
+    "Zip Codes": [
+      98952
+    ]
+  },
+  {
+    "City": "Wilbur",
+    "Zip Codes": [
+      99185
+    ]
+  },
+  {
+    "City": "Wilkeson",
+    "Zip Codes": [
+      98396
+    ]
+  },
+  {
+    "City": "Wilson Creek",
+    "Zip Codes": [
+      98860
+    ]
+  },
+  {
+    "City": "Winlock",
+    "Zip Codes": [
+      98596
+    ]
+  },
+  {
+    "City": "Winthrop",
+    "Zip Codes": [
+      98862
+    ]
+  },
+  {
+    "City": "Wishram",
+    "Zip Codes": [
+      98673
+    ]
+  },
+  {
+    "City": "Woodinville",
+    "Zip Codes": [
+      98077,
+      98072
+    ]
+  },
+  {
+    "City": "Woodland",
+    "Zip Codes": [
+      98674
+    ]
+  },
+  {
+    "City": "Yacolt",
+    "Zip Codes": [
+      98675
+    ]
+  },
+  {
+    "City": "Yakima",
+    "Zip Codes": [
+      98903,
+      98908,
+      98902,
+      98901
+    ]
+  },
+  {
+    "City": "Yelm",
+    "Zip Codes": [
+      98597
+    ]
+  },
+  {
+    "City": "Zillah",
+    "Zip Codes": [
+      98953
+    ]
+  }
+]

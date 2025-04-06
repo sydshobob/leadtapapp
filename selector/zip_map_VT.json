@@ -1,0 +1,1512 @@
+[
+  {
+    "City": "Adamant",
+    "Zip Codes": [
+      5640
+    ]
+  },
+  {
+    "City": "Albany",
+    "Zip Codes": [
+      5820
+    ]
+  },
+  {
+    "City": "Alburgh",
+    "Zip Codes": [
+      5440
+    ]
+  },
+  {
+    "City": "Arlington",
+    "Zip Codes": [
+      5250
+    ]
+  },
+  {
+    "City": "Averill",
+    "Zip Codes": [
+      5901
+    ]
+  },
+  {
+    "City": "Bakersfield",
+    "Zip Codes": [
+      5441
+    ]
+  },
+  {
+    "City": "Barnard",
+    "Zip Codes": [
+      5031
+    ]
+  },
+  {
+    "City": "Barnet",
+    "Zip Codes": [
+      5821
+    ]
+  },
+  {
+    "City": "Barre",
+    "Zip Codes": [
+      5641
+    ]
+  },
+  {
+    "City": "Barton",
+    "Zip Codes": [
+      5875,
+      5822
+    ]
+  },
+  {
+    "City": "Beecher Falls",
+    "Zip Codes": [
+      5902
+    ]
+  },
+  {
+    "City": "Bellows Falls",
+    "Zip Codes": [
+      5101
+    ]
+  },
+  {
+    "City": "Belmont",
+    "Zip Codes": [
+      5730
+    ]
+  },
+  {
+    "City": "Belvidere Center",
+    "Zip Codes": [
+      5442
+    ]
+  },
+  {
+    "City": "Bennington",
+    "Zip Codes": [
+      5201
+    ]
+  },
+  {
+    "City": "Bethel",
+    "Zip Codes": [
+      5032
+    ]
+  },
+  {
+    "City": "Bomoseen",
+    "Zip Codes": [
+      5732
+    ]
+  },
+  {
+    "City": "Bondville",
+    "Zip Codes": [
+      5340
+    ]
+  },
+  {
+    "City": "Bradford",
+    "Zip Codes": [
+      5033
+    ]
+  },
+  {
+    "City": "Brandon",
+    "Zip Codes": [
+      5733
+    ]
+  },
+  {
+    "City": "Brattleboro",
+    "Zip Codes": [
+      5301
+    ]
+  },
+  {
+    "City": "Bridgewater",
+    "Zip Codes": [
+      5034
+    ]
+  },
+  {
+    "City": "Bridgewater Corners",
+    "Zip Codes": [
+      5035
+    ]
+  },
+  {
+    "City": "Bridport",
+    "Zip Codes": [
+      5734
+    ]
+  },
+  {
+    "City": "Bristol",
+    "Zip Codes": [
+      5443
+    ]
+  },
+  {
+    "City": "Brookfield",
+    "Zip Codes": [
+      5036
+    ]
+  },
+  {
+    "City": "Brownsville",
+    "Zip Codes": [
+      5037
+    ]
+  },
+  {
+    "City": "Burlington",
+    "Zip Codes": [
+      5408,
+      5401,
+      5405
+    ]
+  },
+  {
+    "City": "Cabot",
+    "Zip Codes": [
+      5647
+    ]
+  },
+  {
+    "City": "Calais",
+    "Zip Codes": [
+      5648
+    ]
+  },
+  {
+    "City": "Cambridge",
+    "Zip Codes": [
+      5444
+    ]
+  },
+  {
+    "City": "Cambridgeport",
+    "Zip Codes": [
+      5141
+    ]
+  },
+  {
+    "City": "Canaan",
+    "Zip Codes": [
+      5903
+    ]
+  },
+  {
+    "City": "Castleton",
+    "Zip Codes": [
+      5735
+    ]
+  },
+  {
+    "City": "Cavendish",
+    "Zip Codes": [
+      5142
+    ]
+  },
+  {
+    "City": "Center Rutland",
+    "Zip Codes": [
+      5736
+    ]
+  },
+  {
+    "City": "Charlotte",
+    "Zip Codes": [
+      5445
+    ]
+  },
+  {
+    "City": "Chelsea",
+    "Zip Codes": [
+      5038
+    ]
+  },
+  {
+    "City": "Chester",
+    "Zip Codes": [
+      5143
+    ]
+  },
+  {
+    "City": "Chittenden",
+    "Zip Codes": [
+      5737
+    ]
+  },
+  {
+    "City": "Colchester",
+    "Zip Codes": [
+      5439,
+      5446
+    ]
+  },
+  {
+    "City": "Concord",
+    "Zip Codes": [
+      5824
+    ]
+  },
+  {
+    "City": "Corinth",
+    "Zip Codes": [
+      5039
+    ]
+  },
+  {
+    "City": "Coventry",
+    "Zip Codes": [
+      5825
+    ]
+  },
+  {
+    "City": "Craftsbury",
+    "Zip Codes": [
+      5826
+    ]
+  },
+  {
+    "City": "Craftsbury Common",
+    "Zip Codes": [
+      5827
+    ]
+  },
+  {
+    "City": "Cuttingsville",
+    "Zip Codes": [
+      5738
+    ]
+  },
+  {
+    "City": "Danby",
+    "Zip Codes": [
+      5739
+    ]
+  },
+  {
+    "City": "Danville",
+    "Zip Codes": [
+      5828
+    ]
+  },
+  {
+    "City": "Derby",
+    "Zip Codes": [
+      5829
+    ]
+  },
+  {
+    "City": "Derby Line",
+    "Zip Codes": [
+      5830
+    ]
+  },
+  {
+    "City": "Dorset",
+    "Zip Codes": [
+      5251
+    ]
+  },
+  {
+    "City": "East Arlington",
+    "Zip Codes": [
+      5252
+    ]
+  },
+  {
+    "City": "East Barre",
+    "Zip Codes": [
+      5649
+    ]
+  },
+  {
+    "City": "East Berkshire",
+    "Zip Codes": [
+      5447
+    ]
+  },
+  {
+    "City": "East Burke",
+    "Zip Codes": [
+      5832
+    ]
+  },
+  {
+    "City": "East Calais",
+    "Zip Codes": [
+      5650
+    ]
+  },
+  {
+    "City": "East Charleston",
+    "Zip Codes": [
+      5833
+    ]
+  },
+  {
+    "City": "East Corinth",
+    "Zip Codes": [
+      5040
+    ]
+  },
+  {
+    "City": "East Dorset",
+    "Zip Codes": [
+      5253
+    ]
+  },
+  {
+    "City": "East Dover",
+    "Zip Codes": [
+      5341
+    ]
+  },
+  {
+    "City": "East Fairfield",
+    "Zip Codes": [
+      5448
+    ]
+  },
+  {
+    "City": "East Hardwick",
+    "Zip Codes": [
+      5836
+    ]
+  },
+  {
+    "City": "East Haven",
+    "Zip Codes": [
+      5837
+    ]
+  },
+  {
+    "City": "East Middlebury",
+    "Zip Codes": [
+      5740
+    ]
+  },
+  {
+    "City": "East Montpelier",
+    "Zip Codes": [
+      5651
+    ]
+  },
+  {
+    "City": "East Randolph",
+    "Zip Codes": [
+      5041
+    ]
+  },
+  {
+    "City": "East Ryegate",
+    "Zip Codes": [
+      5042
+    ]
+  },
+  {
+    "City": "East Thetford",
+    "Zip Codes": [
+      5043
+    ]
+  },
+  {
+    "City": "East Wallingford",
+    "Zip Codes": [
+      5742
+    ]
+  },
+  {
+    "City": "Eden",
+    "Zip Codes": [
+      5652
+    ]
+  },
+  {
+    "City": "Eden Mills",
+    "Zip Codes": [
+      5653
+    ]
+  },
+  {
+    "City": "Enosburg Falls",
+    "Zip Codes": [
+      5450
+    ]
+  },
+  {
+    "City": "Essex Junction",
+    "Zip Codes": [
+      5452
+    ]
+  },
+  {
+    "City": "Fair Haven",
+    "Zip Codes": [
+      5743
+    ]
+  },
+  {
+    "City": "Fairfax",
+    "Zip Codes": [
+      5454
+    ]
+  },
+  {
+    "City": "Fairfield",
+    "Zip Codes": [
+      5455
+    ]
+  },
+  {
+    "City": "Fairlee",
+    "Zip Codes": [
+      5045
+    ]
+  },
+  {
+    "City": "Ferrisburgh",
+    "Zip Codes": [
+      5456
+    ]
+  },
+  {
+    "City": "Florence",
+    "Zip Codes": [
+      5744
+    ]
+  },
+  {
+    "City": "Franklin",
+    "Zip Codes": [
+      5457
+    ]
+  },
+  {
+    "City": "Gilman",
+    "Zip Codes": [
+      5904
+    ]
+  },
+  {
+    "City": "Glover",
+    "Zip Codes": [
+      5839
+    ]
+  },
+  {
+    "City": "Grafton",
+    "Zip Codes": [
+      5146
+    ]
+  },
+  {
+    "City": "Grand Isle",
+    "Zip Codes": [
+      5458
+    ]
+  },
+  {
+    "City": "Graniteville",
+    "Zip Codes": [
+      5654
+    ]
+  },
+  {
+    "City": "Granville",
+    "Zip Codes": [
+      5747
+    ]
+  },
+  {
+    "City": "Greensboro",
+    "Zip Codes": [
+      5841
+    ]
+  },
+  {
+    "City": "Greensboro Bend",
+    "Zip Codes": [
+      5842
+    ]
+  },
+  {
+    "City": "Groton",
+    "Zip Codes": [
+      5046
+    ]
+  },
+  {
+    "City": "Guildhall",
+    "Zip Codes": [
+      5905
+    ]
+  },
+  {
+    "City": "Hancock",
+    "Zip Codes": [
+      5748
+    ]
+  },
+  {
+    "City": "Hardwick",
+    "Zip Codes": [
+      5843
+    ]
+  },
+  {
+    "City": "Hartland",
+    "Zip Codes": [
+      5048
+    ]
+  },
+  {
+    "City": "Highgate Center",
+    "Zip Codes": [
+      5459
+    ]
+  },
+  {
+    "City": "Hinesburg",
+    "Zip Codes": [
+      5461
+    ]
+  },
+  {
+    "City": "Huntington",
+    "Zip Codes": [
+      5462
+    ]
+  },
+  {
+    "City": "Hyde Park",
+    "Zip Codes": [
+      5655
+    ]
+  },
+  {
+    "City": "Irasburg",
+    "Zip Codes": [
+      5845
+    ]
+  },
+  {
+    "City": "Island Pond",
+    "Zip Codes": [
+      5846
+    ]
+  },
+  {
+    "City": "Isle La Motte",
+    "Zip Codes": [
+      5463
+    ]
+  },
+  {
+    "City": "Jacksonville",
+    "Zip Codes": [
+      5342
+    ]
+  },
+  {
+    "City": "Jamaica",
+    "Zip Codes": [
+      5343
+    ]
+  },
+  {
+    "City": "Jeffersonville",
+    "Zip Codes": [
+      5464
+    ]
+  },
+  {
+    "City": "Jericho",
+    "Zip Codes": [
+      5465
+    ]
+  },
+  {
+    "City": "Johnson",
+    "Zip Codes": [
+      5656
+    ]
+  },
+  {
+    "City": "Killington",
+    "Zip Codes": [
+      5751
+    ]
+  },
+  {
+    "City": "Lake Elmore",
+    "Zip Codes": [
+      5657
+    ]
+  },
+  {
+    "City": "Londonderry",
+    "Zip Codes": [
+      5148
+    ]
+  },
+  {
+    "City": "Lowell",
+    "Zip Codes": [
+      5847
+    ]
+  },
+  {
+    "City": "Ludlow",
+    "Zip Codes": [
+      5149
+    ]
+  },
+  {
+    "City": "Lunenburg",
+    "Zip Codes": [
+      5906
+    ]
+  },
+  {
+    "City": "Lyndon Center",
+    "Zip Codes": [
+      5850
+    ]
+  },
+  {
+    "City": "Lyndonville",
+    "Zip Codes": [
+      5851
+    ]
+  },
+  {
+    "City": "Manchester",
+    "Zip Codes": [
+      5254
+    ]
+  },
+  {
+    "City": "Manchester Center",
+    "Zip Codes": [
+      5255
+    ]
+  },
+  {
+    "City": "Marshfield",
+    "Zip Codes": [
+      5658
+    ]
+  },
+  {
+    "City": "McIndoe Falls",
+    "Zip Codes": [
+      5050
+    ]
+  },
+  {
+    "City": "Middlebury",
+    "Zip Codes": [
+      5753
+    ]
+  },
+  {
+    "City": "Middletown Springs",
+    "Zip Codes": [
+      5757
+    ]
+  },
+  {
+    "City": "Milton",
+    "Zip Codes": [
+      5468
+    ]
+  },
+  {
+    "City": "Montgomery Center",
+    "Zip Codes": [
+      5471
+    ]
+  },
+  {
+    "City": "Montpelier",
+    "Zip Codes": [
+      5602
+    ]
+  },
+  {
+    "City": "Moretown",
+    "Zip Codes": [
+      5660
+    ]
+  },
+  {
+    "City": "Morgan",
+    "Zip Codes": [
+      5853
+    ]
+  },
+  {
+    "City": "Morrisville",
+    "Zip Codes": [
+      5661
+    ]
+  },
+  {
+    "City": "Mount Holly",
+    "Zip Codes": [
+      5758
+    ]
+  },
+  {
+    "City": "New Haven",
+    "Zip Codes": [
+      5472
+    ]
+  },
+  {
+    "City": "Newbury",
+    "Zip Codes": [
+      5051
+    ]
+  },
+  {
+    "City": "Newfane",
+    "Zip Codes": [
+      5345
+    ]
+  },
+  {
+    "City": "Newport",
+    "Zip Codes": [
+      5855
+    ]
+  },
+  {
+    "City": "Newport Center",
+    "Zip Codes": [
+      5857
+    ]
+  },
+  {
+    "City": "North Bennington",
+    "Zip Codes": [
+      5257
+    ]
+  },
+  {
+    "City": "North Clarendon",
+    "Zip Codes": [
+      5759
+    ]
+  },
+  {
+    "City": "North Concord",
+    "Zip Codes": [
+      5858
+    ]
+  },
+  {
+    "City": "North Ferrisburgh",
+    "Zip Codes": [
+      5473
+    ]
+  },
+  {
+    "City": "North Hartland",
+    "Zip Codes": [
+      5052
+    ]
+  },
+  {
+    "City": "North Hero",
+    "Zip Codes": [
+      5474
+    ]
+  },
+  {
+    "City": "North Pomfret",
+    "Zip Codes": [
+      5053
+    ]
+  },
+  {
+    "City": "North Pownal",
+    "Zip Codes": [
+      5260
+    ]
+  },
+  {
+    "City": "North Springfield",
+    "Zip Codes": [
+      5150
+    ]
+  },
+  {
+    "City": "North Troy",
+    "Zip Codes": [
+      5859
+    ]
+  },
+  {
+    "City": "Northfield",
+    "Zip Codes": [
+      5663
+    ]
+  },
+  {
+    "City": "Northfield Falls",
+    "Zip Codes": [
+      5664
+    ]
+  },
+  {
+    "City": "Norton",
+    "Zip Codes": [
+      5907
+    ]
+  },
+  {
+    "City": "Norwich",
+    "Zip Codes": [
+      5055
+    ]
+  },
+  {
+    "City": "Orleans",
+    "Zip Codes": [
+      5860
+    ]
+  },
+  {
+    "City": "Orwell",
+    "Zip Codes": [
+      5760
+    ]
+  },
+  {
+    "City": "Pawlet",
+    "Zip Codes": [
+      5761
+    ]
+  },
+  {
+    "City": "Peacham",
+    "Zip Codes": [
+      5862
+    ]
+  },
+  {
+    "City": "Perkinsville",
+    "Zip Codes": [
+      5151
+    ]
+  },
+  {
+    "City": "Peru",
+    "Zip Codes": [
+      5152
+    ]
+  },
+  {
+    "City": "Pittsfield",
+    "Zip Codes": [
+      5762
+    ]
+  },
+  {
+    "City": "Pittsford",
+    "Zip Codes": [
+      5763
+    ]
+  },
+  {
+    "City": "Plainfield",
+    "Zip Codes": [
+      5667
+    ]
+  },
+  {
+    "City": "Plymouth",
+    "Zip Codes": [
+      5056
+    ]
+  },
+  {
+    "City": "Post Mills",
+    "Zip Codes": [
+      5058
+    ]
+  },
+  {
+    "City": "Poultney",
+    "Zip Codes": [
+      5764
+    ]
+  },
+  {
+    "City": "Pownal",
+    "Zip Codes": [
+      5261
+    ]
+  },
+  {
+    "City": "Proctor",
+    "Zip Codes": [
+      5765
+    ]
+  },
+  {
+    "City": "Proctorsville",
+    "Zip Codes": [
+      5153
+    ]
+  },
+  {
+    "City": "Putney",
+    "Zip Codes": [
+      5346
+    ]
+  },
+  {
+    "City": "Quechee",
+    "Zip Codes": [
+      5059
+    ]
+  },
+  {
+    "City": "Randolph",
+    "Zip Codes": [
+      5060
+    ]
+  },
+  {
+    "City": "Randolph Center",
+    "Zip Codes": [
+      5061
+    ]
+  },
+  {
+    "City": "Reading",
+    "Zip Codes": [
+      5062
+    ]
+  },
+  {
+    "City": "Readsboro",
+    "Zip Codes": [
+      5350
+    ]
+  },
+  {
+    "City": "Richford",
+    "Zip Codes": [
+      5476
+    ]
+  },
+  {
+    "City": "Richmond",
+    "Zip Codes": [
+      5477
+    ]
+  },
+  {
+    "City": "Ripton",
+    "Zip Codes": [
+      5766
+    ]
+  },
+  {
+    "City": "Rochester",
+    "Zip Codes": [
+      5767
+    ]
+  },
+  {
+    "City": "Roxbury",
+    "Zip Codes": [
+      5669
+    ]
+  },
+  {
+    "City": "Rutland",
+    "Zip Codes": [
+      5701
+    ]
+  },
+  {
+    "City": "Saint Albans",
+    "Zip Codes": [
+      5478
+    ]
+  },
+  {
+    "City": "Saint Albans Bay",
+    "Zip Codes": [
+      5481
+    ]
+  },
+  {
+    "City": "Saint Johnsbury",
+    "Zip Codes": [
+      5819
+    ]
+  },
+  {
+    "City": "Salisbury",
+    "Zip Codes": [
+      5769
+    ]
+  },
+  {
+    "City": "Saxtons River",
+    "Zip Codes": [
+      5154
+    ]
+  },
+  {
+    "City": "Shaftsbury",
+    "Zip Codes": [
+      5262
+    ]
+  },
+  {
+    "City": "Sharon",
+    "Zip Codes": [
+      5065
+    ]
+  },
+  {
+    "City": "Sheffield",
+    "Zip Codes": [
+      5866
+    ]
+  },
+  {
+    "City": "Shelburne",
+    "Zip Codes": [
+      5482
+    ]
+  },
+  {
+    "City": "Sheldon",
+    "Zip Codes": [
+      5483
+    ]
+  },
+  {
+    "City": "Sheldon Springs",
+    "Zip Codes": [
+      5485
+    ]
+  },
+  {
+    "City": "Shoreham",
+    "Zip Codes": [
+      5770
+    ]
+  },
+  {
+    "City": "South Burlington",
+    "Zip Codes": [
+      5403
+    ]
+  },
+  {
+    "City": "South Hero",
+    "Zip Codes": [
+      5486
+    ]
+  },
+  {
+    "City": "South Londonderry",
+    "Zip Codes": [
+      5155
+    ]
+  },
+  {
+    "City": "South Pomfret",
+    "Zip Codes": [
+      5067
+    ]
+  },
+  {
+    "City": "South Royalton",
+    "Zip Codes": [
+      5068
+    ]
+  },
+  {
+    "City": "South Ryegate",
+    "Zip Codes": [
+      5069
+    ]
+  },
+  {
+    "City": "South Strafford",
+    "Zip Codes": [
+      5070
+    ]
+  },
+  {
+    "City": "South Woodstock",
+    "Zip Codes": [
+      5071
+    ]
+  },
+  {
+    "City": "Springfield",
+    "Zip Codes": [
+      5156
+    ]
+  },
+  {
+    "City": "Stamford",
+    "Zip Codes": [
+      5352
+    ]
+  },
+  {
+    "City": "Starksboro",
+    "Zip Codes": [
+      5487
+    ]
+  },
+  {
+    "City": "Stockbridge",
+    "Zip Codes": [
+      5772
+    ]
+  },
+  {
+    "City": "Stowe",
+    "Zip Codes": [
+      5672
+    ]
+  },
+  {
+    "City": "Strafford",
+    "Zip Codes": [
+      5072
+    ]
+  },
+  {
+    "City": "Sutton",
+    "Zip Codes": [
+      5867
+    ]
+  },
+  {
+    "City": "Swanton",
+    "Zip Codes": [
+      5488
+    ]
+  },
+  {
+    "City": "Thetford Center",
+    "Zip Codes": [
+      5075
+    ]
+  },
+  {
+    "City": "Topsham",
+    "Zip Codes": [
+      5076
+    ]
+  },
+  {
+    "City": "Townshend",
+    "Zip Codes": [
+      5353
+    ]
+  },
+  {
+    "City": "Troy",
+    "Zip Codes": [
+      5868
+    ]
+  },
+  {
+    "City": "Tunbridge",
+    "Zip Codes": [
+      5077
+    ]
+  },
+  {
+    "City": "Underhill",
+    "Zip Codes": [
+      5489
+    ]
+  },
+  {
+    "City": "Vergennes",
+    "Zip Codes": [
+      5491
+    ]
+  },
+  {
+    "City": "Vernon",
+    "Zip Codes": [
+      5354
+    ]
+  },
+  {
+    "City": "Vershire",
+    "Zip Codes": [
+      5079
+    ]
+  },
+  {
+    "City": "Waitsfield",
+    "Zip Codes": [
+      5673
+    ]
+  },
+  {
+    "City": "Wallingford",
+    "Zip Codes": [
+      5773
+    ]
+  },
+  {
+    "City": "Wardsboro",
+    "Zip Codes": [
+      5355
+    ]
+  },
+  {
+    "City": "Warren",
+    "Zip Codes": [
+      5674
+    ]
+  },
+  {
+    "City": "Washington",
+    "Zip Codes": [
+      5675
+    ]
+  },
+  {
+    "City": "Waterbury",
+    "Zip Codes": [
+      5676
+    ]
+  },
+  {
+    "City": "Waterbury Center",
+    "Zip Codes": [
+      5677
+    ]
+  },
+  {
+    "City": "Waterville",
+    "Zip Codes": [
+      5492
+    ]
+  },
+  {
+    "City": "Websterville",
+    "Zip Codes": [
+      5678
+    ]
+  },
+  {
+    "City": "Wells",
+    "Zip Codes": [
+      5774
+    ]
+  },
+  {
+    "City": "Wells River",
+    "Zip Codes": [
+      5081
+    ]
+  },
+  {
+    "City": "West Burke",
+    "Zip Codes": [
+      5871
+    ]
+  },
+  {
+    "City": "West Charleston",
+    "Zip Codes": [
+      5872
+    ]
+  },
+  {
+    "City": "West Danville",
+    "Zip Codes": [
+      5873
+    ]
+  },
+  {
+    "City": "West Dover",
+    "Zip Codes": [
+      5356
+    ]
+  },
+  {
+    "City": "West Fairlee",
+    "Zip Codes": [
+      5083
+    ]
+  },
+  {
+    "City": "West Halifax",
+    "Zip Codes": [
+      5358
+    ]
+  },
+  {
+    "City": "West Hartford",
+    "Zip Codes": [
+      5084
+    ]
+  },
+  {
+    "City": "West Pawlet",
+    "Zip Codes": [
+      5775
+    ]
+  },
+  {
+    "City": "West Rupert",
+    "Zip Codes": [
+      5776
+    ]
+  },
+  {
+    "City": "West Rutland",
+    "Zip Codes": [
+      5777
+    ]
+  },
+  {
+    "City": "West Topsham",
+    "Zip Codes": [
+      5086
+    ]
+  },
+  {
+    "City": "West Townshend",
+    "Zip Codes": [
+      5359
+    ]
+  },
+  {
+    "City": "West Wardsboro",
+    "Zip Codes": [
+      5360
+    ]
+  },
+  {
+    "City": "Westfield",
+    "Zip Codes": [
+      5874
+    ]
+  },
+  {
+    "City": "Westford",
+    "Zip Codes": [
+      5494
+    ]
+  },
+  {
+    "City": "Westminster",
+    "Zip Codes": [
+      5158
+    ]
+  },
+  {
+    "City": "Weston",
+    "Zip Codes": [
+      5161
+    ]
+  },
+  {
+    "City": "White River Junction",
+    "Zip Codes": [
+      5001
+    ]
+  },
+  {
+    "City": "Whiting",
+    "Zip Codes": [
+      5778
+    ]
+  },
+  {
+    "City": "Whitingham",
+    "Zip Codes": [
+      5361
+    ]
+  },
+  {
+    "City": "Williamstown",
+    "Zip Codes": [
+      5679
+    ]
+  },
+  {
+    "City": "Williamsville",
+    "Zip Codes": [
+      5362
+    ]
+  },
+  {
+    "City": "Williston",
+    "Zip Codes": [
+      5495
+    ]
+  },
+  {
+    "City": "Wilmington",
+    "Zip Codes": [
+      5363
+    ]
+  },
+  {
+    "City": "Windsor",
+    "Zip Codes": [
+      5089
+    ]
+  },
+  {
+    "City": "Winooski",
+    "Zip Codes": [
+      5404
+    ]
+  },
+  {
+    "City": "Wolcott",
+    "Zip Codes": [
+      5680
+    ]
+  },
+  {
+    "City": "Woodbury",
+    "Zip Codes": [
+      5681
+    ]
+  },
+  {
+    "City": "Woodstock",
+    "Zip Codes": [
+      5091
+    ]
+  },
+  {
+    "City": "Worcester",
+    "Zip Codes": [
+      5682
+    ]
+  }
+]

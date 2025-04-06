@@ -1,0 +1,506 @@
+[
+  {
+    "City": "Aiea",
+    "Zip Codes": [
+      96701
+    ]
+  },
+  {
+    "City": "Anahola",
+    "Zip Codes": [
+      96703
+    ]
+  },
+  {
+    "City": "Captain Cook",
+    "Zip Codes": [
+      96704
+    ]
+  },
+  {
+    "City": "Eleele",
+    "Zip Codes": [
+      96705
+    ]
+  },
+  {
+    "City": "Ewa Beach",
+    "Zip Codes": [
+      96706
+    ]
+  },
+  {
+    "City": "Haiku",
+    "Zip Codes": [
+      96708
+    ]
+  },
+  {
+    "City": "Hakalau",
+    "Zip Codes": [
+      96710
+    ]
+  },
+  {
+    "City": "Haleiwa",
+    "Zip Codes": [
+      96712
+    ]
+  },
+  {
+    "City": "Hana",
+    "Zip Codes": [
+      96713
+    ]
+  },
+  {
+    "City": "Hanalei",
+    "Zip Codes": [
+      96714
+    ]
+  },
+  {
+    "City": "Hanapepe",
+    "Zip Codes": [
+      96716
+    ]
+  },
+  {
+    "City": "Hauula",
+    "Zip Codes": [
+      96717
+    ]
+  },
+  {
+    "City": "Hawi",
+    "Zip Codes": [
+      96719
+    ]
+  },
+  {
+    "City": "Hilo",
+    "Zip Codes": [
+      96720
+    ]
+  },
+  {
+    "City": "Holualoa",
+    "Zip Codes": [
+      96725
+    ]
+  },
+  {
+    "City": "Honaunau",
+    "Zip Codes": [
+      96726
+    ]
+  },
+  {
+    "City": "Honokaa",
+    "Zip Codes": [
+      96727
+    ]
+  },
+  {
+    "City": "Honolulu",
+    "Zip Codes": [
+      96821,
+      96819,
+      96822,
+      96825,
+      96817,
+      96814,
+      96850,
+      96813,
+      96818,
+      96816,
+      96815,
+      96826
+    ]
+  },
+  {
+    "City": "Honomu",
+    "Zip Codes": [
+      96728
+    ]
+  },
+  {
+    "City": "Hoolehua",
+    "Zip Codes": [
+      96729
+    ]
+  },
+  {
+    "City": "Jbphh",
+    "Zip Codes": [
+      96853,
+      96860
+    ]
+  },
+  {
+    "City": "Kaaawa",
+    "Zip Codes": [
+      96730
+    ]
+  },
+  {
+    "City": "Kahuku",
+    "Zip Codes": [
+      96731
+    ]
+  },
+  {
+    "City": "Kahului",
+    "Zip Codes": [
+      96732
+    ]
+  },
+  {
+    "City": "Kailua",
+    "Zip Codes": [
+      96734
+    ]
+  },
+  {
+    "City": "Kailua Kona",
+    "Zip Codes": [
+      96740
+    ]
+  },
+  {
+    "City": "Kalaheo",
+    "Zip Codes": [
+      96741
+    ]
+  },
+  {
+    "City": "Kalaupapa",
+    "Zip Codes": [
+      96742
+    ]
+  },
+  {
+    "City": "Kamuela",
+    "Zip Codes": [
+      96743
+    ]
+  },
+  {
+    "City": "Kaneohe",
+    "Zip Codes": [
+      96744
+    ]
+  },
+  {
+    "City": "Kapaa",
+    "Zip Codes": [
+      96746
+    ]
+  },
+  {
+    "City": "Kapaau",
+    "Zip Codes": [
+      96755
+    ]
+  },
+  {
+    "City": "Kapolei",
+    "Zip Codes": [
+      96707
+    ]
+  },
+  {
+    "City": "Kaumakani",
+    "Zip Codes": [
+      96747
+    ]
+  },
+  {
+    "City": "Kaunakakai",
+    "Zip Codes": [
+      96748
+    ]
+  },
+  {
+    "City": "Keaau",
+    "Zip Codes": [
+      96749
+    ]
+  },
+  {
+    "City": "Kealakekua",
+    "Zip Codes": [
+      96750
+    ]
+  },
+  {
+    "City": "Kealia",
+    "Zip Codes": [
+      96751
+    ]
+  },
+  {
+    "City": "Kekaha",
+    "Zip Codes": [
+      96752
+    ]
+  },
+  {
+    "City": "Kihei",
+    "Zip Codes": [
+      96753
+    ]
+  },
+  {
+    "City": "Kilauea",
+    "Zip Codes": [
+      96754
+    ]
+  },
+  {
+    "City": "Koloa",
+    "Zip Codes": [
+      96756
+    ]
+  },
+  {
+    "City": "Kualapuu",
+    "Zip Codes": [
+      96757
+    ]
+  },
+  {
+    "City": "Kula",
+    "Zip Codes": [
+      96790
+    ]
+  },
+  {
+    "City": "Kunia",
+    "Zip Codes": [
+      96759
+    ]
+  },
+  {
+    "City": "Kurtistown",
+    "Zip Codes": [
+      96760
+    ]
+  },
+  {
+    "City": "Lahaina",
+    "Zip Codes": [
+      96761
+    ]
+  },
+  {
+    "City": "Laie",
+    "Zip Codes": [
+      96762
+    ]
+  },
+  {
+    "City": "Lanai City",
+    "Zip Codes": [
+      96763
+    ]
+  },
+  {
+    "City": "Laupahoehoe",
+    "Zip Codes": [
+      96764
+    ]
+  },
+  {
+    "City": "Lawai",
+    "Zip Codes": [
+      96765
+    ]
+  },
+  {
+    "City": "Lihue",
+    "Zip Codes": [
+      96766
+    ]
+  },
+  {
+    "City": "Makawao",
+    "Zip Codes": [
+      96768
+    ]
+  },
+  {
+    "City": "Makaweli",
+    "Zip Codes": [
+      96769
+    ]
+  },
+  {
+    "City": "Maunaloa",
+    "Zip Codes": [
+      96770
+    ]
+  },
+  {
+    "City": "Mcbh Kaneohe Bay",
+    "Zip Codes": [
+      96863
+    ]
+  },
+  {
+    "City": "Mililani",
+    "Zip Codes": [
+      96789
+    ]
+  },
+  {
+    "City": "Mountain View",
+    "Zip Codes": [
+      96771
+    ]
+  },
+  {
+    "City": "Naalehu",
+    "Zip Codes": [
+      96772
+    ]
+  },
+  {
+    "City": "Ninole",
+    "Zip Codes": [
+      96773
+    ]
+  },
+  {
+    "City": "Ocean View",
+    "Zip Codes": [
+      96737
+    ]
+  },
+  {
+    "City": "Ookala",
+    "Zip Codes": [
+      96774
+    ]
+  },
+  {
+    "City": "Paauilo",
+    "Zip Codes": [
+      96776
+    ]
+  },
+  {
+    "City": "Pahala",
+    "Zip Codes": [
+      96777
+    ]
+  },
+  {
+    "City": "Pahoa",
+    "Zip Codes": [
+      96778
+    ]
+  },
+  {
+    "City": "Paia",
+    "Zip Codes": [
+      96779
+    ]
+  },
+  {
+    "City": "Papaaloa",
+    "Zip Codes": [
+      96780
+    ]
+  },
+  {
+    "City": "Papaikou",
+    "Zip Codes": [
+      96781
+    ]
+  },
+  {
+    "City": "Pearl City",
+    "Zip Codes": [
+      96782
+    ]
+  },
+  {
+    "City": "Pepeekeo",
+    "Zip Codes": [
+      96783
+    ]
+  },
+  {
+    "City": "Princeville",
+    "Zip Codes": [
+      96722
+    ]
+  },
+  {
+    "City": "Schofield Barracks",
+    "Zip Codes": [
+      96857
+    ]
+  },
+  {
+    "City": "Tripler Army Medical Center",
+    "Zip Codes": [
+      96859
+    ]
+  },
+  {
+    "City": "Volcano",
+    "Zip Codes": [
+      96785
+    ]
+  },
+  {
+    "City": "Wahiawa",
+    "Zip Codes": [
+      96786
+    ]
+  },
+  {
+    "City": "Waialua",
+    "Zip Codes": [
+      96791
+    ]
+  },
+  {
+    "City": "Waianae",
+    "Zip Codes": [
+      96792
+    ]
+  },
+  {
+    "City": "Waikoloa",
+    "Zip Codes": [
+      96738
+    ]
+  },
+  {
+    "City": "Wailuku",
+    "Zip Codes": [
+      96793
+    ]
+  },
+  {
+    "City": "Waimanalo",
+    "Zip Codes": [
+      96795
+    ]
+  },
+  {
+    "City": "Waimea",
+    "Zip Codes": [
+      96796
+    ]
+  },
+  {
+    "City": "Waipahu",
+    "Zip Codes": [
+      96797
+    ]
+  }
+]

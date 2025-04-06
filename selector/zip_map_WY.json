@@ -1,0 +1,1035 @@
+[
+  {
+    "City": "Afton",
+    "Zip Codes": [
+      83110
+    ]
+  },
+  {
+    "City": "Aladdin",
+    "Zip Codes": [
+      82710
+    ]
+  },
+  {
+    "City": "Albin",
+    "Zip Codes": [
+      82050
+    ]
+  },
+  {
+    "City": "Alcova",
+    "Zip Codes": [
+      82620
+    ]
+  },
+  {
+    "City": "Alpine",
+    "Zip Codes": [
+      83128
+    ]
+  },
+  {
+    "City": "Alta",
+    "Zip Codes": [
+      83414
+    ]
+  },
+  {
+    "City": "Alva",
+    "Zip Codes": [
+      82711
+    ]
+  },
+  {
+    "City": "Arapahoe",
+    "Zip Codes": [
+      82510
+    ]
+  },
+  {
+    "City": "Arminto",
+    "Zip Codes": [
+      82630
+    ]
+  },
+  {
+    "City": "Arvada",
+    "Zip Codes": [
+      82831
+    ]
+  },
+  {
+    "City": "Auburn",
+    "Zip Codes": [
+      83111
+    ]
+  },
+  {
+    "City": "Baggs",
+    "Zip Codes": [
+      82321
+    ]
+  },
+  {
+    "City": "Bairoil",
+    "Zip Codes": [
+      82322
+    ]
+  },
+  {
+    "City": "Banner",
+    "Zip Codes": [
+      82832
+    ]
+  },
+  {
+    "City": "Basin",
+    "Zip Codes": [
+      82410
+    ]
+  },
+  {
+    "City": "Bedford",
+    "Zip Codes": [
+      83112
+    ]
+  },
+  {
+    "City": "Beulah",
+    "Zip Codes": [
+      82712
+    ]
+  },
+  {
+    "City": "Big Horn",
+    "Zip Codes": [
+      82833
+    ]
+  },
+  {
+    "City": "Big Piney",
+    "Zip Codes": [
+      83113
+    ]
+  },
+  {
+    "City": "Bondurant",
+    "Zip Codes": [
+      82922
+    ]
+  },
+  {
+    "City": "Bosler",
+    "Zip Codes": [
+      82051
+    ]
+  },
+  {
+    "City": "Boulder",
+    "Zip Codes": [
+      82923
+    ]
+  },
+  {
+    "City": "Buffalo",
+    "Zip Codes": [
+      82834
+    ]
+  },
+  {
+    "City": "Buford",
+    "Zip Codes": [
+      82052
+    ]
+  },
+  {
+    "City": "Burlington",
+    "Zip Codes": [
+      82411
+    ]
+  },
+  {
+    "City": "Burns",
+    "Zip Codes": [
+      82053
+    ]
+  },
+  {
+    "City": "Byron",
+    "Zip Codes": [
+      82412
+    ]
+  },
+  {
+    "City": "Carpenter",
+    "Zip Codes": [
+      82054
+    ]
+  },
+  {
+    "City": "Casper",
+    "Zip Codes": [
+      82604,
+      82601,
+      82609
+    ]
+  },
+  {
+    "City": "Centennial",
+    "Zip Codes": [
+      82055
+    ]
+  },
+  {
+    "City": "Cheyenne",
+    "Zip Codes": [
+      82007,
+      82009,
+      82001
+    ]
+  },
+  {
+    "City": "Chugwater",
+    "Zip Codes": [
+      82210
+    ]
+  },
+  {
+    "City": "Clearmont",
+    "Zip Codes": [
+      82835
+    ]
+  },
+  {
+    "City": "Cody",
+    "Zip Codes": [
+      82414
+    ]
+  },
+  {
+    "City": "Cokeville",
+    "Zip Codes": [
+      83114
+    ]
+  },
+  {
+    "City": "Cora",
+    "Zip Codes": [
+      82925
+    ]
+  },
+  {
+    "City": "Cowley",
+    "Zip Codes": [
+      82420
+    ]
+  },
+  {
+    "City": "Crowheart",
+    "Zip Codes": [
+      82512
+    ]
+  },
+  {
+    "City": "Daniel",
+    "Zip Codes": [
+      83115
+    ]
+  },
+  {
+    "City": "Dayton",
+    "Zip Codes": [
+      82836
+    ]
+  },
+  {
+    "City": "Deaver",
+    "Zip Codes": [
+      82421
+    ]
+  },
+  {
+    "City": "Devils Tower",
+    "Zip Codes": [
+      82714
+    ]
+  },
+  {
+    "City": "Diamondville",
+    "Zip Codes": [
+      83116
+    ]
+  },
+  {
+    "City": "Dixon",
+    "Zip Codes": [
+      82323
+    ]
+  },
+  {
+    "City": "Douglas",
+    "Zip Codes": [
+      82633
+    ]
+  },
+  {
+    "City": "Dubois",
+    "Zip Codes": [
+      82513
+    ]
+  },
+  {
+    "City": "Edgerton",
+    "Zip Codes": [
+      82635
+    ]
+  },
+  {
+    "City": "Elk Mountain",
+    "Zip Codes": [
+      82324
+    ]
+  },
+  {
+    "City": "Emblem",
+    "Zip Codes": [
+      82422
+    ]
+  },
+  {
+    "City": "Encampment",
+    "Zip Codes": [
+      82325
+    ]
+  },
+  {
+    "City": "Etna",
+    "Zip Codes": [
+      83118
+    ]
+  },
+  {
+    "City": "Evanston",
+    "Zip Codes": [
+      82930
+    ]
+  },
+  {
+    "City": "Evansville",
+    "Zip Codes": [
+      82636
+    ]
+  },
+  {
+    "City": "Fairview",
+    "Zip Codes": [
+      83119
+    ]
+  },
+  {
+    "City": "Farson",
+    "Zip Codes": [
+      82932
+    ]
+  },
+  {
+    "City": "Fe Warren Afb",
+    "Zip Codes": [
+      82005
+    ]
+  },
+  {
+    "City": "Fort Bridger",
+    "Zip Codes": [
+      82933
+    ]
+  },
+  {
+    "City": "Fort Laramie",
+    "Zip Codes": [
+      82212
+    ]
+  },
+  {
+    "City": "Fort Washakie",
+    "Zip Codes": [
+      82514
+    ]
+  },
+  {
+    "City": "Four Corners",
+    "Zip Codes": [
+      82715
+    ]
+  },
+  {
+    "City": "Frannie",
+    "Zip Codes": [
+      82423
+    ]
+  },
+  {
+    "City": "Freedom",
+    "Zip Codes": [
+      83120
+    ]
+  },
+  {
+    "City": "Frontier",
+    "Zip Codes": [
+      83121
+    ]
+  },
+  {
+    "City": "Garrett",
+    "Zip Codes": [
+      82058
+    ]
+  },
+  {
+    "City": "Gillette",
+    "Zip Codes": [
+      82716,
+      82718
+    ]
+  },
+  {
+    "City": "Glendo",
+    "Zip Codes": [
+      82213
+    ]
+  },
+  {
+    "City": "Glenrock",
+    "Zip Codes": [
+      82637
+    ]
+  },
+  {
+    "City": "Granger",
+    "Zip Codes": [
+      82934
+    ]
+  },
+  {
+    "City": "Granite Canon",
+    "Zip Codes": [
+      82059
+    ]
+  },
+  {
+    "City": "Green River",
+    "Zip Codes": [
+      82935
+    ]
+  },
+  {
+    "City": "Greybull",
+    "Zip Codes": [
+      82426
+    ]
+  },
+  {
+    "City": "Grover",
+    "Zip Codes": [
+      83122
+    ]
+  },
+  {
+    "City": "Guernsey",
+    "Zip Codes": [
+      82214
+    ]
+  },
+  {
+    "City": "Hanna",
+    "Zip Codes": [
+      82327
+    ]
+  },
+  {
+    "City": "Hartville",
+    "Zip Codes": [
+      82215
+    ]
+  },
+  {
+    "City": "Hawk Springs",
+    "Zip Codes": [
+      82217
+    ]
+  },
+  {
+    "City": "Hiland",
+    "Zip Codes": [
+      82638
+    ]
+  },
+  {
+    "City": "Hillsdale",
+    "Zip Codes": [
+      82060
+    ]
+  },
+  {
+    "City": "Horse Creek",
+    "Zip Codes": [
+      82061
+    ]
+  },
+  {
+    "City": "Hudson",
+    "Zip Codes": [
+      82515
+    ]
+  },
+  {
+    "City": "Hulett",
+    "Zip Codes": [
+      82720
+    ]
+  },
+  {
+    "City": "Hyattville",
+    "Zip Codes": [
+      82428
+    ]
+  },
+  {
+    "City": "Jackson",
+    "Zip Codes": [
+      83001
+    ]
+  },
+  {
+    "City": "Jay Em",
+    "Zip Codes": [
+      82219
+    ]
+  },
+  {
+    "City": "Jelm",
+    "Zip Codes": [
+      82063
+    ]
+  },
+  {
+    "City": "Kaycee",
+    "Zip Codes": [
+      82639
+    ]
+  },
+  {
+    "City": "Kelly",
+    "Zip Codes": [
+      83011
+    ]
+  },
+  {
+    "City": "Kemmerer",
+    "Zip Codes": [
+      83101
+    ]
+  },
+  {
+    "City": "Kinnear",
+    "Zip Codes": [
+      82516
+    ]
+  },
+  {
+    "City": "Kirby",
+    "Zip Codes": [
+      82430
+    ]
+  },
+  {
+    "City": "La Barge",
+    "Zip Codes": [
+      83123
+    ]
+  },
+  {
+    "City": "Lagrange",
+    "Zip Codes": [
+      82221
+    ]
+  },
+  {
+    "City": "Lance Creek",
+    "Zip Codes": [
+      82222
+    ]
+  },
+  {
+    "City": "Lander",
+    "Zip Codes": [
+      82520
+    ]
+  },
+  {
+    "City": "Laramie",
+    "Zip Codes": [
+      82070,
+      82072,
+      82073
+    ]
+  },
+  {
+    "City": "Leiter",
+    "Zip Codes": [
+      82837
+    ]
+  },
+  {
+    "City": "Linch",
+    "Zip Codes": [
+      82640
+    ]
+  },
+  {
+    "City": "Lingle",
+    "Zip Codes": [
+      82223
+    ]
+  },
+  {
+    "City": "Little America",
+    "Zip Codes": [
+      82929
+    ]
+  },
+  {
+    "City": "Lonetree",
+    "Zip Codes": [
+      82936
+    ]
+  },
+  {
+    "City": "Lost Springs",
+    "Zip Codes": [
+      82224
+    ]
+  },
+  {
+    "City": "Lovell",
+    "Zip Codes": [
+      82431
+    ]
+  },
+  {
+    "City": "Lusk",
+    "Zip Codes": [
+      82225
+    ]
+  },
+  {
+    "City": "Lyman",
+    "Zip Codes": [
+      82937
+    ]
+  },
+  {
+    "City": "Lysite",
+    "Zip Codes": [
+      82642
+    ]
+  },
+  {
+    "City": "Manderson",
+    "Zip Codes": [
+      82432
+    ]
+  },
+  {
+    "City": "Manville",
+    "Zip Codes": [
+      82227
+    ]
+  },
+  {
+    "City": "McKinnon",
+    "Zip Codes": [
+      82938
+    ]
+  },
+  {
+    "City": "Medicine Bow",
+    "Zip Codes": [
+      82329
+    ]
+  },
+  {
+    "City": "Meeteetse",
+    "Zip Codes": [
+      82433
+    ]
+  },
+  {
+    "City": "Meriden",
+    "Zip Codes": [
+      82081
+    ]
+  },
+  {
+    "City": "Midwest",
+    "Zip Codes": [
+      82643
+    ]
+  },
+  {
+    "City": "Mills",
+    "Zip Codes": [
+      82644
+    ]
+  },
+  {
+    "City": "Moorcroft",
+    "Zip Codes": [
+      82721
+    ]
+  },
+  {
+    "City": "Moose",
+    "Zip Codes": [
+      83012
+    ]
+  },
+  {
+    "City": "Moran",
+    "Zip Codes": [
+      83013
+    ]
+  },
+  {
+    "City": "Mountain View",
+    "Zip Codes": [
+      82939
+    ]
+  },
+  {
+    "City": "Natrona",
+    "Zip Codes": [
+      82646
+    ]
+  },
+  {
+    "City": "Newcastle",
+    "Zip Codes": [
+      82701
+    ]
+  },
+  {
+    "City": "Opal",
+    "Zip Codes": [
+      83124
+    ]
+  },
+  {
+    "City": "Osage",
+    "Zip Codes": [
+      82723
+    ]
+  },
+  {
+    "City": "Otto",
+    "Zip Codes": [
+      82434
+    ]
+  },
+  {
+    "City": "Parkman",
+    "Zip Codes": [
+      82838
+    ]
+  },
+  {
+    "City": "Pavillion",
+    "Zip Codes": [
+      82523
+    ]
+  },
+  {
+    "City": "Pine Bluffs",
+    "Zip Codes": [
+      82082
+    ]
+  },
+  {
+    "City": "Pinedale",
+    "Zip Codes": [
+      82941
+    ]
+  },
+  {
+    "City": "Point Of Rocks",
+    "Zip Codes": [
+      82942
+    ]
+  },
+  {
+    "City": "Powder River",
+    "Zip Codes": [
+      82648
+    ]
+  },
+  {
+    "City": "Powell",
+    "Zip Codes": [
+      82435
+    ]
+  },
+  {
+    "City": "Ralston",
+    "Zip Codes": [
+      82440
+    ]
+  },
+  {
+    "City": "Ranchester",
+    "Zip Codes": [
+      82839
+    ]
+  },
+  {
+    "City": "Rawlins",
+    "Zip Codes": [
+      82301
+    ]
+  },
+  {
+    "City": "Recluse",
+    "Zip Codes": [
+      82725
+    ]
+  },
+  {
+    "City": "Reliance",
+    "Zip Codes": [
+      82943
+    ]
+  },
+  {
+    "City": "Riverton",
+    "Zip Codes": [
+      82501
+    ]
+  },
+  {
+    "City": "Robertson",
+    "Zip Codes": [
+      82944
+    ]
+  },
+  {
+    "City": "Rock River",
+    "Zip Codes": [
+      82083
+    ]
+  },
+  {
+    "City": "Rock Springs",
+    "Zip Codes": [
+      82901
+    ]
+  },
+  {
+    "City": "Rozet",
+    "Zip Codes": [
+      82727
+    ]
+  },
+  {
+    "City": "Saratoga",
+    "Zip Codes": [
+      82331
+    ]
+  },
+  {
+    "City": "Savery",
+    "Zip Codes": [
+      82332
+    ]
+  },
+  {
+    "City": "Shawnee",
+    "Zip Codes": [
+      82229
+    ]
+  },
+  {
+    "City": "Shell",
+    "Zip Codes": [
+      82441
+    ]
+  },
+  {
+    "City": "Sheridan",
+    "Zip Codes": [
+      82801
+    ]
+  },
+  {
+    "City": "Shoshoni",
+    "Zip Codes": [
+      82649
+    ]
+  },
+  {
+    "City": "Sinclair",
+    "Zip Codes": [
+      82334
+    ]
+  },
+  {
+    "City": "Smoot",
+    "Zip Codes": [
+      83126
+    ]
+  },
+  {
+    "City": "Story",
+    "Zip Codes": [
+      82842
+    ]
+  },
+  {
+    "City": "Sundance",
+    "Zip Codes": [
+      82729
+    ]
+  },
+  {
+    "City": "Superior",
+    "Zip Codes": [
+      82945
+    ]
+  },
+  {
+    "City": "Ten Sleep",
+    "Zip Codes": [
+      82442
+    ]
+  },
+  {
+    "City": "Teton Village",
+    "Zip Codes": [
+      83025
+    ]
+  },
+  {
+    "City": "Thayne",
+    "Zip Codes": [
+      83127
+    ]
+  },
+  {
+    "City": "Thermopolis",
+    "Zip Codes": [
+      82443
+    ]
+  },
+  {
+    "City": "Tie Siding",
+    "Zip Codes": [
+      82084
+    ]
+  },
+  {
+    "City": "Torrington",
+    "Zip Codes": [
+      82240
+    ]
+  },
+  {
+    "City": "Upton",
+    "Zip Codes": [
+      82730
+    ]
+  },
+  {
+    "City": "Van Tassell",
+    "Zip Codes": [
+      82242
+    ]
+  },
+  {
+    "City": "Veteran",
+    "Zip Codes": [
+      82243
+    ]
+  },
+  {
+    "City": "Walcott",
+    "Zip Codes": [
+      82335
+    ]
+  },
+  {
+    "City": "Wamsutter",
+    "Zip Codes": [
+      82336
+    ]
+  },
+  {
+    "City": "Wapiti",
+    "Zip Codes": [
+      82450
+    ]
+  },
+  {
+    "City": "Weston",
+    "Zip Codes": [
+      82731
+    ]
+  },
+  {
+    "City": "Wheatland",
+    "Zip Codes": [
+      82201
+    ]
+  },
+  {
+    "City": "Wilson",
+    "Zip Codes": [
+      83014
+    ]
+  },
+  {
+    "City": "Wolf",
+    "Zip Codes": [
+      82844
+    ]
+  },
+  {
+    "City": "Worland",
+    "Zip Codes": [
+      82401
+    ]
+  },
+  {
+    "City": "Wright",
+    "Zip Codes": [
+      82732
+    ]
+  },
+  {
+    "City": "Wyarno",
+    "Zip Codes": [
+      82845
+    ]
+  },
+  {
+    "City": "Yellowstone National Park",
+    "Zip Codes": [
+      82190
+    ]
+  },
+  {
+    "City": "Yoder",
+    "Zip Codes": [
+      82244
+    ]
+  }
+]

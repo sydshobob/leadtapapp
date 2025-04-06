@@ -1,0 +1,1464 @@
+[
+  {
+    "City": "Amston",
+    "Zip Codes": [
+      6231
+    ]
+  },
+  {
+    "City": "Andover",
+    "Zip Codes": [
+      6232
+    ]
+  },
+  {
+    "City": "Ansonia",
+    "Zip Codes": [
+      6401
+    ]
+  },
+  {
+    "City": "Ashford",
+    "Zip Codes": [
+      6278
+    ]
+  },
+  {
+    "City": "Avon",
+    "Zip Codes": [
+      6001
+    ]
+  },
+  {
+    "City": "Baltic",
+    "Zip Codes": [
+      6330
+    ]
+  },
+  {
+    "City": "Bantam",
+    "Zip Codes": [
+      6750
+    ]
+  },
+  {
+    "City": "Barkhamsted",
+    "Zip Codes": [
+      6063
+    ]
+  },
+  {
+    "City": "Beacon Falls",
+    "Zip Codes": [
+      6403
+    ]
+  },
+  {
+    "City": "Berlin",
+    "Zip Codes": [
+      6037
+    ]
+  },
+  {
+    "City": "Bethany",
+    "Zip Codes": [
+      6524
+    ]
+  },
+  {
+    "City": "Bethel",
+    "Zip Codes": [
+      6801
+    ]
+  },
+  {
+    "City": "Bethlehem",
+    "Zip Codes": [
+      6751
+    ]
+  },
+  {
+    "City": "Bloomfield",
+    "Zip Codes": [
+      6002
+    ]
+  },
+  {
+    "City": "Bolton",
+    "Zip Codes": [
+      6043
+    ]
+  },
+  {
+    "City": "Bozrah",
+    "Zip Codes": [
+      6334
+    ]
+  },
+  {
+    "City": "Branford",
+    "Zip Codes": [
+      6405
+    ]
+  },
+  {
+    "City": "Bridgeport",
+    "Zip Codes": [
+      6605,
+      6607,
+      6608,
+      6606,
+      6604,
+      6610
+    ]
+  },
+  {
+    "City": "Bridgewater",
+    "Zip Codes": [
+      6752
+    ]
+  },
+  {
+    "City": "Bristol",
+    "Zip Codes": [
+      6010
+    ]
+  },
+  {
+    "City": "Broad Brook",
+    "Zip Codes": [
+      6016
+    ]
+  },
+  {
+    "City": "Brookfield",
+    "Zip Codes": [
+      6804
+    ]
+  },
+  {
+    "City": "Brooklyn",
+    "Zip Codes": [
+      6234
+    ]
+  },
+  {
+    "City": "Burlington",
+    "Zip Codes": [
+      6013
+    ]
+  },
+  {
+    "City": "Canaan",
+    "Zip Codes": [
+      6018
+    ]
+  },
+  {
+    "City": "Canterbury",
+    "Zip Codes": [
+      6331
+    ]
+  },
+  {
+    "City": "Canton",
+    "Zip Codes": [
+      6019
+    ]
+  },
+  {
+    "City": "Canton Center",
+    "Zip Codes": [
+      6020
+    ]
+  },
+  {
+    "City": "Centerbrook",
+    "Zip Codes": [
+      6409
+    ]
+  },
+  {
+    "City": "Central Village",
+    "Zip Codes": [
+      6332
+    ]
+  },
+  {
+    "City": "Chaplin",
+    "Zip Codes": [
+      6235
+    ]
+  },
+  {
+    "City": "Cheshire",
+    "Zip Codes": [
+      6410
+    ]
+  },
+  {
+    "City": "Chester",
+    "Zip Codes": [
+      6412
+    ]
+  },
+  {
+    "City": "Clinton",
+    "Zip Codes": [
+      6413
+    ]
+  },
+  {
+    "City": "Cobalt",
+    "Zip Codes": [
+      6414
+    ]
+  },
+  {
+    "City": "Colchester",
+    "Zip Codes": [
+      6415
+    ]
+  },
+  {
+    "City": "Colebrook",
+    "Zip Codes": [
+      6021
+    ]
+  },
+  {
+    "City": "Collinsville",
+    "Zip Codes": [
+      6022
+    ]
+  },
+  {
+    "City": "Columbia",
+    "Zip Codes": [
+      6237
+    ]
+  },
+  {
+    "City": "Cornwall Bridge",
+    "Zip Codes": [
+      6754
+    ]
+  },
+  {
+    "City": "Cos Cob",
+    "Zip Codes": [
+      6807
+    ]
+  },
+  {
+    "City": "Coventry",
+    "Zip Codes": [
+      6238
+    ]
+  },
+  {
+    "City": "Cromwell",
+    "Zip Codes": [
+      6416
+    ]
+  },
+  {
+    "City": "Danbury",
+    "Zip Codes": [
+      6810,
+      6811
+    ]
+  },
+  {
+    "City": "Danielson",
+    "Zip Codes": [
+      6239
+    ]
+  },
+  {
+    "City": "Darien",
+    "Zip Codes": [
+      6820
+    ]
+  },
+  {
+    "City": "Dayville",
+    "Zip Codes": [
+      6241
+    ]
+  },
+  {
+    "City": "Deep River",
+    "Zip Codes": [
+      6417
+    ]
+  },
+  {
+    "City": "Derby",
+    "Zip Codes": [
+      6418
+    ]
+  },
+  {
+    "City": "Durham",
+    "Zip Codes": [
+      6422
+    ]
+  },
+  {
+    "City": "East Berlin",
+    "Zip Codes": [
+      6023
+    ]
+  },
+  {
+    "City": "East Canaan",
+    "Zip Codes": [
+      6024
+    ]
+  },
+  {
+    "City": "East Granby",
+    "Zip Codes": [
+      6026
+    ]
+  },
+  {
+    "City": "East Haddam",
+    "Zip Codes": [
+      6423
+    ]
+  },
+  {
+    "City": "East Hampton",
+    "Zip Codes": [
+      6424
+    ]
+  },
+  {
+    "City": "East Hartford",
+    "Zip Codes": [
+      6108,
+      6118
+    ]
+  },
+  {
+    "City": "East Hartland",
+    "Zip Codes": [
+      6027
+    ]
+  },
+  {
+    "City": "East Haven",
+    "Zip Codes": [
+      6512
+    ]
+  },
+  {
+    "City": "East Killingly",
+    "Zip Codes": [
+      6243
+    ]
+  },
+  {
+    "City": "East Lyme",
+    "Zip Codes": [
+      6333
+    ]
+  },
+  {
+    "City": "East Windsor",
+    "Zip Codes": [
+      6088
+    ]
+  },
+  {
+    "City": "Eastford",
+    "Zip Codes": [
+      6242
+    ]
+  },
+  {
+    "City": "Easton",
+    "Zip Codes": [
+      6612
+    ]
+  },
+  {
+    "City": "Ellington",
+    "Zip Codes": [
+      6029
+    ]
+  },
+  {
+    "City": "Enfield",
+    "Zip Codes": [
+      6082
+    ]
+  },
+  {
+    "City": "Essex",
+    "Zip Codes": [
+      6426
+    ]
+  },
+  {
+    "City": "Fairfield",
+    "Zip Codes": [
+      6824,
+      6825
+    ]
+  },
+  {
+    "City": "Falls Village",
+    "Zip Codes": [
+      6031
+    ]
+  },
+  {
+    "City": "Farmington",
+    "Zip Codes": [
+      6032
+    ]
+  },
+  {
+    "City": "Gales Ferry",
+    "Zip Codes": [
+      6335
+    ]
+  },
+  {
+    "City": "Gaylordsville",
+    "Zip Codes": [
+      6755
+    ]
+  },
+  {
+    "City": "Gilman",
+    "Zip Codes": [
+      6336
+    ]
+  },
+  {
+    "City": "Glastonbury",
+    "Zip Codes": [
+      6033
+    ]
+  },
+  {
+    "City": "Goshen",
+    "Zip Codes": [
+      6756
+    ]
+  },
+  {
+    "City": "Granby",
+    "Zip Codes": [
+      6035
+    ]
+  },
+  {
+    "City": "Greenwich",
+    "Zip Codes": [
+      6830,
+      6831
+    ]
+  },
+  {
+    "City": "Groton",
+    "Zip Codes": [
+      6340
+    ]
+  },
+  {
+    "City": "Guilford",
+    "Zip Codes": [
+      6437
+    ]
+  },
+  {
+    "City": "Haddam",
+    "Zip Codes": [
+      6438
+    ]
+  },
+  {
+    "City": "Hamden",
+    "Zip Codes": [
+      6517,
+      6514,
+      6518
+    ]
+  },
+  {
+    "City": "Hampton",
+    "Zip Codes": [
+      6247
+    ]
+  },
+  {
+    "City": "Hanover",
+    "Zip Codes": [
+      6350
+    ]
+  },
+  {
+    "City": "Hartford",
+    "Zip Codes": [
+      6103,
+      6120,
+      6112,
+      6105,
+      6106,
+      6114,
+      6160
+    ]
+  },
+  {
+    "City": "Harwinton",
+    "Zip Codes": [
+      6791
+    ]
+  },
+  {
+    "City": "Hebron",
+    "Zip Codes": [
+      6248
+    ]
+  },
+  {
+    "City": "Higganum",
+    "Zip Codes": [
+      6441
+    ]
+  },
+  {
+    "City": "Ivoryton",
+    "Zip Codes": [
+      6442
+    ]
+  },
+  {
+    "City": "Jewett City",
+    "Zip Codes": [
+      6351
+    ]
+  },
+  {
+    "City": "Kent",
+    "Zip Codes": [
+      6757
+    ]
+  },
+  {
+    "City": "Killingworth",
+    "Zip Codes": [
+      6419
+    ]
+  },
+  {
+    "City": "Lakeside",
+    "Zip Codes": [
+      6758
+    ]
+  },
+  {
+    "City": "Lakeville",
+    "Zip Codes": [
+      6039
+    ]
+  },
+  {
+    "City": "Lebanon",
+    "Zip Codes": [
+      6249
+    ]
+  },
+  {
+    "City": "Ledyard",
+    "Zip Codes": [
+      6339
+    ]
+  },
+  {
+    "City": "Litchfield",
+    "Zip Codes": [
+      6759
+    ]
+  },
+  {
+    "City": "Madison",
+    "Zip Codes": [
+      6443
+    ]
+  },
+  {
+    "City": "Manchester",
+    "Zip Codes": [
+      6042,
+      6040
+    ]
+  },
+  {
+    "City": "Mansfield Center",
+    "Zip Codes": [
+      6250
+    ]
+  },
+  {
+    "City": "Marion",
+    "Zip Codes": [
+      6444
+    ]
+  },
+  {
+    "City": "Marlborough",
+    "Zip Codes": [
+      6447
+    ]
+  },
+  {
+    "City": "Meriden",
+    "Zip Codes": [
+      6451,
+      6450
+    ]
+  },
+  {
+    "City": "Middle Haddam",
+    "Zip Codes": [
+      6456
+    ]
+  },
+  {
+    "City": "Middlebury",
+    "Zip Codes": [
+      6762
+    ]
+  },
+  {
+    "City": "Middlefield",
+    "Zip Codes": [
+      6455
+    ]
+  },
+  {
+    "City": "Middletown",
+    "Zip Codes": [
+      6457
+    ]
+  },
+  {
+    "City": "Milford",
+    "Zip Codes": [
+      6460,
+      6461
+    ]
+  },
+  {
+    "City": "Milldale",
+    "Zip Codes": [
+      6467
+    ]
+  },
+  {
+    "City": "Monroe",
+    "Zip Codes": [
+      6468
+    ]
+  },
+  {
+    "City": "Montville",
+    "Zip Codes": [
+      6353
+    ]
+  },
+  {
+    "City": "Moodus",
+    "Zip Codes": [
+      6469
+    ]
+  },
+  {
+    "City": "Moosup",
+    "Zip Codes": [
+      6354
+    ]
+  },
+  {
+    "City": "Morris",
+    "Zip Codes": [
+      6763
+    ]
+  },
+  {
+    "City": "Mystic",
+    "Zip Codes": [
+      6355
+    ]
+  },
+  {
+    "City": "Naugatuck",
+    "Zip Codes": [
+      6770
+    ]
+  },
+  {
+    "City": "New Britain",
+    "Zip Codes": [
+      6053,
+      6051,
+      6052
+    ]
+  },
+  {
+    "City": "New Canaan",
+    "Zip Codes": [
+      6840
+    ]
+  },
+  {
+    "City": "New Fairfield",
+    "Zip Codes": [
+      6812
+    ]
+  },
+  {
+    "City": "New Hartford",
+    "Zip Codes": [
+      6057
+    ]
+  },
+  {
+    "City": "New Haven",
+    "Zip Codes": [
+      6519,
+      6511,
+      6510,
+      6513,
+      6515
+    ]
+  },
+  {
+    "City": "New London",
+    "Zip Codes": [
+      6320
+    ]
+  },
+  {
+    "City": "New Milford",
+    "Zip Codes": [
+      6776
+    ]
+  },
+  {
+    "City": "New Preston Marble Dale",
+    "Zip Codes": [
+      6777
+    ]
+  },
+  {
+    "City": "Newington",
+    "Zip Codes": [
+      6111
+    ]
+  },
+  {
+    "City": "Newtown",
+    "Zip Codes": [
+      6470
+    ]
+  },
+  {
+    "City": "Niantic",
+    "Zip Codes": [
+      6357
+    ]
+  },
+  {
+    "City": "Norfolk",
+    "Zip Codes": [
+      6058
+    ]
+  },
+  {
+    "City": "North Branford",
+    "Zip Codes": [
+      6471
+    ]
+  },
+  {
+    "City": "North Canton",
+    "Zip Codes": [
+      6059
+    ]
+  },
+  {
+    "City": "North Franklin",
+    "Zip Codes": [
+      6254
+    ]
+  },
+  {
+    "City": "North Granby",
+    "Zip Codes": [
+      6060
+    ]
+  },
+  {
+    "City": "North Grosvenordale",
+    "Zip Codes": [
+      6255
+    ]
+  },
+  {
+    "City": "North Haven",
+    "Zip Codes": [
+      6473
+    ]
+  },
+  {
+    "City": "North Stonington",
+    "Zip Codes": [
+      6359
+    ]
+  },
+  {
+    "City": "North Windham",
+    "Zip Codes": [
+      6256
+    ]
+  },
+  {
+    "City": "Northfield",
+    "Zip Codes": [
+      6778
+    ]
+  },
+  {
+    "City": "Northford",
+    "Zip Codes": [
+      6472
+    ]
+  },
+  {
+    "City": "Norwalk",
+    "Zip Codes": [
+      6851,
+      6850,
+      6854,
+      6855,
+      6856,
+      6853
+    ]
+  },
+  {
+    "City": "Norwich",
+    "Zip Codes": [
+      6360
+    ]
+  },
+  {
+    "City": "Oakdale",
+    "Zip Codes": [
+      6370
+    ]
+  },
+  {
+    "City": "Oakville",
+    "Zip Codes": [
+      6779
+    ]
+  },
+  {
+    "City": "Old Greenwich",
+    "Zip Codes": [
+      6870
+    ]
+  },
+  {
+    "City": "Old Lyme",
+    "Zip Codes": [
+      6371
+    ]
+  },
+  {
+    "City": "Old Saybrook",
+    "Zip Codes": [
+      6475
+    ]
+  },
+  {
+    "City": "Oneco",
+    "Zip Codes": [
+      6373
+    ]
+  },
+  {
+    "City": "Orange",
+    "Zip Codes": [
+      6477
+    ]
+  },
+  {
+    "City": "Oxford",
+    "Zip Codes": [
+      6478
+    ]
+  },
+  {
+    "City": "Pawcatuck",
+    "Zip Codes": [
+      6379
+    ]
+  },
+  {
+    "City": "Pine Meadow",
+    "Zip Codes": [
+      6061
+    ]
+  },
+  {
+    "City": "Plainfield",
+    "Zip Codes": [
+      6374
+    ]
+  },
+  {
+    "City": "Plainville",
+    "Zip Codes": [
+      6062
+    ]
+  },
+  {
+    "City": "Plantsville",
+    "Zip Codes": [
+      6479
+    ]
+  },
+  {
+    "City": "Plymouth",
+    "Zip Codes": [
+      6782
+    ]
+  },
+  {
+    "City": "Pomfret Center",
+    "Zip Codes": [
+      6259
+    ]
+  },
+  {
+    "City": "Portland",
+    "Zip Codes": [
+      6480
+    ]
+  },
+  {
+    "City": "Preston",
+    "Zip Codes": [
+      6365
+    ]
+  },
+  {
+    "City": "Prospect",
+    "Zip Codes": [
+      6712
+    ]
+  },
+  {
+    "City": "Putnam",
+    "Zip Codes": [
+      6260
+    ]
+  },
+  {
+    "City": "Quaker Hill",
+    "Zip Codes": [
+      6375
+    ]
+  },
+  {
+    "City": "Quinebaug",
+    "Zip Codes": [
+      6262
+    ]
+  },
+  {
+    "City": "Redding",
+    "Zip Codes": [
+      6896
+    ]
+  },
+  {
+    "City": "Ridgefield",
+    "Zip Codes": [
+      6877
+    ]
+  },
+  {
+    "City": "Riverside",
+    "Zip Codes": [
+      6878
+    ]
+  },
+  {
+    "City": "Riverton",
+    "Zip Codes": [
+      6065
+    ]
+  },
+  {
+    "City": "Rockfall",
+    "Zip Codes": [
+      6481
+    ]
+  },
+  {
+    "City": "Rocky Hill",
+    "Zip Codes": [
+      6067
+    ]
+  },
+  {
+    "City": "Rogers",
+    "Zip Codes": [
+      6263
+    ]
+  },
+  {
+    "City": "Roxbury",
+    "Zip Codes": [
+      6783
+    ]
+  },
+  {
+    "City": "Salem",
+    "Zip Codes": [
+      6420
+    ]
+  },
+  {
+    "City": "Salisbury",
+    "Zip Codes": [
+      6068
+    ]
+  },
+  {
+    "City": "Sandy Hook",
+    "Zip Codes": [
+      6482
+    ]
+  },
+  {
+    "City": "Scotland",
+    "Zip Codes": [
+      6264
+    ]
+  },
+  {
+    "City": "Seymour",
+    "Zip Codes": [
+      6483
+    ]
+  },
+  {
+    "City": "Sharon",
+    "Zip Codes": [
+      6069
+    ]
+  },
+  {
+    "City": "Shelton",
+    "Zip Codes": [
+      6484
+    ]
+  },
+  {
+    "City": "Sherman",
+    "Zip Codes": [
+      6784
+    ]
+  },
+  {
+    "City": "Simsbury",
+    "Zip Codes": [
+      6070
+    ]
+  },
+  {
+    "City": "Somers",
+    "Zip Codes": [
+      6071
+    ]
+  },
+  {
+    "City": "South Glastonbury",
+    "Zip Codes": [
+      6073
+    ]
+  },
+  {
+    "City": "South Kent",
+    "Zip Codes": [
+      6785
+    ]
+  },
+  {
+    "City": "South Lyme",
+    "Zip Codes": [
+      6376
+    ]
+  },
+  {
+    "City": "South Windham",
+    "Zip Codes": [
+      6266
+    ]
+  },
+  {
+    "City": "South Windsor",
+    "Zip Codes": [
+      6074
+    ]
+  },
+  {
+    "City": "Southbury",
+    "Zip Codes": [
+      6488
+    ]
+  },
+  {
+    "City": "Southington",
+    "Zip Codes": [
+      6489
+    ]
+  },
+  {
+    "City": "Southport",
+    "Zip Codes": [
+      6890
+    ]
+  },
+  {
+    "City": "Stafford Springs",
+    "Zip Codes": [
+      6076
+    ]
+  },
+  {
+    "City": "Stamford",
+    "Zip Codes": [
+      6907,
+      6906,
+      6905,
+      6903,
+      6902,
+      6901
+    ]
+  },
+  {
+    "City": "Sterling",
+    "Zip Codes": [
+      6377
+    ]
+  },
+  {
+    "City": "Stonington",
+    "Zip Codes": [
+      6378
+    ]
+  },
+  {
+    "City": "Storrs Mansfield",
+    "Zip Codes": [
+      6268,
+      6269
+    ]
+  },
+  {
+    "City": "Stratford",
+    "Zip Codes": [
+      6615,
+      6614
+    ]
+  },
+  {
+    "City": "Suffield",
+    "Zip Codes": [
+      6078
+    ]
+  },
+  {
+    "City": "Taftville",
+    "Zip Codes": [
+      6380
+    ]
+  },
+  {
+    "City": "Tariffville",
+    "Zip Codes": [
+      6081
+    ]
+  },
+  {
+    "City": "Terryville",
+    "Zip Codes": [
+      6786
+    ]
+  },
+  {
+    "City": "Thomaston",
+    "Zip Codes": [
+      6787
+    ]
+  },
+  {
+    "City": "Thompson",
+    "Zip Codes": [
+      6277
+    ]
+  },
+  {
+    "City": "Tolland",
+    "Zip Codes": [
+      6084
+    ]
+  },
+  {
+    "City": "Torrington",
+    "Zip Codes": [
+      6790
+    ]
+  },
+  {
+    "City": "Trumbull",
+    "Zip Codes": [
+      6611
+    ]
+  },
+  {
+    "City": "Uncasville",
+    "Zip Codes": [
+      6382
+    ]
+  },
+  {
+    "City": "Unionville",
+    "Zip Codes": [
+      6085
+    ]
+  },
+  {
+    "City": "Vernon Rockville",
+    "Zip Codes": [
+      6066
+    ]
+  },
+  {
+    "City": "Voluntown",
+    "Zip Codes": [
+      6384
+    ]
+  },
+  {
+    "City": "Wallingford",
+    "Zip Codes": [
+      6492
+    ]
+  },
+  {
+    "City": "Washington",
+    "Zip Codes": [
+      6793
+    ]
+  },
+  {
+    "City": "Washington Depot",
+    "Zip Codes": [
+      6794
+    ]
+  },
+  {
+    "City": "Waterbury",
+    "Zip Codes": [
+      6708,
+      6702,
+      6704,
+      6710,
+      6705,
+      6706
+    ]
+  },
+  {
+    "City": "Waterford",
+    "Zip Codes": [
+      6385
+    ]
+  },
+  {
+    "City": "Watertown",
+    "Zip Codes": [
+      6795
+    ]
+  },
+  {
+    "City": "Wauregan",
+    "Zip Codes": [
+      6387
+    ]
+  },
+  {
+    "City": "Weatogue",
+    "Zip Codes": [
+      6089
+    ]
+  },
+  {
+    "City": "West Cornwall",
+    "Zip Codes": [
+      6796
+    ]
+  },
+  {
+    "City": "West Granby",
+    "Zip Codes": [
+      6090
+    ]
+  },
+  {
+    "City": "West Hartford",
+    "Zip Codes": [
+      6119,
+      6110,
+      6117,
+      6107
+    ]
+  },
+  {
+    "City": "West Hartland",
+    "Zip Codes": [
+      6091
+    ]
+  },
+  {
+    "City": "West Haven",
+    "Zip Codes": [
+      6516
+    ]
+  },
+  {
+    "City": "West Simsbury",
+    "Zip Codes": [
+      6092
+    ]
+  },
+  {
+    "City": "West Suffield",
+    "Zip Codes": [
+      6093
+    ]
+  },
+  {
+    "City": "Westbrook",
+    "Zip Codes": [
+      6498
+    ]
+  },
+  {
+    "City": "Weston",
+    "Zip Codes": [
+      6883
+    ]
+  },
+  {
+    "City": "Westport",
+    "Zip Codes": [
+      6880
+    ]
+  },
+  {
+    "City": "Wethersfield",
+    "Zip Codes": [
+      6109
+    ]
+  },
+  {
+    "City": "Willimantic",
+    "Zip Codes": [
+      6226
+    ]
+  },
+  {
+    "City": "Willington",
+    "Zip Codes": [
+      6279
+    ]
+  },
+  {
+    "City": "Wilton",
+    "Zip Codes": [
+      6897
+    ]
+  },
+  {
+    "City": "Windham",
+    "Zip Codes": [
+      6280
+    ]
+  },
+  {
+    "City": "Windsor",
+    "Zip Codes": [
+      6095
+    ]
+  },
+  {
+    "City": "Windsor Locks",
+    "Zip Codes": [
+      6096
+    ]
+  },
+  {
+    "City": "Winsted",
+    "Zip Codes": [
+      6098
+    ]
+  },
+  {
+    "City": "Wolcott",
+    "Zip Codes": [
+      6716
+    ]
+  },
+  {
+    "City": "Woodbridge",
+    "Zip Codes": [
+      6525
+    ]
+  },
+  {
+    "City": "Woodbury",
+    "Zip Codes": [
+      6798
+    ]
+  },
+  {
+    "City": "Woodstock",
+    "Zip Codes": [
+      6281
+    ]
+  },
+  {
+    "City": "Woodstock Valley",
+    "Zip Codes": [
+      6282
+    ]
+  },
+  {
+    "City": "Yantic",
+    "Zip Codes": [
+      6389
+    ]
+  }
+]

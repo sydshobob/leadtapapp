@@ -1,0 +1,598 @@
+[
+  {
+    "City": "Adjuntas",
+    "Zip Codes": [
+      601
+    ]
+  },
+  {
+    "City": "Aguada",
+    "Zip Codes": [
+      602
+    ]
+  },
+  {
+    "City": "Aguadilla",
+    "Zip Codes": [
+      603
+    ]
+  },
+  {
+    "City": "Aguas Buenas",
+    "Zip Codes": [
+      703
+    ]
+  },
+  {
+    "City": "Aguirre",
+    "Zip Codes": [
+      704
+    ]
+  },
+  {
+    "City": "Aibonito",
+    "Zip Codes": [
+      705
+    ]
+  },
+  {
+    "City": "Anasco",
+    "Zip Codes": [
+      610
+    ]
+  },
+  {
+    "City": "Arecibo",
+    "Zip Codes": [
+      612
+    ]
+  },
+  {
+    "City": "Arroyo",
+    "Zip Codes": [
+      714
+    ]
+  },
+  {
+    "City": "Bajadero",
+    "Zip Codes": [
+      616
+    ]
+  },
+  {
+    "City": "Barceloneta",
+    "Zip Codes": [
+      617
+    ]
+  },
+  {
+    "City": "Barranquitas",
+    "Zip Codes": [
+      794
+    ]
+  },
+  {
+    "City": "Bayamon",
+    "Zip Codes": [
+      961,
+      959,
+      956,
+      960,
+      957
+    ]
+  },
+  {
+    "City": "Boqueron",
+    "Zip Codes": [
+      622
+    ]
+  },
+  {
+    "City": "Cabo Rojo",
+    "Zip Codes": [
+      623
+    ]
+  },
+  {
+    "City": "Caguas",
+    "Zip Codes": [
+      725,
+      727
+    ]
+  },
+  {
+    "City": "Camuy",
+    "Zip Codes": [
+      627
+    ]
+  },
+  {
+    "City": "Canovanas",
+    "Zip Codes": [
+      729
+    ]
+  },
+  {
+    "City": "Carolina",
+    "Zip Codes": [
+      979,
+      982,
+      987,
+      985,
+      983
+    ]
+  },
+  {
+    "City": "Castaner",
+    "Zip Codes": [
+      631
+    ]
+  },
+  {
+    "City": "Catano",
+    "Zip Codes": [
+      962
+    ]
+  },
+  {
+    "City": "Cayey",
+    "Zip Codes": [
+      736
+    ]
+  },
+  {
+    "City": "Ceiba",
+    "Zip Codes": [
+      735
+    ]
+  },
+  {
+    "City": "Ciales",
+    "Zip Codes": [
+      638
+    ]
+  },
+  {
+    "City": "Cidra",
+    "Zip Codes": [
+      739
+    ]
+  },
+  {
+    "City": "Coamo",
+    "Zip Codes": [
+      769
+    ]
+  },
+  {
+    "City": "Comerio",
+    "Zip Codes": [
+      782
+    ]
+  },
+  {
+    "City": "Corozal",
+    "Zip Codes": [
+      783
+    ]
+  },
+  {
+    "City": "Coto Laurel",
+    "Zip Codes": [
+      780
+    ]
+  },
+  {
+    "City": "Culebra",
+    "Zip Codes": [
+      775
+    ]
+  },
+  {
+    "City": "Dorado",
+    "Zip Codes": [
+      646
+    ]
+  },
+  {
+    "City": "Ensenada",
+    "Zip Codes": [
+      647
+    ]
+  },
+  {
+    "City": "Fajardo",
+    "Zip Codes": [
+      738
+    ]
+  },
+  {
+    "City": "Florida",
+    "Zip Codes": [
+      650
+    ]
+  },
+  {
+    "City": "Fort Buchanan",
+    "Zip Codes": [
+      934
+    ]
+  },
+  {
+    "City": "Garrochales",
+    "Zip Codes": [
+      652
+    ]
+  },
+  {
+    "City": "Guanica",
+    "Zip Codes": [
+      653
+    ]
+  },
+  {
+    "City": "Guayama",
+    "Zip Codes": [
+      784
+    ]
+  },
+  {
+    "City": "Guayanilla",
+    "Zip Codes": [
+      656
+    ]
+  },
+  {
+    "City": "Guaynabo",
+    "Zip Codes": [
+      971,
+      969,
+      965,
+      968,
+      966
+    ]
+  },
+  {
+    "City": "Gurabo",
+    "Zip Codes": [
+      778
+    ]
+  },
+  {
+    "City": "Hatillo",
+    "Zip Codes": [
+      659
+    ]
+  },
+  {
+    "City": "Hormigueros",
+    "Zip Codes": [
+      660
+    ]
+  },
+  {
+    "City": "Humacao",
+    "Zip Codes": [
+      791
+    ]
+  },
+  {
+    "City": "Isabela",
+    "Zip Codes": [
+      662
+    ]
+  },
+  {
+    "City": "Jayuya",
+    "Zip Codes": [
+      664
+    ]
+  },
+  {
+    "City": "Juana Diaz",
+    "Zip Codes": [
+      795
+    ]
+  },
+  {
+    "City": "Juncos",
+    "Zip Codes": [
+      777
+    ]
+  },
+  {
+    "City": "La Plata",
+    "Zip Codes": [
+      786
+    ]
+  },
+  {
+    "City": "Lajas",
+    "Zip Codes": [
+      667
+    ]
+  },
+  {
+    "City": "Lares",
+    "Zip Codes": [
+      669
+    ]
+  },
+  {
+    "City": "Las Marias",
+    "Zip Codes": [
+      670
+    ]
+  },
+  {
+    "City": "Las Piedras",
+    "Zip Codes": [
+      771
+    ]
+  },
+  {
+    "City": "Loiza",
+    "Zip Codes": [
+      772
+    ]
+  },
+  {
+    "City": "Luquillo",
+    "Zip Codes": [
+      773
+    ]
+  },
+  {
+    "City": "Manati",
+    "Zip Codes": [
+      674
+    ]
+  },
+  {
+    "City": "Maricao",
+    "Zip Codes": [
+      606
+    ]
+  },
+  {
+    "City": "Maunabo",
+    "Zip Codes": [
+      707
+    ]
+  },
+  {
+    "City": "Mayaguez",
+    "Zip Codes": [
+      680,
+      682
+    ]
+  },
+  {
+    "City": "Mercedita",
+    "Zip Codes": [
+      715
+    ]
+  },
+  {
+    "City": "Moca",
+    "Zip Codes": [
+      676
+    ]
+  },
+  {
+    "City": "Morovis",
+    "Zip Codes": [
+      687
+    ]
+  },
+  {
+    "City": "Naguabo",
+    "Zip Codes": [
+      718
+    ]
+  },
+  {
+    "City": "Naranjito",
+    "Zip Codes": [
+      719
+    ]
+  },
+  {
+    "City": "Orocovis",
+    "Zip Codes": [
+      720
+    ]
+  },
+  {
+    "City": "Patillas",
+    "Zip Codes": [
+      723
+    ]
+  },
+  {
+    "City": "Penuelas",
+    "Zip Codes": [
+      624
+    ]
+  },
+  {
+    "City": "Ponce",
+    "Zip Codes": [
+      717,
+      716,
+      731,
+      728,
+      730
+    ]
+  },
+  {
+    "City": "Puerto Real",
+    "Zip Codes": [
+      740
+    ]
+  },
+  {
+    "City": "Punta Santiago",
+    "Zip Codes": [
+      741
+    ]
+  },
+  {
+    "City": "Quebradillas",
+    "Zip Codes": [
+      678
+    ]
+  },
+  {
+    "City": "Rincon",
+    "Zip Codes": [
+      677
+    ]
+  },
+  {
+    "City": "Rio Grande",
+    "Zip Codes": [
+      745
+    ]
+  },
+  {
+    "City": "Sabana Grande",
+    "Zip Codes": [
+      637
+    ]
+  },
+  {
+    "City": "Sabana Hoyos",
+    "Zip Codes": [
+      688
+    ]
+  },
+  {
+    "City": "Sabana Seca",
+    "Zip Codes": [
+      952
+    ]
+  },
+  {
+    "City": "Salinas",
+    "Zip Codes": [
+      751
+    ]
+  },
+  {
+    "City": "San Antonio",
+    "Zip Codes": [
+      690
+    ]
+  },
+  {
+    "City": "San German",
+    "Zip Codes": [
+      683
+    ]
+  },
+  {
+    "City": "San Juan",
+    "Zip Codes": [
+      912,
+      925,
+      927,
+      906,
+      924,
+      936,
+      915,
+      918,
+      911,
+      917,
+      920,
+      913,
+      926,
+      907,
+      921,
+      909,
+      923,
+      901
+    ]
+  },
+  {
+    "City": "San Lorenzo",
+    "Zip Codes": [
+      754
+    ]
+  },
+  {
+    "City": "San Sebastian",
+    "Zip Codes": [
+      685
+    ]
+  },
+  {
+    "City": "Santa Isabel",
+    "Zip Codes": [
+      757
+    ]
+  },
+  {
+    "City": "Toa Alta",
+    "Zip Codes": [
+      953
+    ]
+  },
+  {
+    "City": "Toa Baja",
+    "Zip Codes": [
+      951,
+      950,
+      949
+    ]
+  },
+  {
+    "City": "Trujillo Alto",
+    "Zip Codes": [
+      976
+    ]
+  },
+  {
+    "City": "Utuado",
+    "Zip Codes": [
+      641
+    ]
+  },
+  {
+    "City": "Vega Alta",
+    "Zip Codes": [
+      692
+    ]
+  },
+  {
+    "City": "Vega Baja",
+    "Zip Codes": [
+      694,
+      693
+    ]
+  },
+  {
+    "City": "Vieques",
+    "Zip Codes": [
+      765
+    ]
+  },
+  {
+    "City": "Villalba",
+    "Zip Codes": [
+      766
+    ]
+  },
+  {
+    "City": "Yabucoa",
+    "Zip Codes": [
+      767
+    ]
+  },
+  {
+    "City": "Yauco",
+    "Zip Codes": [
+      698
+    ]
+  }
+]

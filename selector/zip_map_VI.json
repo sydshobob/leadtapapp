@@ -1,0 +1,38 @@
+[
+  {
+    "City": "Christiansted",
+    "Zip Codes": [
+      823,
+      824,
+      820
+    ]
+  },
+  {
+    "City": "Frederiksted",
+    "Zip Codes": [
+      841,
+      840
+    ]
+  },
+  {
+    "City": "Kingshill",
+    "Zip Codes": [
+      851,
+      850
+    ]
+  },
+  {
+    "City": "St John",
+    "Zip Codes": [
+      831,
+      830
+    ]
+  },
+  {
+    "City": "St Thomas",
+    "Zip Codes": [
+      801,
+      802
+    ]
+  }
+]

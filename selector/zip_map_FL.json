@@ -1,0 +1,3233 @@
+[
+  {
+    "City": "Alachua",
+    "Zip Codes": [
+      32616,
+      32615
+    ]
+  },
+  {
+    "City": "Alford",
+    "Zip Codes": [
+      32420
+    ]
+  },
+  {
+    "City": "Altamonte Springs",
+    "Zip Codes": [
+      32714,
+      32701
+    ]
+  },
+  {
+    "City": "Altha",
+    "Zip Codes": [
+      32421
+    ]
+  },
+  {
+    "City": "Altoona",
+    "Zip Codes": [
+      32702
+    ]
+  },
+  {
+    "City": "Alva",
+    "Zip Codes": [
+      33920
+    ]
+  },
+  {
+    "City": "Anna Maria",
+    "Zip Codes": [
+      34216
+    ]
+  },
+  {
+    "City": "Anthony",
+    "Zip Codes": [
+      32617
+    ]
+  },
+  {
+    "City": "Apalachicola",
+    "Zip Codes": [
+      32320
+    ]
+  },
+  {
+    "City": "Apollo Beach",
+    "Zip Codes": [
+      33572
+    ]
+  },
+  {
+    "City": "Apopka",
+    "Zip Codes": [
+      32712,
+      32703
+    ]
+  },
+  {
+    "City": "Arcadia",
+    "Zip Codes": [
+      34269,
+      34266
+    ]
+  },
+  {
+    "City": "Archer",
+    "Zip Codes": [
+      32618
+    ]
+  },
+  {
+    "City": "Aripeka",
+    "Zip Codes": [
+      34679
+    ]
+  },
+  {
+    "City": "Astatula",
+    "Zip Codes": [
+      34705
+    ]
+  },
+  {
+    "City": "Astor",
+    "Zip Codes": [
+      32102
+    ]
+  },
+  {
+    "City": "Atlantic Beach",
+    "Zip Codes": [
+      32233
+    ]
+  },
+  {
+    "City": "Auburndale",
+    "Zip Codes": [
+      33823
+    ]
+  },
+  {
+    "City": "Avon Park",
+    "Zip Codes": [
+      33825
+    ]
+  },
+  {
+    "City": "Babson Park",
+    "Zip Codes": [
+      33827
+    ]
+  },
+  {
+    "City": "Bagdad",
+    "Zip Codes": [
+      32530
+    ]
+  },
+  {
+    "City": "Baker",
+    "Zip Codes": [
+      32531
+    ]
+  },
+  {
+    "City": "Balm",
+    "Zip Codes": [
+      33503
+    ]
+  },
+  {
+    "City": "Bartow",
+    "Zip Codes": [
+      33830
+    ]
+  },
+  {
+    "City": "Bascom",
+    "Zip Codes": [
+      32423
+    ]
+  },
+  {
+    "City": "Bay Pines",
+    "Zip Codes": [
+      33744
+    ]
+  },
+  {
+    "City": "Bell",
+    "Zip Codes": [
+      32619
+    ]
+  },
+  {
+    "City": "Belle Glade",
+    "Zip Codes": [
+      33430
+    ]
+  },
+  {
+    "City": "Belleair Beach",
+    "Zip Codes": [
+      33786
+    ]
+  },
+  {
+    "City": "Belleview",
+    "Zip Codes": [
+      34420
+    ]
+  },
+  {
+    "City": "Beverly Hills",
+    "Zip Codes": [
+      34465
+    ]
+  },
+  {
+    "City": "Big Pine Key",
+    "Zip Codes": [
+      33043
+    ]
+  },
+  {
+    "City": "Blountstown",
+    "Zip Codes": [
+      32424
+    ]
+  },
+  {
+    "City": "Boca Grande",
+    "Zip Codes": [
+      33921
+    ]
+  },
+  {
+    "City": "Boca Raton",
+    "Zip Codes": [
+      33487,
+      33434,
+      33432,
+      33428,
+      33431,
+      33433,
+      33496,
+      33486,
+      33498
+    ]
+  },
+  {
+    "City": "Bokeelia",
+    "Zip Codes": [
+      33922
+    ]
+  },
+  {
+    "City": "Bonifay",
+    "Zip Codes": [
+      32425
+    ]
+  },
+  {
+    "City": "Bonita Springs",
+    "Zip Codes": [
+      34134,
+      34135
+    ]
+  },
+  {
+    "City": "Bowling Green",
+    "Zip Codes": [
+      33834
+    ]
+  },
+  {
+    "City": "Boynton Beach",
+    "Zip Codes": [
+      33435,
+      33437,
+      33472,
+      33426,
+      33473,
+      33436
+    ]
+  },
+  {
+    "City": "Bradenton",
+    "Zip Codes": [
+      34211,
+      34202,
+      34207,
+      34209,
+      34210,
+      34212,
+      34203,
+      34201,
+      34205,
+      34208
+    ]
+  },
+  {
+    "City": "Bradenton Beach",
+    "Zip Codes": [
+      34217
+    ]
+  },
+  {
+    "City": "Brandon",
+    "Zip Codes": [
+      33510,
+      33511
+    ]
+  },
+  {
+    "City": "Branford",
+    "Zip Codes": [
+      32008
+    ]
+  },
+  {
+    "City": "Bristol",
+    "Zip Codes": [
+      32321
+    ]
+  },
+  {
+    "City": "Bronson",
+    "Zip Codes": [
+      32621
+    ]
+  },
+  {
+    "City": "Brooker",
+    "Zip Codes": [
+      32622
+    ]
+  },
+  {
+    "City": "Brooksville",
+    "Zip Codes": [
+      34614,
+      34604,
+      34602,
+      34613,
+      34601
+    ]
+  },
+  {
+    "City": "Bryceville",
+    "Zip Codes": [
+      32009
+    ]
+  },
+  {
+    "City": "Bunnell",
+    "Zip Codes": [
+      32110
+    ]
+  },
+  {
+    "City": "Bushnell",
+    "Zip Codes": [
+      33513
+    ]
+  },
+  {
+    "City": "Callahan",
+    "Zip Codes": [
+      32011
+    ]
+  },
+  {
+    "City": "Campbellton",
+    "Zip Codes": [
+      32426
+    ]
+  },
+  {
+    "City": "Canal Point",
+    "Zip Codes": [
+      33438
+    ]
+  },
+  {
+    "City": "Cantonment",
+    "Zip Codes": [
+      32533
+    ]
+  },
+  {
+    "City": "Cape Canaveral",
+    "Zip Codes": [
+      32920
+    ]
+  },
+  {
+    "City": "Cape Coral",
+    "Zip Codes": [
+      33904,
+      33990,
+      33991,
+      33909,
+      33993,
+      33914
+    ]
+  },
+  {
+    "City": "Captiva",
+    "Zip Codes": [
+      33924
+    ]
+  },
+  {
+    "City": "Carrabelle",
+    "Zip Codes": [
+      32322
+    ]
+  },
+  {
+    "City": "Caryville",
+    "Zip Codes": [
+      32427
+    ]
+  },
+  {
+    "City": "Casselberry",
+    "Zip Codes": [
+      32707,
+      32730
+    ]
+  },
+  {
+    "City": "Cedar Key",
+    "Zip Codes": [
+      32625
+    ]
+  },
+  {
+    "City": "Center Hill",
+    "Zip Codes": [
+      33514
+    ]
+  },
+  {
+    "City": "Century",
+    "Zip Codes": [
+      32535
+    ]
+  },
+  {
+    "City": "Chattahoochee",
+    "Zip Codes": [
+      32324
+    ]
+  },
+  {
+    "City": "Chiefland",
+    "Zip Codes": [
+      32626
+    ]
+  },
+  {
+    "City": "Chipley",
+    "Zip Codes": [
+      32428
+    ]
+  },
+  {
+    "City": "Chokoloskee",
+    "Zip Codes": [
+      34138
+    ]
+  },
+  {
+    "City": "Christmas",
+    "Zip Codes": [
+      32709
+    ]
+  },
+  {
+    "City": "Citra",
+    "Zip Codes": [
+      32113
+    ]
+  },
+  {
+    "City": "Clarksville",
+    "Zip Codes": [
+      32430
+    ]
+  },
+  {
+    "City": "Clearwater",
+    "Zip Codes": [
+      33756,
+      33760,
+      33759,
+      33765,
+      33755,
+      33762,
+      33764,
+      33763,
+      33761
+    ]
+  },
+  {
+    "City": "Clearwater Beach",
+    "Zip Codes": [
+      33767
+    ]
+  },
+  {
+    "City": "Clermont",
+    "Zip Codes": [
+      34711,
+      34715,
+      34714
+    ]
+  },
+  {
+    "City": "Clewiston",
+    "Zip Codes": [
+      33440
+    ]
+  },
+  {
+    "City": "Cocoa",
+    "Zip Codes": [
+      32926,
+      32922,
+      32927
+    ]
+  },
+  {
+    "City": "Cocoa Beach",
+    "Zip Codes": [
+      32931
+    ]
+  },
+  {
+    "City": "Coleman",
+    "Zip Codes": [
+      33521
+    ]
+  },
+  {
+    "City": "Copeland",
+    "Zip Codes": [
+      34137
+    ]
+  },
+  {
+    "City": "Coral Springs",
+    "Zip Codes": [
+      33071,
+      33065
+    ]
+  },
+  {
+    "City": "Cortez",
+    "Zip Codes": [
+      34215
+    ]
+  },
+  {
+    "City": "Cottondale",
+    "Zip Codes": [
+      32431
+    ]
+  },
+  {
+    "City": "Crawfordville",
+    "Zip Codes": [
+      32327
+    ]
+  },
+  {
+    "City": "Crescent City",
+    "Zip Codes": [
+      32112
+    ]
+  },
+  {
+    "City": "Crestview",
+    "Zip Codes": [
+      32536,
+      32539
+    ]
+  },
+  {
+    "City": "Cross City",
+    "Zip Codes": [
+      32628
+    ]
+  },
+  {
+    "City": "Crystal Beach",
+    "Zip Codes": [
+      34681
+    ]
+  },
+  {
+    "City": "Crystal River",
+    "Zip Codes": [
+      34429,
+      34428
+    ]
+  },
+  {
+    "City": "Cypress",
+    "Zip Codes": [
+      32432
+    ]
+  },
+  {
+    "City": "Dade City",
+    "Zip Codes": [
+      33523,
+      33525
+    ]
+  },
+  {
+    "City": "Dania",
+    "Zip Codes": [
+      33004
+    ]
+  },
+  {
+    "City": "Davenport",
+    "Zip Codes": [
+      33837,
+      33896,
+      33897
+    ]
+  },
+  {
+    "City": "Daytona Beach",
+    "Zip Codes": [
+      32124,
+      32117,
+      32114,
+      32118,
+      32119
+    ]
+  },
+  {
+    "City": "De Leon Springs",
+    "Zip Codes": [
+      32130
+    ]
+  },
+  {
+    "City": "Debary",
+    "Zip Codes": [
+      32713
+    ]
+  },
+  {
+    "City": "Deerfield Beach",
+    "Zip Codes": [
+      33441,
+      33442
+    ]
+  },
+  {
+    "City": "Defuniak Springs",
+    "Zip Codes": [
+      32435,
+      32433
+    ]
+  },
+  {
+    "City": "Deland",
+    "Zip Codes": [
+      32724,
+      32720
+    ]
+  },
+  {
+    "City": "Delray Beach",
+    "Zip Codes": [
+      33446,
+      33444,
+      33445,
+      33483,
+      33484
+    ]
+  },
+  {
+    "City": "Deltona",
+    "Zip Codes": [
+      32738,
+      32725
+    ]
+  },
+  {
+    "City": "Destin",
+    "Zip Codes": [
+      32541
+    ]
+  },
+  {
+    "City": "Dover",
+    "Zip Codes": [
+      33527
+    ]
+  },
+  {
+    "City": "Dundee",
+    "Zip Codes": [
+      33838
+    ]
+  },
+  {
+    "City": "Dunedin",
+    "Zip Codes": [
+      34698
+    ]
+  },
+  {
+    "City": "Dunnellon",
+    "Zip Codes": [
+      34431,
+      34432,
+      34434,
+      34433
+    ]
+  },
+  {
+    "City": "Eagle Lake",
+    "Zip Codes": [
+      33839
+    ]
+  },
+  {
+    "City": "Earleton",
+    "Zip Codes": [
+      32631
+    ]
+  },
+  {
+    "City": "East Palatka",
+    "Zip Codes": [
+      32131
+    ]
+  },
+  {
+    "City": "Eastlake Weir",
+    "Zip Codes": [
+      32133
+    ]
+  },
+  {
+    "City": "Eastpoint",
+    "Zip Codes": [
+      32328
+    ]
+  },
+  {
+    "City": "Ebro",
+    "Zip Codes": [
+      32437
+    ]
+  },
+  {
+    "City": "Edgewater",
+    "Zip Codes": [
+      32141,
+      32132
+    ]
+  },
+  {
+    "City": "Eglin Afb",
+    "Zip Codes": [
+      32542
+    ]
+  },
+  {
+    "City": "Elkton",
+    "Zip Codes": [
+      32033
+    ]
+  },
+  {
+    "City": "Ellenton",
+    "Zip Codes": [
+      34222
+    ]
+  },
+  {
+    "City": "Englewood",
+    "Zip Codes": [
+      34223,
+      34224
+    ]
+  },
+  {
+    "City": "Estero",
+    "Zip Codes": [
+      33928
+    ]
+  },
+  {
+    "City": "Eustis",
+    "Zip Codes": [
+      32726,
+      32736
+    ]
+  },
+  {
+    "City": "Everglades City",
+    "Zip Codes": [
+      34139
+    ]
+  },
+  {
+    "City": "Felda",
+    "Zip Codes": [
+      33930
+    ]
+  },
+  {
+    "City": "Fellsmere",
+    "Zip Codes": [
+      32948
+    ]
+  },
+  {
+    "City": "Fernandina Beach",
+    "Zip Codes": [
+      32034
+    ]
+  },
+  {
+    "City": "Flagler Beach",
+    "Zip Codes": [
+      32136
+    ]
+  },
+  {
+    "City": "Fleming Island",
+    "Zip Codes": [
+      32003
+    ]
+  },
+  {
+    "City": "Florahome",
+    "Zip Codes": [
+      32140
+    ]
+  },
+  {
+    "City": "Floral City",
+    "Zip Codes": [
+      34436
+    ]
+  },
+  {
+    "City": "Fort Lauderdale",
+    "Zip Codes": [
+      33326,
+      33331,
+      33306,
+      33334,
+      33304,
+      33330,
+      33309,
+      33324,
+      33301,
+      33311,
+      33317,
+      33316,
+      33351,
+      33332,
+      33313,
+      33314,
+      33319,
+      33322,
+      33305,
+      33323,
+      33325,
+      33328,
+      33308,
+      33312,
+      33321,
+      33315,
+      33327
+    ]
+  },
+  {
+    "City": "Fort McCoy",
+    "Zip Codes": [
+      32134
+    ]
+  },
+  {
+    "City": "Fort Meade",
+    "Zip Codes": [
+      33841
+    ]
+  },
+  {
+    "City": "Fort Myers",
+    "Zip Codes": [
+      33916,
+      33901,
+      33965,
+      33913,
+      33967,
+      33966,
+      33905,
+      33908,
+      33912,
+      33919,
+      33907
+    ]
+  },
+  {
+    "City": "Fort Myers Beach",
+    "Zip Codes": [
+      33931
+    ]
+  },
+  {
+    "City": "Fort Pierce",
+    "Zip Codes": [
+      34950,
+      34946,
+      34951,
+      34945,
+      34981,
+      34947,
+      34949,
+      34982
+    ]
+  },
+  {
+    "City": "Fort Walton Beach",
+    "Zip Codes": [
+      32548,
+      32547
+    ]
+  },
+  {
+    "City": "Fort White",
+    "Zip Codes": [
+      32038
+    ]
+  },
+  {
+    "City": "Fountain",
+    "Zip Codes": [
+      32438
+    ]
+  },
+  {
+    "City": "Freeport",
+    "Zip Codes": [
+      32439
+    ]
+  },
+  {
+    "City": "Frostproof",
+    "Zip Codes": [
+      33843
+    ]
+  },
+  {
+    "City": "Fruitland Park",
+    "Zip Codes": [
+      34731
+    ]
+  },
+  {
+    "City": "Gainesville",
+    "Zip Codes": [
+      32603,
+      32641,
+      32653,
+      32609,
+      32612,
+      32601,
+      32605,
+      32607,
+      32608,
+      32606
+    ]
+  },
+  {
+    "City": "Geneva",
+    "Zip Codes": [
+      32732
+    ]
+  },
+  {
+    "City": "Georgetown",
+    "Zip Codes": [
+      32139
+    ]
+  },
+  {
+    "City": "Gibsonton",
+    "Zip Codes": [
+      33534
+    ]
+  },
+  {
+    "City": "Glen Saint Mary",
+    "Zip Codes": [
+      32040
+    ]
+  },
+  {
+    "City": "Goodland",
+    "Zip Codes": [
+      34140
+    ]
+  },
+  {
+    "City": "Gotha",
+    "Zip Codes": [
+      34734
+    ]
+  },
+  {
+    "City": "Graceville",
+    "Zip Codes": [
+      32440
+    ]
+  },
+  {
+    "City": "Grand Island",
+    "Zip Codes": [
+      32735
+    ]
+  },
+  {
+    "City": "Grand Ridge",
+    "Zip Codes": [
+      32442
+    ]
+  },
+  {
+    "City": "Grant",
+    "Zip Codes": [
+      32949
+    ]
+  },
+  {
+    "City": "Green Cove Springs",
+    "Zip Codes": [
+      32043
+    ]
+  },
+  {
+    "City": "Greensboro",
+    "Zip Codes": [
+      32330
+    ]
+  },
+  {
+    "City": "Greenville",
+    "Zip Codes": [
+      32331
+    ]
+  },
+  {
+    "City": "Greenwood",
+    "Zip Codes": [
+      32443
+    ]
+  },
+  {
+    "City": "Gretna",
+    "Zip Codes": [
+      32332
+    ]
+  },
+  {
+    "City": "Groveland",
+    "Zip Codes": [
+      34736
+    ]
+  },
+  {
+    "City": "Gulf Breeze",
+    "Zip Codes": [
+      32563,
+      32561
+    ]
+  },
+  {
+    "City": "Gulf Hammock",
+    "Zip Codes": [
+      32639
+    ]
+  },
+  {
+    "City": "Haines City",
+    "Zip Codes": [
+      33844
+    ]
+  },
+  {
+    "City": "Hallandale",
+    "Zip Codes": [
+      33009
+    ]
+  },
+  {
+    "City": "Hampton",
+    "Zip Codes": [
+      32044
+    ]
+  },
+  {
+    "City": "Hastings",
+    "Zip Codes": [
+      32145
+    ]
+  },
+  {
+    "City": "Havana",
+    "Zip Codes": [
+      32333
+    ]
+  },
+  {
+    "City": "Hawthorne",
+    "Zip Codes": [
+      32640
+    ]
+  },
+  {
+    "City": "Hernando",
+    "Zip Codes": [
+      34442
+    ]
+  },
+  {
+    "City": "Hialeah",
+    "Zip Codes": [
+      33014,
+      33012,
+      33013,
+      33010,
+      33018,
+      33016,
+      33015
+    ]
+  },
+  {
+    "City": "High Springs",
+    "Zip Codes": [
+      32643
+    ]
+  },
+  {
+    "City": "Hilliard",
+    "Zip Codes": [
+      32046
+    ]
+  },
+  {
+    "City": "Hobe Sound",
+    "Zip Codes": [
+      33455
+    ]
+  },
+  {
+    "City": "Holder",
+    "Zip Codes": [
+      34445
+    ]
+  },
+  {
+    "City": "Holiday",
+    "Zip Codes": [
+      34691,
+      34690
+    ]
+  },
+  {
+    "City": "Hollister",
+    "Zip Codes": [
+      32147
+    ]
+  },
+  {
+    "City": "Hollywood",
+    "Zip Codes": [
+      33024,
+      33027,
+      33019,
+      33021,
+      33020,
+      33023,
+      33026,
+      33025,
+      33029
+    ]
+  },
+  {
+    "City": "Holt",
+    "Zip Codes": [
+      32564
+    ]
+  },
+  {
+    "City": "Homeland",
+    "Zip Codes": [
+      33847
+    ]
+  },
+  {
+    "City": "Homestead",
+    "Zip Codes": [
+      33033,
+      33039,
+      33031,
+      33034,
+      33030,
+      33032,
+      33035
+    ]
+  },
+  {
+    "City": "Homosassa",
+    "Zip Codes": [
+      34446,
+      34448
+    ]
+  },
+  {
+    "City": "Horseshoe Beach",
+    "Zip Codes": [
+      32648
+    ]
+  },
+  {
+    "City": "Hosford",
+    "Zip Codes": [
+      32334
+    ]
+  },
+  {
+    "City": "Howey In The Hills",
+    "Zip Codes": [
+      34737
+    ]
+  },
+  {
+    "City": "Hudson",
+    "Zip Codes": [
+      34669,
+      34667
+    ]
+  },
+  {
+    "City": "Hurlburt Field",
+    "Zip Codes": [
+      32544
+    ]
+  },
+  {
+    "City": "Immokalee",
+    "Zip Codes": [
+      34142
+    ]
+  },
+  {
+    "City": "Indialantic",
+    "Zip Codes": [
+      32903
+    ]
+  },
+  {
+    "City": "Indian Lake Estates",
+    "Zip Codes": [
+      33855
+    ]
+  },
+  {
+    "City": "Indian Rocks Beach",
+    "Zip Codes": [
+      33785
+    ]
+  },
+  {
+    "City": "Indiantown",
+    "Zip Codes": [
+      34956
+    ]
+  },
+  {
+    "City": "Inglis",
+    "Zip Codes": [
+      34449
+    ]
+  },
+  {
+    "City": "Inlet Beach",
+    "Zip Codes": [
+      32461
+    ]
+  },
+  {
+    "City": "Intercession City",
+    "Zip Codes": [
+      33848
+    ]
+  },
+  {
+    "City": "Interlachen",
+    "Zip Codes": [
+      32148
+    ]
+  },
+  {
+    "City": "Inverness",
+    "Zip Codes": [
+      34450,
+      34452,
+      34453
+    ]
+  },
+  {
+    "City": "Islamorada",
+    "Zip Codes": [
+      33036
+    ]
+  },
+  {
+    "City": "Jacksonville",
+    "Zip Codes": [
+      32228,
+      32246,
+      32254,
+      32204,
+      32209,
+      32221,
+      32208,
+      32224,
+      32218,
+      32258,
+      32210,
+      32217,
+      32222,
+      32206,
+      32202,
+      32256,
+      32219,
+      32244,
+      32220,
+      32227,
+      32257,
+      32211,
+      32225,
+      32226,
+      32205,
+      32212,
+      32223,
+      32234,
+      32207,
+      32277,
+      32216
+    ]
+  },
+  {
+    "City": "Jacksonville Beach",
+    "Zip Codes": [
+      32250
+    ]
+  },
+  {
+    "City": "Jasper",
+    "Zip Codes": [
+      32052
+    ]
+  },
+  {
+    "City": "Jay",
+    "Zip Codes": [
+      32565
+    ]
+  },
+  {
+    "City": "Jennings",
+    "Zip Codes": [
+      32053
+    ]
+  },
+  {
+    "City": "Jensen Beach",
+    "Zip Codes": [
+      34957
+    ]
+  },
+  {
+    "City": "Jupiter",
+    "Zip Codes": [
+      33469,
+      33478,
+      33458,
+      33477
+    ]
+  },
+  {
+    "City": "Kathleen",
+    "Zip Codes": [
+      33849
+    ]
+  },
+  {
+    "City": "Kenansville",
+    "Zip Codes": [
+      34739
+    ]
+  },
+  {
+    "City": "Key Biscayne",
+    "Zip Codes": [
+      33149
+    ]
+  },
+  {
+    "City": "Key Colony Beach",
+    "Zip Codes": [
+      33051
+    ]
+  },
+  {
+    "City": "Key Largo",
+    "Zip Codes": [
+      33037
+    ]
+  },
+  {
+    "City": "Key West",
+    "Zip Codes": [
+      33040
+    ]
+  },
+  {
+    "City": "Keystone Heights",
+    "Zip Codes": [
+      32656
+    ]
+  },
+  {
+    "City": "Kissimmee",
+    "Zip Codes": [
+      34746,
+      34744,
+      34747,
+      34758,
+      34759,
+      34741,
+      34743
+    ]
+  },
+  {
+    "City": "La Crosse",
+    "Zip Codes": [
+      32658
+    ]
+  },
+  {
+    "City": "Labelle",
+    "Zip Codes": [
+      33935
+    ]
+  },
+  {
+    "City": "Lady Lake",
+    "Zip Codes": [
+      32159
+    ]
+  },
+  {
+    "City": "Lake Alfred",
+    "Zip Codes": [
+      33850
+    ]
+  },
+  {
+    "City": "Lake Butler",
+    "Zip Codes": [
+      32054
+    ]
+  },
+  {
+    "City": "Lake City",
+    "Zip Codes": [
+      32024,
+      32055,
+      32025
+    ]
+  },
+  {
+    "City": "Lake Como",
+    "Zip Codes": [
+      32157
+    ]
+  },
+  {
+    "City": "Lake Hamilton",
+    "Zip Codes": [
+      33851
+    ]
+  },
+  {
+    "City": "Lake Helen",
+    "Zip Codes": [
+      32744
+    ]
+  },
+  {
+    "City": "Lake Mary",
+    "Zip Codes": [
+      32746
+    ]
+  },
+  {
+    "City": "Lake Panasoffkee",
+    "Zip Codes": [
+      33538
+    ]
+  },
+  {
+    "City": "Lake Placid",
+    "Zip Codes": [
+      33852
+    ]
+  },
+  {
+    "City": "Lake Wales",
+    "Zip Codes": [
+      33853,
+      33859,
+      33898
+    ]
+  },
+  {
+    "City": "Lake Worth",
+    "Zip Codes": [
+      33461,
+      33467,
+      33462,
+      33449,
+      33463
+    ]
+  },
+  {
+    "City": "Lake Worth Beach",
+    "Zip Codes": [
+      33460
+    ]
+  },
+  {
+    "City": "Lakeland",
+    "Zip Codes": [
+      33815,
+      33812,
+      33805,
+      33801,
+      33813,
+      33811,
+      33810,
+      33809,
+      33803
+    ]
+  },
+  {
+    "City": "Lakeshore",
+    "Zip Codes": [
+      33854
+    ]
+  },
+  {
+    "City": "Lamont",
+    "Zip Codes": [
+      32336
+    ]
+  },
+  {
+    "City": "Lanark Village",
+    "Zip Codes": [
+      32323
+    ]
+  },
+  {
+    "City": "Land O'Lakes",
+    "Zip Codes": [
+      34639,
+      34638,
+      34637
+    ]
+  },
+  {
+    "City": "Largo",
+    "Zip Codes": [
+      33778,
+      33770,
+      33771,
+      33773,
+      33774
+    ]
+  },
+  {
+    "City": "Laurel Hill",
+    "Zip Codes": [
+      32567
+    ]
+  },
+  {
+    "City": "Lawtey",
+    "Zip Codes": [
+      32058
+    ]
+  },
+  {
+    "City": "Lecanto",
+    "Zip Codes": [
+      34461
+    ]
+  },
+  {
+    "City": "Lee",
+    "Zip Codes": [
+      32059
+    ]
+  },
+  {
+    "City": "Leesburg",
+    "Zip Codes": [
+      34748,
+      34788
+    ]
+  },
+  {
+    "City": "Lehigh Acres",
+    "Zip Codes": [
+      33971,
+      33973,
+      33976,
+      33974,
+      33972,
+      33936
+    ]
+  },
+  {
+    "City": "Lithia",
+    "Zip Codes": [
+      33547
+    ]
+  },
+  {
+    "City": "Live Oak",
+    "Zip Codes": [
+      32064,
+      32060
+    ]
+  },
+  {
+    "City": "Long Key",
+    "Zip Codes": [
+      33001
+    ]
+  },
+  {
+    "City": "Longboat Key",
+    "Zip Codes": [
+      34228
+    ]
+  },
+  {
+    "City": "Longwood",
+    "Zip Codes": [
+      32750,
+      32779
+    ]
+  },
+  {
+    "City": "Lorida",
+    "Zip Codes": [
+      33857
+    ]
+  },
+  {
+    "City": "Loxahatchee",
+    "Zip Codes": [
+      33470
+    ]
+  },
+  {
+    "City": "Lulu",
+    "Zip Codes": [
+      32061
+    ]
+  },
+  {
+    "City": "Lutz",
+    "Zip Codes": [
+      33559,
+      33549,
+      33548,
+      33558
+    ]
+  },
+  {
+    "City": "Lynn Haven",
+    "Zip Codes": [
+      32444
+    ]
+  },
+  {
+    "City": "Macclenny",
+    "Zip Codes": [
+      32063
+    ]
+  },
+  {
+    "City": "Madison",
+    "Zip Codes": [
+      32340
+    ]
+  },
+  {
+    "City": "Maitland",
+    "Zip Codes": [
+      32751
+    ]
+  },
+  {
+    "City": "Malabar",
+    "Zip Codes": [
+      32950
+    ]
+  },
+  {
+    "City": "Malone",
+    "Zip Codes": [
+      32445
+    ]
+  },
+  {
+    "City": "Marathon",
+    "Zip Codes": [
+      33050
+    ]
+  },
+  {
+    "City": "Marco Island",
+    "Zip Codes": [
+      34145
+    ]
+  },
+  {
+    "City": "Marianna",
+    "Zip Codes": [
+      32448,
+      32446,
+      32447
+    ]
+  },
+  {
+    "City": "Mary Esther",
+    "Zip Codes": [
+      32569
+    ]
+  },
+  {
+    "City": "Mascotte",
+    "Zip Codes": [
+      34753
+    ]
+  },
+  {
+    "City": "Mayo",
+    "Zip Codes": [
+      32066
+    ]
+  },
+  {
+    "City": "McAlpin",
+    "Zip Codes": [
+      32062
+    ]
+  },
+  {
+    "City": "McDavid",
+    "Zip Codes": [
+      32568
+    ]
+  },
+  {
+    "City": "McIntosh",
+    "Zip Codes": [
+      32664
+    ]
+  },
+  {
+    "City": "Melbourne",
+    "Zip Codes": [
+      32935,
+      32934,
+      32940,
+      32904,
+      32901
+    ]
+  },
+  {
+    "City": "Melbourne Beach",
+    "Zip Codes": [
+      32951
+    ]
+  },
+  {
+    "City": "Melrose",
+    "Zip Codes": [
+      32666
+    ]
+  },
+  {
+    "City": "Merritt Island",
+    "Zip Codes": [
+      32952,
+      32953
+    ]
+  },
+  {
+    "City": "Mexico Beach",
+    "Zip Codes": [
+      32410
+    ]
+  },
+  {
+    "City": "Miami",
+    "Zip Codes": [
+      33176,
+      33196,
+      33126,
+      33135,
+      33125,
+      33142,
+      33150,
+      33155,
+      33172,
+      33186,
+      33169,
+      33129,
+      33156,
+      33128,
+      33143,
+      33145,
+      33162,
+      33167,
+      33122,
+      33127,
+      33158,
+      33170,
+      33173,
+      33181,
+      33184,
+      33131,
+      33177,
+      33190,
+      33187,
+      33133,
+      33138,
+      33180,
+      33157,
+      33175,
+      33178,
+      33137,
+      33101,
+      33136,
+      33174,
+      33183,
+      33134,
+      33144,
+      33166,
+      33182,
+      33189,
+      33179,
+      33146,
+      33194,
+      33132,
+      33161,
+      33165,
+      33130,
+      33147,
+      33168,
+      33185,
+      33193
+    ]
+  },
+  {
+    "City": "Miami Beach",
+    "Zip Codes": [
+      33109,
+      33154,
+      33139,
+      33140,
+      33141
+    ]
+  },
+  {
+    "City": "Miami Gardens",
+    "Zip Codes": [
+      33056
+    ]
+  },
+  {
+    "City": "Micanopy",
+    "Zip Codes": [
+      32667
+    ]
+  },
+  {
+    "City": "Middleburg",
+    "Zip Codes": [
+      32068
+    ]
+  },
+  {
+    "City": "Midway",
+    "Zip Codes": [
+      32343
+    ]
+  },
+  {
+    "City": "Milton",
+    "Zip Codes": [
+      32583,
+      32570,
+      32571
+    ]
+  },
+  {
+    "City": "Mims",
+    "Zip Codes": [
+      32754
+    ]
+  },
+  {
+    "City": "Miramar Beach",
+    "Zip Codes": [
+      32550
+    ]
+  },
+  {
+    "City": "Molino",
+    "Zip Codes": [
+      32577
+    ]
+  },
+  {
+    "City": "Monticello",
+    "Zip Codes": [
+      32344
+    ]
+  },
+  {
+    "City": "Montverde",
+    "Zip Codes": [
+      34756
+    ]
+  },
+  {
+    "City": "Moore Haven",
+    "Zip Codes": [
+      33471
+    ]
+  },
+  {
+    "City": "Morriston",
+    "Zip Codes": [
+      32668
+    ]
+  },
+  {
+    "City": "Mount Dora",
+    "Zip Codes": [
+      32757
+    ]
+  },
+  {
+    "City": "Mulberry",
+    "Zip Codes": [
+      33860
+    ]
+  },
+  {
+    "City": "Myakka City",
+    "Zip Codes": [
+      34251
+    ]
+  },
+  {
+    "City": "Nalcrest",
+    "Zip Codes": [
+      33856
+    ]
+  },
+  {
+    "City": "Naples",
+    "Zip Codes": [
+      34114,
+      34103,
+      34116,
+      34113,
+      34120,
+      34109,
+      34102,
+      34105,
+      34119,
+      34110,
+      34104,
+      34108,
+      34117,
+      34101,
+      34112
+    ]
+  },
+  {
+    "City": "Navarre",
+    "Zip Codes": [
+      32566
+    ]
+  },
+  {
+    "City": "Neptune Beach",
+    "Zip Codes": [
+      32266
+    ]
+  },
+  {
+    "City": "New Port Richey",
+    "Zip Codes": [
+      34655,
+      34654,
+      34653,
+      34652
+    ]
+  },
+  {
+    "City": "New Smyrna Beach",
+    "Zip Codes": [
+      32168,
+      32169
+    ]
+  },
+  {
+    "City": "Newberry",
+    "Zip Codes": [
+      32669
+    ]
+  },
+  {
+    "City": "Niceville",
+    "Zip Codes": [
+      32578
+    ]
+  },
+  {
+    "City": "Nobleton",
+    "Zip Codes": [
+      34661
+    ]
+  },
+  {
+    "City": "Nocatee",
+    "Zip Codes": [
+      34268
+    ]
+  },
+  {
+    "City": "Nokomis",
+    "Zip Codes": [
+      34275
+    ]
+  },
+  {
+    "City": "North Fort Myers",
+    "Zip Codes": [
+      33903,
+      33917
+    ]
+  },
+  {
+    "City": "North Miami Beach",
+    "Zip Codes": [
+      33160
+    ]
+  },
+  {
+    "City": "North Palm Beach",
+    "Zip Codes": [
+      33408
+    ]
+  },
+  {
+    "City": "North Port",
+    "Zip Codes": [
+      34286,
+      34288,
+      34287,
+      34291,
+      34289
+    ]
+  },
+  {
+    "City": "O'Brien",
+    "Zip Codes": [
+      32071
+    ]
+  },
+  {
+    "City": "Oak Hill",
+    "Zip Codes": [
+      32759
+    ]
+  },
+  {
+    "City": "Oakland",
+    "Zip Codes": [
+      34760
+    ]
+  },
+  {
+    "City": "Ocala",
+    "Zip Codes": [
+      34473,
+      34480,
+      34470,
+      34479,
+      34475,
+      34481,
+      34471,
+      34476,
+      34474,
+      34482,
+      34472
+    ]
+  },
+  {
+    "City": "Ochopee",
+    "Zip Codes": [
+      34141
+    ]
+  },
+  {
+    "City": "Ocklawaha",
+    "Zip Codes": [
+      32179
+    ]
+  },
+  {
+    "City": "Ocoee",
+    "Zip Codes": [
+      34761
+    ]
+  },
+  {
+    "City": "Odessa",
+    "Zip Codes": [
+      33556
+    ]
+  },
+  {
+    "City": "Okahumpka",
+    "Zip Codes": [
+      34762
+    ]
+  },
+  {
+    "City": "Okeechobee",
+    "Zip Codes": [
+      34974,
+      34972
+    ]
+  },
+  {
+    "City": "Old Town",
+    "Zip Codes": [
+      32680
+    ]
+  },
+  {
+    "City": "Oldsmar",
+    "Zip Codes": [
+      34677
+    ]
+  },
+  {
+    "City": "Ona",
+    "Zip Codes": [
+      33865
+    ]
+  },
+  {
+    "City": "Opa Locka",
+    "Zip Codes": [
+      33055,
+      33054
+    ]
+  },
+  {
+    "City": "Orange City",
+    "Zip Codes": [
+      32763
+    ]
+  },
+  {
+    "City": "Orange Lake",
+    "Zip Codes": [
+      32681
+    ]
+  },
+  {
+    "City": "Orange Park",
+    "Zip Codes": [
+      32065,
+      32073
+    ]
+  },
+  {
+    "City": "Orlando",
+    "Zip Codes": [
+      32829,
+      32837,
+      32820,
+      32832,
+      32835,
+      32839,
+      32827,
+      32825,
+      32831,
+      32814,
+      32828,
+      32801,
+      32807,
+      32817,
+      32804,
+      32809,
+      32808,
+      32811,
+      32812,
+      32830,
+      32805,
+      32826,
+      32833,
+      32818,
+      32803,
+      32824,
+      32821,
+      32806,
+      32810,
+      32822,
+      32819,
+      32836
+    ]
+  },
+  {
+    "City": "Ormond Beach",
+    "Zip Codes": [
+      32174,
+      32176
+    ]
+  },
+  {
+    "City": "Osprey",
+    "Zip Codes": [
+      34229
+    ]
+  },
+  {
+    "City": "Osteen",
+    "Zip Codes": [
+      32764
+    ]
+  },
+  {
+    "City": "Otter Creek",
+    "Zip Codes": [
+      32683
+    ]
+  },
+  {
+    "City": "Oviedo",
+    "Zip Codes": [
+      32765,
+      32766
+    ]
+  },
+  {
+    "City": "Oxford",
+    "Zip Codes": [
+      34484
+    ]
+  },
+  {
+    "City": "Pahokee",
+    "Zip Codes": [
+      33476
+    ]
+  },
+  {
+    "City": "Paisley",
+    "Zip Codes": [
+      32767
+    ]
+  },
+  {
+    "City": "Palatka",
+    "Zip Codes": [
+      32177
+    ]
+  },
+  {
+    "City": "Palm Bay",
+    "Zip Codes": [
+      32909,
+      32905,
+      32907,
+      32908
+    ]
+  },
+  {
+    "City": "Palm Beach",
+    "Zip Codes": [
+      33480
+    ]
+  },
+  {
+    "City": "Palm Beach Gardens",
+    "Zip Codes": [
+      33418,
+      33410
+    ]
+  },
+  {
+    "City": "Palm City",
+    "Zip Codes": [
+      34990
+    ]
+  },
+  {
+    "City": "Palm Coast",
+    "Zip Codes": [
+      32137,
+      32164
+    ]
+  },
+  {
+    "City": "Palm Harbor",
+    "Zip Codes": [
+      34683,
+      34684,
+      34685
+    ]
+  },
+  {
+    "City": "Palmdale",
+    "Zip Codes": [
+      33944
+    ]
+  },
+  {
+    "City": "Palmetto",
+    "Zip Codes": [
+      34221
+    ]
+  },
+  {
+    "City": "Panacea",
+    "Zip Codes": [
+      32346
+    ]
+  },
+  {
+    "City": "Panama City",
+    "Zip Codes": [
+      32405,
+      32409,
+      32408,
+      32401,
+      32404,
+      32403
+    ]
+  },
+  {
+    "City": "Panama City Beach",
+    "Zip Codes": [
+      32413,
+      32407
+    ]
+  },
+  {
+    "City": "Parrish",
+    "Zip Codes": [
+      34219
+    ]
+  },
+  {
+    "City": "Patrick Afb",
+    "Zip Codes": [
+      32925
+    ]
+  },
+  {
+    "City": "Pembroke Pines",
+    "Zip Codes": [
+      33028
+    ]
+  },
+  {
+    "City": "Penney Farms",
+    "Zip Codes": [
+      32079
+    ]
+  },
+  {
+    "City": "Pensacola",
+    "Zip Codes": [
+      32511,
+      32534,
+      32504,
+      32506,
+      32502,
+      32509,
+      32505,
+      32514,
+      32526,
+      32508,
+      32501,
+      32503,
+      32507
+    ]
+  },
+  {
+    "City": "Perry",
+    "Zip Codes": [
+      32348,
+      32347
+    ]
+  },
+  {
+    "City": "Pierson",
+    "Zip Codes": [
+      32180
+    ]
+  },
+  {
+    "City": "Pineland",
+    "Zip Codes": [
+      33945
+    ]
+  },
+  {
+    "City": "Pinellas Park",
+    "Zip Codes": [
+      33782,
+      33781
+    ]
+  },
+  {
+    "City": "Pinetta",
+    "Zip Codes": [
+      32350
+    ]
+  },
+  {
+    "City": "Placida",
+    "Zip Codes": [
+      33946
+    ]
+  },
+  {
+    "City": "Plant City",
+    "Zip Codes": [
+      33565,
+      33563,
+      33567,
+      33566
+    ]
+  },
+  {
+    "City": "Polk City",
+    "Zip Codes": [
+      33868
+    ]
+  },
+  {
+    "City": "Pomona Park",
+    "Zip Codes": [
+      32181
+    ]
+  },
+  {
+    "City": "Pompano Beach",
+    "Zip Codes": [
+      33063,
+      33069,
+      33076,
+      33062,
+      33073,
+      33064,
+      33067,
+      33066,
+      33060,
+      33068
+    ]
+  },
+  {
+    "City": "Ponce De Leon",
+    "Zip Codes": [
+      32455
+    ]
+  },
+  {
+    "City": "Ponte Vedra",
+    "Zip Codes": [
+      32081
+    ]
+  },
+  {
+    "City": "Ponte Vedra Beach",
+    "Zip Codes": [
+      32082
+    ]
+  },
+  {
+    "City": "Port Charlotte",
+    "Zip Codes": [
+      33981,
+      33953,
+      33948,
+      33954,
+      33952
+    ]
+  },
+  {
+    "City": "Port Orange",
+    "Zip Codes": [
+      32128,
+      32127,
+      32129
+    ]
+  },
+  {
+    "City": "Port Richey",
+    "Zip Codes": [
+      34668
+    ]
+  },
+  {
+    "City": "Port Saint Joe",
+    "Zip Codes": [
+      32456
+    ]
+  },
+  {
+    "City": "Port Saint Lucie",
+    "Zip Codes": [
+      34987,
+      34984,
+      34986,
+      34953,
+      34952,
+      34983
+    ]
+  },
+  {
+    "City": "Punta Gorda",
+    "Zip Codes": [
+      33983,
+      33982,
+      33955,
+      33980,
+      33950
+    ]
+  },
+  {
+    "City": "Quincy",
+    "Zip Codes": [
+      32352,
+      32351
+    ]
+  },
+  {
+    "City": "Raiford",
+    "Zip Codes": [
+      32083
+    ]
+  },
+  {
+    "City": "Reddick",
+    "Zip Codes": [
+      32686
+    ]
+  },
+  {
+    "City": "River Ranch",
+    "Zip Codes": [
+      33867
+    ]
+  },
+  {
+    "City": "Riverview",
+    "Zip Codes": [
+      33578,
+      33569,
+      33579
+    ]
+  },
+  {
+    "City": "Rockledge",
+    "Zip Codes": [
+      32955
+    ]
+  },
+  {
+    "City": "Rotonda West",
+    "Zip Codes": [
+      33947
+    ]
+  },
+  {
+    "City": "Ruskin",
+    "Zip Codes": [
+      33570
+    ]
+  },
+  {
+    "City": "Safety Harbor",
+    "Zip Codes": [
+      34695
+    ]
+  },
+  {
+    "City": "Saint Augustine",
+    "Zip Codes": [
+      32095,
+      32080,
+      32092,
+      32084,
+      32086
+    ]
+  },
+  {
+    "City": "Saint Cloud",
+    "Zip Codes": [
+      34769,
+      34772,
+      34771,
+      34773
+    ]
+  },
+  {
+    "City": "Saint James City",
+    "Zip Codes": [
+      33956
+    ]
+  },
+  {
+    "City": "Saint Johns",
+    "Zip Codes": [
+      32259
+    ]
+  },
+  {
+    "City": "Saint Marks",
+    "Zip Codes": [
+      32355
+    ]
+  },
+  {
+    "City": "Saint Petersburg",
+    "Zip Codes": [
+      33703,
+      33707,
+      33712,
+      33714,
+      33716,
+      33709,
+      33711,
+      33705,
+      33704,
+      33713,
+      33715,
+      33701,
+      33702,
+      33706,
+      33708,
+      33710
+    ]
+  },
+  {
+    "City": "Salem",
+    "Zip Codes": [
+      32356
+    ]
+  },
+  {
+    "City": "San Antonio",
+    "Zip Codes": [
+      33576
+    ]
+  },
+  {
+    "City": "San Mateo",
+    "Zip Codes": [
+      32187
+    ]
+  },
+  {
+    "City": "Sanderson",
+    "Zip Codes": [
+      32087
+    ]
+  },
+  {
+    "City": "Sanford",
+    "Zip Codes": [
+      32771,
+      32773
+    ]
+  },
+  {
+    "City": "Sanibel",
+    "Zip Codes": [
+      33957
+    ]
+  },
+  {
+    "City": "Santa Rosa Beach",
+    "Zip Codes": [
+      32459
+    ]
+  },
+  {
+    "City": "Sarasota",
+    "Zip Codes": [
+      34232,
+      34234,
+      34237,
+      34236,
+      34231,
+      34240,
+      34243,
+      34239,
+      34242,
+      34233,
+      34235,
+      34238,
+      34241
+    ]
+  },
+  {
+    "City": "Satellite Beach",
+    "Zip Codes": [
+      32937
+    ]
+  },
+  {
+    "City": "Satsuma",
+    "Zip Codes": [
+      32189
+    ]
+  },
+  {
+    "City": "Sebastian",
+    "Zip Codes": [
+      32958,
+      32976
+    ]
+  },
+  {
+    "City": "Sebring",
+    "Zip Codes": [
+      33870,
+      33876,
+      33872,
+      33875
+    ]
+  },
+  {
+    "City": "Seffner",
+    "Zip Codes": [
+      33584
+    ]
+  },
+  {
+    "City": "Seminole",
+    "Zip Codes": [
+      33776,
+      33777,
+      33772
+    ]
+  },
+  {
+    "City": "Seville",
+    "Zip Codes": [
+      32190
+    ]
+  },
+  {
+    "City": "Shalimar",
+    "Zip Codes": [
+      32579
+    ]
+  },
+  {
+    "City": "Silver Springs",
+    "Zip Codes": [
+      34488
+    ]
+  },
+  {
+    "City": "Sneads",
+    "Zip Codes": [
+      32460
+    ]
+  },
+  {
+    "City": "Sopchoppy",
+    "Zip Codes": [
+      32358
+    ]
+  },
+  {
+    "City": "Sorrento",
+    "Zip Codes": [
+      32776
+    ]
+  },
+  {
+    "City": "South Bay",
+    "Zip Codes": [
+      33493
+    ]
+  },
+  {
+    "City": "Spring Hill",
+    "Zip Codes": [
+      34610,
+      34607,
+      34608,
+      34606,
+      34609
+    ]
+  },
+  {
+    "City": "Starke",
+    "Zip Codes": [
+      32091
+    ]
+  },
+  {
+    "City": "Steinhatchee",
+    "Zip Codes": [
+      32359
+    ]
+  },
+  {
+    "City": "Stuart",
+    "Zip Codes": [
+      34997,
+      34996,
+      34994
+    ]
+  },
+  {
+    "City": "Summerfield",
+    "Zip Codes": [
+      34491
+    ]
+  },
+  {
+    "City": "Summerland Key",
+    "Zip Codes": [
+      33042
+    ]
+  },
+  {
+    "City": "Sumterville",
+    "Zip Codes": [
+      33585
+    ]
+  },
+  {
+    "City": "Sun City Center",
+    "Zip Codes": [
+      33573
+    ]
+  },
+  {
+    "City": "Suwannee",
+    "Zip Codes": [
+      32692
+    ]
+  },
+  {
+    "City": "Tallahassee",
+    "Zip Codes": [
+      32308,
+      32309,
+      32311,
+      32304,
+      32303,
+      32317,
+      32301,
+      32305,
+      32399,
+      32312,
+      32310
+    ]
+  },
+  {
+    "City": "Tampa",
+    "Zip Codes": [
+      33629,
+      33634,
+      33619,
+      33609,
+      33625,
+      33602,
+      33621,
+      33610,
+      33626,
+      33605,
+      33604,
+      33624,
+      33618,
+      33606,
+      33607,
+      33615,
+      33613,
+      33620,
+      33635,
+      33611,
+      33612,
+      33614,
+      33617,
+      33637,
+      33647,
+      33603,
+      33616
+    ]
+  },
+  {
+    "City": "Tarpon Springs",
+    "Zip Codes": [
+      34689,
+      34688
+    ]
+  },
+  {
+    "City": "Tavares",
+    "Zip Codes": [
+      32778
+    ]
+  },
+  {
+    "City": "Tavernier",
+    "Zip Codes": [
+      33070
+    ]
+  },
+  {
+    "City": "The Villages",
+    "Zip Codes": [
+      32162
+    ]
+  },
+  {
+    "City": "Thonotosassa",
+    "Zip Codes": [
+      33592
+    ]
+  },
+  {
+    "City": "Titusville",
+    "Zip Codes": [
+      32796,
+      32780
+    ]
+  },
+  {
+    "City": "Trenton",
+    "Zip Codes": [
+      32693
+    ]
+  },
+  {
+    "City": "Umatilla",
+    "Zip Codes": [
+      32784
+    ]
+  },
+  {
+    "City": "Valparaiso",
+    "Zip Codes": [
+      32580
+    ]
+  },
+  {
+    "City": "Valrico",
+    "Zip Codes": [
+      33594,
+      33596
+    ]
+  },
+  {
+    "City": "Venice",
+    "Zip Codes": [
+      34285,
+      34293,
+      34292
+    ]
+  },
+  {
+    "City": "Venus",
+    "Zip Codes": [
+      33960
+    ]
+  },
+  {
+    "City": "Vernon",
+    "Zip Codes": [
+      32462
+    ]
+  },
+  {
+    "City": "Vero Beach",
+    "Zip Codes": [
+      32962,
+      32967,
+      32968,
+      32963,
+      32960,
+      32966
+    ]
+  },
+  {
+    "City": "Wabasso",
+    "Zip Codes": [
+      32970
+    ]
+  },
+  {
+    "City": "Wacissa",
+    "Zip Codes": [
+      32361
+    ]
+  },
+  {
+    "City": "Waldo",
+    "Zip Codes": [
+      32694
+    ]
+  },
+  {
+    "City": "Wauchula",
+    "Zip Codes": [
+      33873
+    ]
+  },
+  {
+    "City": "Wausau",
+    "Zip Codes": [
+      32463
+    ]
+  },
+  {
+    "City": "Waverly",
+    "Zip Codes": [
+      33877
+    ]
+  },
+  {
+    "City": "Webster",
+    "Zip Codes": [
+      33597
+    ]
+  },
+  {
+    "City": "Weirsdale",
+    "Zip Codes": [
+      32195
+    ]
+  },
+  {
+    "City": "Welaka",
+    "Zip Codes": [
+      32193
+    ]
+  },
+  {
+    "City": "Wellborn",
+    "Zip Codes": [
+      32094
+    ]
+  },
+  {
+    "City": "Wellington",
+    "Zip Codes": [
+      33414
+    ]
+  },
+  {
+    "City": "Wesley Chapel",
+    "Zip Codes": [
+      33544,
+      33543,
+      33545
+    ]
+  },
+  {
+    "City": "West Palm Beach",
+    "Zip Codes": [
+      33407,
+      33412,
+      33411,
+      33409,
+      33405,
+      33406,
+      33417,
+      33401,
+      33403,
+      33413,
+      33404,
+      33415
+    ]
+  },
+  {
+    "City": "Westville",
+    "Zip Codes": [
+      32464
+    ]
+  },
+  {
+    "City": "Wewahitchka",
+    "Zip Codes": [
+      32465,
+      32449
+    ]
+  },
+  {
+    "City": "White Springs",
+    "Zip Codes": [
+      32096
+    ]
+  },
+  {
+    "City": "Wildwood",
+    "Zip Codes": [
+      34785
+    ]
+  },
+  {
+    "City": "Williston",
+    "Zip Codes": [
+      32696
+    ]
+  },
+  {
+    "City": "Wimauma",
+    "Zip Codes": [
+      33598
+    ]
+  },
+  {
+    "City": "Windermere",
+    "Zip Codes": [
+      34786
+    ]
+  },
+  {
+    "City": "Winter Garden",
+    "Zip Codes": [
+      34787
+    ]
+  },
+  {
+    "City": "Winter Haven",
+    "Zip Codes": [
+      33884,
+      33881,
+      33880
+    ]
+  },
+  {
+    "City": "Winter Park",
+    "Zip Codes": [
+      32792,
+      32789
+    ]
+  },
+  {
+    "City": "Winter Springs",
+    "Zip Codes": [
+      32708
+    ]
+  },
+  {
+    "City": "Worthington Springs",
+    "Zip Codes": [
+      32697
+    ]
+  },
+  {
+    "City": "Yalaha",
+    "Zip Codes": [
+      34797
+    ]
+  },
+  {
+    "City": "Yankeetown",
+    "Zip Codes": [
+      34498
+    ]
+  },
+  {
+    "City": "Youngstown",
+    "Zip Codes": [
+      32466
+    ]
+  },
+  {
+    "City": "Yulee",
+    "Zip Codes": [
+      32097
+    ]
+  },
+  {
+    "City": "Zellwood",
+    "Zip Codes": [
+      32798
+    ]
+  },
+  {
+    "City": "Zephyrhills",
+    "Zip Codes": [
+      33540,
+      33542,
+      33541
+    ]
+  },
+  {
+    "City": "Zolfo Springs",
+    "Zip Codes": [
+      33890
+    ]
+  }
+]

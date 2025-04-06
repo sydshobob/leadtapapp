@@ -1,0 +1,1335 @@
+[
+  {
+    "City": "Adak",
+    "Zip Codes": [
+      99546
+    ]
+  },
+  {
+    "City": "Akiachak",
+    "Zip Codes": [
+      99551
+    ]
+  },
+  {
+    "City": "Akiak",
+    "Zip Codes": [
+      99552
+    ]
+  },
+  {
+    "City": "Akutan",
+    "Zip Codes": [
+      99553
+    ]
+  },
+  {
+    "City": "Alakanuk",
+    "Zip Codes": [
+      99554
+    ]
+  },
+  {
+    "City": "Aleknagik",
+    "Zip Codes": [
+      99555
+    ]
+  },
+  {
+    "City": "Allakaket",
+    "Zip Codes": [
+      99720
+    ]
+  },
+  {
+    "City": "Ambler",
+    "Zip Codes": [
+      99786
+    ]
+  },
+  {
+    "City": "Anaktuvuk Pass",
+    "Zip Codes": [
+      99721
+    ]
+  },
+  {
+    "City": "Anchor Point",
+    "Zip Codes": [
+      99556
+    ]
+  },
+  {
+    "City": "Anchorage",
+    "Zip Codes": [
+      99513,
+      99518,
+      99501,
+      99507,
+      99510,
+      99508,
+      99517,
+      99516,
+      99503,
+      99515,
+      99519,
+      99695,
+      99502,
+      99504
+    ]
+  },
+  {
+    "City": "Anderson",
+    "Zip Codes": [
+      99744
+    ]
+  },
+  {
+    "City": "Angoon",
+    "Zip Codes": [
+      99820
+    ]
+  },
+  {
+    "City": "Aniak",
+    "Zip Codes": [
+      99557
+    ]
+  },
+  {
+    "City": "Anvik",
+    "Zip Codes": [
+      99558
+    ]
+  },
+  {
+    "City": "Arctic Village",
+    "Zip Codes": [
+      99722
+    ]
+  },
+  {
+    "City": "Atka",
+    "Zip Codes": [
+      99547
+    ]
+  },
+  {
+    "City": "Atqasuk",
+    "Zip Codes": [
+      99791
+    ]
+  },
+  {
+    "City": "Barrow",
+    "Zip Codes": [
+      99723
+    ]
+  },
+  {
+    "City": "Beaver",
+    "Zip Codes": [
+      99724
+    ]
+  },
+  {
+    "City": "Bethel",
+    "Zip Codes": [
+      99559
+    ]
+  },
+  {
+    "City": "Bettles Field",
+    "Zip Codes": [
+      99726
+    ]
+  },
+  {
+    "City": "Big Lake",
+    "Zip Codes": [
+      99652
+    ]
+  },
+  {
+    "City": "Brevig Mission",
+    "Zip Codes": [
+      99785
+    ]
+  },
+  {
+    "City": "Buckland",
+    "Zip Codes": [
+      99727
+    ]
+  },
+  {
+    "City": "Cantwell",
+    "Zip Codes": [
+      99729
+    ]
+  },
+  {
+    "City": "Central",
+    "Zip Codes": [
+      99730
+    ]
+  },
+  {
+    "City": "Chalkyitsik",
+    "Zip Codes": [
+      99788
+    ]
+  },
+  {
+    "City": "Chefornak",
+    "Zip Codes": [
+      99561
+    ]
+  },
+  {
+    "City": "Chevak",
+    "Zip Codes": [
+      99563
+    ]
+  },
+  {
+    "City": "Chicken",
+    "Zip Codes": [
+      99732
+    ]
+  },
+  {
+    "City": "Chignik",
+    "Zip Codes": [
+      99564
+    ]
+  },
+  {
+    "City": "Chignik Lagoon",
+    "Zip Codes": [
+      99565
+    ]
+  },
+  {
+    "City": "Chignik Lake",
+    "Zip Codes": [
+      99548
+    ]
+  },
+  {
+    "City": "Chitina",
+    "Zip Codes": [
+      99566
+    ]
+  },
+  {
+    "City": "Chugiak",
+    "Zip Codes": [
+      99567
+    ]
+  },
+  {
+    "City": "Circle",
+    "Zip Codes": [
+      99733
+    ]
+  },
+  {
+    "City": "Clam Gulch",
+    "Zip Codes": [
+      99568
+    ]
+  },
+  {
+    "City": "Clarks Point",
+    "Zip Codes": [
+      99569
+    ]
+  },
+  {
+    "City": "Clear",
+    "Zip Codes": [
+      99704
+    ]
+  },
+  {
+    "City": "Coffman Cove",
+    "Zip Codes": [
+      99918
+    ]
+  },
+  {
+    "City": "Cold Bay",
+    "Zip Codes": [
+      99571
+    ]
+  },
+  {
+    "City": "Cooper Landing",
+    "Zip Codes": [
+      99572
+    ]
+  },
+  {
+    "City": "Copper Center",
+    "Zip Codes": [
+      99573
+    ]
+  },
+  {
+    "City": "Cordova",
+    "Zip Codes": [
+      99574
+    ]
+  },
+  {
+    "City": "Craig",
+    "Zip Codes": [
+      99921
+    ]
+  },
+  {
+    "City": "Crooked Creek",
+    "Zip Codes": [
+      99575
+    ]
+  },
+  {
+    "City": "Deering",
+    "Zip Codes": [
+      99736
+    ]
+  },
+  {
+    "City": "Delta Junction",
+    "Zip Codes": [
+      99737
+    ]
+  },
+  {
+    "City": "Denali National Park",
+    "Zip Codes": [
+      99755
+    ]
+  },
+  {
+    "City": "Dillingham",
+    "Zip Codes": [
+      99576
+    ]
+  },
+  {
+    "City": "Douglas",
+    "Zip Codes": [
+      99824
+    ]
+  },
+  {
+    "City": "Dutch Harbor",
+    "Zip Codes": [
+      99692
+    ]
+  },
+  {
+    "City": "Eagle",
+    "Zip Codes": [
+      99738
+    ]
+  },
+  {
+    "City": "Eagle River",
+    "Zip Codes": [
+      99577
+    ]
+  },
+  {
+    "City": "Eek",
+    "Zip Codes": [
+      99578
+    ]
+  },
+  {
+    "City": "Egegik",
+    "Zip Codes": [
+      99579
+    ]
+  },
+  {
+    "City": "Eielson Afb",
+    "Zip Codes": [
+      99702
+    ]
+  },
+  {
+    "City": "Ekwok",
+    "Zip Codes": [
+      99580
+    ]
+  },
+  {
+    "City": "Elfin Cove",
+    "Zip Codes": [
+      99825
+    ]
+  },
+  {
+    "City": "Elim",
+    "Zip Codes": [
+      99739
+    ]
+  },
+  {
+    "City": "Emmonak",
+    "Zip Codes": [
+      99581
+    ]
+  },
+  {
+    "City": "Fairbanks",
+    "Zip Codes": [
+      99709,
+      99712,
+      99790,
+      99701,
+      99775,
+      99706
+    ]
+  },
+  {
+    "City": "False Pass",
+    "Zip Codes": [
+      99583
+    ]
+  },
+  {
+    "City": "Fort Wainwright",
+    "Zip Codes": [
+      99703
+    ]
+  },
+  {
+    "City": "Fort Yukon",
+    "Zip Codes": [
+      99740
+    ]
+  },
+  {
+    "City": "Gakona",
+    "Zip Codes": [
+      99586
+    ]
+  },
+  {
+    "City": "Galena",
+    "Zip Codes": [
+      99741
+    ]
+  },
+  {
+    "City": "Gambell",
+    "Zip Codes": [
+      99742
+    ]
+  },
+  {
+    "City": "Girdwood",
+    "Zip Codes": [
+      99587
+    ]
+  },
+  {
+    "City": "Glennallen",
+    "Zip Codes": [
+      99588
+    ]
+  },
+  {
+    "City": "Goodnews Bay",
+    "Zip Codes": [
+      99589
+    ]
+  },
+  {
+    "City": "Grayling",
+    "Zip Codes": [
+      99590
+    ]
+  },
+  {
+    "City": "Gustavus",
+    "Zip Codes": [
+      99826
+    ]
+  },
+  {
+    "City": "Haines",
+    "Zip Codes": [
+      99827
+    ]
+  },
+  {
+    "City": "Healy",
+    "Zip Codes": [
+      99743
+    ]
+  },
+  {
+    "City": "Holy Cross",
+    "Zip Codes": [
+      99602
+    ]
+  },
+  {
+    "City": "Homer",
+    "Zip Codes": [
+      99603
+    ]
+  },
+  {
+    "City": "Hoonah",
+    "Zip Codes": [
+      99829
+    ]
+  },
+  {
+    "City": "Hooper Bay",
+    "Zip Codes": [
+      99604
+    ]
+  },
+  {
+    "City": "Hope",
+    "Zip Codes": [
+      99605
+    ]
+  },
+  {
+    "City": "Houston",
+    "Zip Codes": [
+      99694
+    ]
+  },
+  {
+    "City": "Hughes",
+    "Zip Codes": [
+      99745
+    ]
+  },
+  {
+    "City": "Huslia",
+    "Zip Codes": [
+      99746
+    ]
+  },
+  {
+    "City": "Hydaburg",
+    "Zip Codes": [
+      99922
+    ]
+  },
+  {
+    "City": "Hyder",
+    "Zip Codes": [
+      99923
+    ]
+  },
+  {
+    "City": "Iliamna",
+    "Zip Codes": [
+      99606
+    ]
+  },
+  {
+    "City": "Indian",
+    "Zip Codes": [
+      99540
+    ]
+  },
+  {
+    "City": "Jber",
+    "Zip Codes": [
+      99505,
+      99506
+    ]
+  },
+  {
+    "City": "Juneau",
+    "Zip Codes": [
+      99801
+    ]
+  },
+  {
+    "City": "Kake",
+    "Zip Codes": [
+      99830
+    ]
+  },
+  {
+    "City": "Kaktovik",
+    "Zip Codes": [
+      99747
+    ]
+  },
+  {
+    "City": "Kalskag",
+    "Zip Codes": [
+      99607
+    ]
+  },
+  {
+    "City": "Kaltag",
+    "Zip Codes": [
+      99748
+    ]
+  },
+  {
+    "City": "Kasigluk",
+    "Zip Codes": [
+      99609
+    ]
+  },
+  {
+    "City": "Kasilof",
+    "Zip Codes": [
+      99610
+    ]
+  },
+  {
+    "City": "Kenai",
+    "Zip Codes": [
+      99611
+    ]
+  },
+  {
+    "City": "Ketchikan",
+    "Zip Codes": [
+      99901
+    ]
+  },
+  {
+    "City": "Kiana",
+    "Zip Codes": [
+      99749
+    ]
+  },
+  {
+    "City": "King Cove",
+    "Zip Codes": [
+      99612
+    ]
+  },
+  {
+    "City": "King Salmon",
+    "Zip Codes": [
+      99613
+    ]
+  },
+  {
+    "City": "Kipnuk",
+    "Zip Codes": [
+      99614
+    ]
+  },
+  {
+    "City": "Kivalina",
+    "Zip Codes": [
+      99750
+    ]
+  },
+  {
+    "City": "Klawock",
+    "Zip Codes": [
+      99925
+    ]
+  },
+  {
+    "City": "Kobuk",
+    "Zip Codes": [
+      99751
+    ]
+  },
+  {
+    "City": "Kodiak",
+    "Zip Codes": [
+      99615
+    ]
+  },
+  {
+    "City": "Kotlik",
+    "Zip Codes": [
+      99620
+    ]
+  },
+  {
+    "City": "Kotzebue",
+    "Zip Codes": [
+      99752
+    ]
+  },
+  {
+    "City": "Koyuk",
+    "Zip Codes": [
+      99753
+    ]
+  },
+  {
+    "City": "Koyukuk",
+    "Zip Codes": [
+      99754
+    ]
+  },
+  {
+    "City": "Kwethluk",
+    "Zip Codes": [
+      99621
+    ]
+  },
+  {
+    "City": "Kwigillingok",
+    "Zip Codes": [
+      99622
+    ]
+  },
+  {
+    "City": "Lake Minchumina",
+    "Zip Codes": [
+      99757
+    ]
+  },
+  {
+    "City": "Larsen Bay",
+    "Zip Codes": [
+      99624
+    ]
+  },
+  {
+    "City": "Levelock",
+    "Zip Codes": [
+      99625
+    ]
+  },
+  {
+    "City": "Lower Kalskag",
+    "Zip Codes": [
+      99626
+    ]
+  },
+  {
+    "City": "Manley Hot Springs",
+    "Zip Codes": [
+      99756
+    ]
+  },
+  {
+    "City": "Manokotak",
+    "Zip Codes": [
+      99628
+    ]
+  },
+  {
+    "City": "Marshall",
+    "Zip Codes": [
+      99585
+    ]
+  },
+  {
+    "City": "McGrath",
+    "Zip Codes": [
+      99627
+    ]
+  },
+  {
+    "City": "Mekoryuk",
+    "Zip Codes": [
+      99630
+    ]
+  },
+  {
+    "City": "Metlakatla",
+    "Zip Codes": [
+      99926
+    ]
+  },
+  {
+    "City": "Meyers Chuck",
+    "Zip Codes": [
+      99903
+    ]
+  },
+  {
+    "City": "Minto",
+    "Zip Codes": [
+      99758
+    ]
+  },
+  {
+    "City": "Moose Pass",
+    "Zip Codes": [
+      99631
+    ]
+  },
+  {
+    "City": "Mountain Village",
+    "Zip Codes": [
+      99632
+    ]
+  },
+  {
+    "City": "Naknek",
+    "Zip Codes": [
+      99633
+    ]
+  },
+  {
+    "City": "Napakiak",
+    "Zip Codes": [
+      99634
+    ]
+  },
+  {
+    "City": "Nenana",
+    "Zip Codes": [
+      99760
+    ]
+  },
+  {
+    "City": "New Stuyahok",
+    "Zip Codes": [
+      99636
+    ]
+  },
+  {
+    "City": "Nightmute",
+    "Zip Codes": [
+      99690
+    ]
+  },
+  {
+    "City": "Nikolai",
+    "Zip Codes": [
+      99691
+    ]
+  },
+  {
+    "City": "Nikolski",
+    "Zip Codes": [
+      99638
+    ]
+  },
+  {
+    "City": "Ninilchik",
+    "Zip Codes": [
+      99639
+    ]
+  },
+  {
+    "City": "Noatak",
+    "Zip Codes": [
+      99761
+    ]
+  },
+  {
+    "City": "Nome",
+    "Zip Codes": [
+      99762
+    ]
+  },
+  {
+    "City": "Nondalton",
+    "Zip Codes": [
+      99640
+    ]
+  },
+  {
+    "City": "Noorvik",
+    "Zip Codes": [
+      99763
+    ]
+  },
+  {
+    "City": "North Pole",
+    "Zip Codes": [
+      99705
+    ]
+  },
+  {
+    "City": "Northway",
+    "Zip Codes": [
+      99764
+    ]
+  },
+  {
+    "City": "Nuiqsut",
+    "Zip Codes": [
+      99789
+    ]
+  },
+  {
+    "City": "Nulato",
+    "Zip Codes": [
+      99765
+    ]
+  },
+  {
+    "City": "Nunam Iqua",
+    "Zip Codes": [
+      99666
+    ]
+  },
+  {
+    "City": "Nunapitchuk",
+    "Zip Codes": [
+      99641
+    ]
+  },
+  {
+    "City": "Old Harbor",
+    "Zip Codes": [
+      99643
+    ]
+  },
+  {
+    "City": "Ouzinkie",
+    "Zip Codes": [
+      99644
+    ]
+  },
+  {
+    "City": "Palmer",
+    "Zip Codes": [
+      99645
+    ]
+  },
+  {
+    "City": "Pedro Bay",
+    "Zip Codes": [
+      99647
+    ]
+  },
+  {
+    "City": "Pelican",
+    "Zip Codes": [
+      99832
+    ]
+  },
+  {
+    "City": "Perryville",
+    "Zip Codes": [
+      99648
+    ]
+  },
+  {
+    "City": "Petersburg",
+    "Zip Codes": [
+      99833
+    ]
+  },
+  {
+    "City": "Pilot Point",
+    "Zip Codes": [
+      99649
+    ]
+  },
+  {
+    "City": "Pilot Station",
+    "Zip Codes": [
+      99650
+    ]
+  },
+  {
+    "City": "Platinum",
+    "Zip Codes": [
+      99651
+    ]
+  },
+  {
+    "City": "Point Baker",
+    "Zip Codes": [
+      99927
+    ]
+  },
+  {
+    "City": "Point Hope",
+    "Zip Codes": [
+      99766
+    ]
+  },
+  {
+    "City": "Point Lay",
+    "Zip Codes": [
+      99759
+    ]
+  },
+  {
+    "City": "Port Alexander",
+    "Zip Codes": [
+      99836
+    ]
+  },
+  {
+    "City": "Port Alsworth",
+    "Zip Codes": [
+      99653
+    ]
+  },
+  {
+    "City": "Port Heiden",
+    "Zip Codes": [
+      99549
+    ]
+  },
+  {
+    "City": "Port Lions",
+    "Zip Codes": [
+      99550
+    ]
+  },
+  {
+    "City": "Prudhoe Bay",
+    "Zip Codes": [
+      99734
+    ]
+  },
+  {
+    "City": "Quinhagak",
+    "Zip Codes": [
+      99655
+    ]
+  },
+  {
+    "City": "Rampart",
+    "Zip Codes": [
+      99767
+    ]
+  },
+  {
+    "City": "Red Devil",
+    "Zip Codes": [
+      99656
+    ]
+  },
+  {
+    "City": "Ruby",
+    "Zip Codes": [
+      99768
+    ]
+  },
+  {
+    "City": "Russian Mission",
+    "Zip Codes": [
+      99657
+    ]
+  },
+  {
+    "City": "Saint George Island",
+    "Zip Codes": [
+      99591
+    ]
+  },
+  {
+    "City": "Saint Marys",
+    "Zip Codes": [
+      99658
+    ]
+  },
+  {
+    "City": "Saint Michael",
+    "Zip Codes": [
+      99659
+    ]
+  },
+  {
+    "City": "Saint Paul Island",
+    "Zip Codes": [
+      99660
+    ]
+  },
+  {
+    "City": "Salcha",
+    "Zip Codes": [
+      99714
+    ]
+  },
+  {
+    "City": "Sand Point",
+    "Zip Codes": [
+      99661
+    ]
+  },
+  {
+    "City": "Savoonga",
+    "Zip Codes": [
+      99769
+    ]
+  },
+  {
+    "City": "Scammon Bay",
+    "Zip Codes": [
+      99662
+    ]
+  },
+  {
+    "City": "Selawik",
+    "Zip Codes": [
+      99770
+    ]
+  },
+  {
+    "City": "Seldovia",
+    "Zip Codes": [
+      99663
+    ]
+  },
+  {
+    "City": "Seward",
+    "Zip Codes": [
+      99664
+    ]
+  },
+  {
+    "City": "Shageluk",
+    "Zip Codes": [
+      99665
+    ]
+  },
+  {
+    "City": "Shaktoolik",
+    "Zip Codes": [
+      99771
+    ]
+  },
+  {
+    "City": "Shishmaref",
+    "Zip Codes": [
+      99772
+    ]
+  },
+  {
+    "City": "Shungnak",
+    "Zip Codes": [
+      99773
+    ]
+  },
+  {
+    "City": "Sitka",
+    "Zip Codes": [
+      99835
+    ]
+  },
+  {
+    "City": "Skagway",
+    "Zip Codes": [
+      99840
+    ]
+  },
+  {
+    "City": "Skwentna",
+    "Zip Codes": [
+      99667
+    ]
+  },
+  {
+    "City": "Sleetmute",
+    "Zip Codes": [
+      99668
+    ]
+  },
+  {
+    "City": "Soldotna",
+    "Zip Codes": [
+      99669
+    ]
+  },
+  {
+    "City": "South Naknek",
+    "Zip Codes": [
+      99670
+    ]
+  },
+  {
+    "City": "Stebbins",
+    "Zip Codes": [
+      99671
+    ]
+  },
+  {
+    "City": "Sterling",
+    "Zip Codes": [
+      99672
+    ]
+  },
+  {
+    "City": "Stevens Village",
+    "Zip Codes": [
+      99774
+    ]
+  },
+  {
+    "City": "Sutton",
+    "Zip Codes": [
+      99674
+    ]
+  },
+  {
+    "City": "Talkeetna",
+    "Zip Codes": [
+      99676
+    ]
+  },
+  {
+    "City": "Tanacross",
+    "Zip Codes": [
+      99776
+    ]
+  },
+  {
+    "City": "Tanana",
+    "Zip Codes": [
+      99777
+    ]
+  },
+  {
+    "City": "Tatitlek",
+    "Zip Codes": [
+      99677
+    ]
+  },
+  {
+    "City": "Teller",
+    "Zip Codes": [
+      99778
+    ]
+  },
+  {
+    "City": "Tenakee Springs",
+    "Zip Codes": [
+      99841
+    ]
+  },
+  {
+    "City": "Thorne Bay",
+    "Zip Codes": [
+      99919
+    ]
+  },
+  {
+    "City": "Togiak",
+    "Zip Codes": [
+      99678
+    ]
+  },
+  {
+    "City": "Tok",
+    "Zip Codes": [
+      99780
+    ]
+  },
+  {
+    "City": "Toksook Bay",
+    "Zip Codes": [
+      99637
+    ]
+  },
+  {
+    "City": "Trapper Creek",
+    "Zip Codes": [
+      99683
+    ]
+  },
+  {
+    "City": "Tuluksak",
+    "Zip Codes": [
+      99679
+    ]
+  },
+  {
+    "City": "Tuntutuliak",
+    "Zip Codes": [
+      99680
+    ]
+  },
+  {
+    "City": "Tununak",
+    "Zip Codes": [
+      99681
+    ]
+  },
+  {
+    "City": "Tyonek",
+    "Zip Codes": [
+      99682
+    ]
+  },
+  {
+    "City": "Unalakleet",
+    "Zip Codes": [
+      99684
+    ]
+  },
+  {
+    "City": "Unalaska",
+    "Zip Codes": [
+      99685
+    ]
+  },
+  {
+    "City": "Valdez",
+    "Zip Codes": [
+      99686
+    ]
+  },
+  {
+    "City": "Venetie",
+    "Zip Codes": [
+      99781
+    ]
+  },
+  {
+    "City": "Wainwright",
+    "Zip Codes": [
+      99782
+    ]
+  },
+  {
+    "City": "Wales",
+    "Zip Codes": [
+      99783
+    ]
+  },
+  {
+    "City": "Wasilla",
+    "Zip Codes": [
+      99654
+    ]
+  },
+  {
+    "City": "White Mountain",
+    "Zip Codes": [
+      99784
+    ]
+  },
+  {
+    "City": "Whittier",
+    "Zip Codes": [
+      99693
+    ]
+  },
+  {
+    "City": "Willow",
+    "Zip Codes": [
+      99688
+    ]
+  },
+  {
+    "City": "Wrangell",
+    "Zip Codes": [
+      99929
+    ]
+  },
+  {
+    "City": "Yakutat",
+    "Zip Codes": [
+      99689
+    ]
+  }
+]
