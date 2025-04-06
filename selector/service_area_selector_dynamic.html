@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,6 +6,27 @@
   <title>LeadTapApp – Service Area Selector</title>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
   <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const stateSelect = document.getElementById("state");
+      const states = [
+        "AK","AL","AR","AS","AZ","CA","CO","CT","DC","DE","FL","GA","GU","HI","IA","ID",
+        "IL","IN","KS","KY","LA","MA","MD","ME","MI","MN","MO","MS","MT","NC","ND","NE",
+        "NH","NJ","NM","NV","NY","OH","OK","OR","PA","PR","RI","SC","SD","TN","TX","UT",
+        "VA","VI","VT","WA","WI","WV","WY"
+      ];
+
+      states.forEach(code => {
+        const opt = document.createElement("option");
+        opt.value = code;
+        opt.textContent = code;
+        stateSelect.appendChild(opt);
+      });
+
+      // Set default to Texas
+      stateSelect.value = "TX";
+      loadCitiesByState(); // Load cities for default
+    });
+
     async function loadCitiesByState() {
       const stateCode = document.getElementById("state").value;
       const cityContainer = document.getElementById("cityList");
@@ -17,19 +37,20 @@
 
       try {
         const res = await fetch(`zip_map_${stateCode}.json`);
+        if (!res.ok) throw new Error(`Missing file for ${stateCode}`);
         const data = await res.json();
 
-        // Populate city list
         cityContainer.innerHTML = "";
         data.forEach((entry, index) => {
           const id = `city_${index}`;
           const label = document.createElement("label");
           label.className = "block";
-          label.innerHTML = \`<input type="checkbox" data-zips='\${JSON.stringify(entry["Zip Codes"])}' onchange="handleCityCheck(this)"> \${entry.City}\`;
+          label.innerHTML = `<input type="checkbox" data-zips='${JSON.stringify(entry["Zip Codes"])}' onchange="handleCityCheck(this)"> ${entry.City}`;
           cityContainer.appendChild(label);
         });
       } catch (err) {
-        cityContainer.innerHTML = "<p class='text-red-600'>Failed to load cities.</p>";
+        cityContainer.innerHTML = `<p class='text-red-600'>Failed to load cities for ${stateCode}.</p>`;
+        console.error(err);
       }
     }
 
@@ -42,7 +63,7 @@
           if (!document.getElementById(id)) {
             const label = document.createElement("label");
             label.className = "block";
-            label.innerHTML = \`<input type="checkbox" id="\${id}" checked> \${zip}\`;
+            label.innerHTML = `<input type="checkbox" id="${id}" checked> ${zip}`;
             zipContainer.appendChild(label);
           }
         });
@@ -62,11 +83,7 @@
     <div class="mb-6">
       <label class="block font-semibold mb-1">Choose State</label>
       <select id="state" onchange="loadCitiesByState()" class="w-full border border-gray-300 rounded-md px-4 py-2">
-        <option value="TX" selected>Texas</option>
-        <option value="CA">California</option>
-        <option value="FL">Florida</option>
-        <option value="NY">New York</option>
-        <option value="AZ">Arizona</option>
+        <!-- States populated dynamically -->
       </select>
     </div>
 
