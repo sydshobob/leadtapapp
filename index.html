@@ -57,72 +57,61 @@
 
   <!-- Pricing Plans -->
   <!-- Pricing Table Image -->
-  <section class="bg-gray-50 py-12 px-6">
-    <div class="max-w-5xl mx-auto text-center">
-      <h2 class="text-3xl font-bold mb-2">Cost Per Lead by Plan</h2>
-      <p class="text-gray-600 mb-6">Here’s how our pricing structure delivers value to your business.</p>
-      <img src="pricing-breakdown.png" alt="LeadTapApp Pricing Table" class="mx-auto w-full max-w-4xl rounded-lg shadow-md">
+<section class="bg-gray-50 py-16 px-6">
+  <div class="max-w-6xl mx-auto text-center">
+    <h2 class="text-3xl font-bold text-center mb-6">Qualified Leads for Less</h2>
+    <div class="overflow-x-auto">
+      <table class="table-auto w-full border-collapse text-left shadow-lg rounded-xl overflow-hidden">
+        <thead class="bg-blue-100">
+          <tr>
+            <th class="p-4 font-semibold">Plan</th>
+            <th class="p-4 font-semibold">Monthly Member Fee</th>
+            <th class="p-4 font-semibold">Cost per Lead</th>
+            <th class="p-4 font-semibold">Maximum Leads</th>
+            <th class="p-4 font-semibold">Maximum Spend</th>
+            <th class="p-4 font-semibold">Actual Cost per Lead</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="border-t">
+            <td class="p-4">Starter</td>
+            <td class="p-4">$99</td>
+            <td class="p-4">$350</td>
+            <td class="p-4">30</td>
+            <td class="p-4">$10,599</td>
+            <td class="p-4">$353.30</td>
+          </tr>
+          <tr class="border-t">
+            <td class="p-4">Pro</td>
+            <td class="p-4">$499</td>
+            <td class="p-4">$300</td>
+            <td class="p-4">60</td>
+            <td class="p-4">$18,499</td>
+            <td class="p-4">$308.32</td>
+          </tr>
+          <tr class="border-t">
+            <td class="p-4">Power</td>
+            <td class="p-4">$999</td>
+            <td class="p-4">$250</td>
+            <td class="p-4">120</td>
+            <td class="p-4">$30,999</td>
+            <td class="p-4">$258.33</td>
+          </tr>
+          <tr class="border-t">
+            <td class="p-4">Elite</td>
+            <td class="p-4">$1,999</td>
+            <td class="p-4">$200</td>
+            <td class="p-4">No Max</td>
+            <td class="p-4">$25,999</td>
+            <td class="p-4">$216.66*</td>
+          </tr>
+        </tbody>
+      </table>
       <p class="text-sm text-gray-500 mt-2">*Based on 120 lead estimate. Elite plan is uncapped.</p>
     </div>
-  </section>
-  <section id="pricing" class="bg-white py-16 px-6">
-    <div class="max-w-6xl mx-auto">
-      <div class="text-center mb-12">
-        <h2 class="text-4xl font-extrabold mb-4 text-blue-700">Pricing Plans</h2>
-        <p class="text-lg text-gray-600">Choose the plan that fits your growth — the more you commit, the more you save.</p>
-      </div>
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-        <!-- Starter Plan -->
-        <div class="bg-blue-50 border border-blue-200 rounded-2xl shadow p-6 text-center">
-          <h2 class="text-2xl font-bold text-blue-800 mb-2">Starter</h2>
-          <p class="text-4xl font-extrabold text-blue-900 mb-2">$99<span class="text-base font-medium">/mo</span></p>
-          <ul class="text-gray-700 text-sm space-y-1 mb-4">
-            <li>$350 per lead</li>
-            <li>Max 30 leads/month</li>
-            <li>Actual CPL: $353.30</li>
-          </ul>
-          <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-4 py-2 rounded-xl">Choose Starter</button>
-        </div>
-
-        <!-- Pro Plan -->
-        <div class="bg-white border border-gray-200 rounded-2xl shadow p-6 text-center">
-          <h2 class="text-2xl font-bold text-gray-800 mb-2">Pro</h2>
-          <p class="text-4xl font-extrabold text-gray-900 mb-2">$499<span class="text-base font-medium">/mo</span></p>
-          <ul class="text-gray-700 text-sm space-y-1 mb-4">
-            <li>$300 per lead</li>
-            <li>Max 60 leads/month</li>
-            <li>Actual CPL: $308.32</li>
-          </ul>
-          <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-4 py-2 rounded-xl">Choose Pro</button>
-        </div>
-
-        <!-- Power Plan -->
-        <div class="bg-white border border-gray-200 rounded-2xl shadow p-6 text-center">
-          <h2 class="text-2xl font-bold text-gray-800 mb-2">Power</h2>
-          <p class="text-4xl font-extrabold text-gray-900 mb-2">$999<span class="text-base font-medium">/mo</span></p>
-          <ul class="text-gray-700 text-sm space-y-1 mb-4">
-            <li>$250 per lead</li>
-            <li>Max 120 leads/month</li>
-            <li>Actual CPL: $258.33</li>
-          </ul>
-          <button class="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-4 py-2 rounded-xl">Choose Power</button>
-        </div>
-
-        <!-- Elite Plan -->
-        <div class="bg-yellow-50 border border-yellow-300 rounded-2xl shadow p-6 text-center">
-          <h2 class="text-2xl font-bold text-yellow-700 mb-2">Elite</h2>
-          <p class="text-4xl font-extrabold text-yellow-800 mb-2">$1,999<span class="text-base font-medium">/mo</span></p>
-          <ul class="text-yellow-900 text-sm space-y-1 mb-4">
-            <li>$200 per lead</li>
-            <li>Unlimited leads</li>
-            <li>Actual CPL est: $216.66*</li>
-          </ul>
-          <button class="bg-yellow-600 hover:bg-yellow-700 text-white font-semibold px-4 py-2 rounded-xl">Choose Elite</button>
-          <p class="text-xs text-yellow-700 mt-2">*Based on 120 leads/month example</p>
-        </div>
-      </div>
-    </div>
-  </section>
+  </div>
+</section>
+  
 
   <!-- Testimonials -->
   <section class="bg-white py-16 px-6">
@@ -169,7 +158,7 @@
   <section class="bg-blue-700 text-white py-16 text-center px-6">
     <h2 class="text-3xl font-extrabold mb-4">Ready to Tap Into More Business?</h2>
     <p class="text-lg mb-6">Join contractors already winning with LeadTapApp. Pick your plan and start getting real leads today.</p>
-    <a href="#" class="bg-white text-blue-700 font-semibold px-6 py-3 rounded-xl hover:bg-gray-100">Get Started Now</a>
+    <a href="pricing.html" class="bg-white text-blue-700 font-semibold px-6 py-3 rounded-xl hover:bg-gray-100">Get Started Now</a>
   </section>
 </body>
 </html>
