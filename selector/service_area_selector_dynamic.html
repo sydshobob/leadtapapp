@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>LeadTapApp – Service Area Selector</title>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+
   <script>
     document.addEventListener("DOMContentLoaded", () => {
       const stateSelect = document.getElementById("state");
@@ -40,14 +41,38 @@
         if (!res.ok) throw new Error(`Missing file for ${stateCode}`);
         const data = await res.json();
 
-        cityContainer.innerHTML = "";
-        data.forEach((entry, index) => {
-          const id = `city_${index}`;
-          const label = document.createElement("label");
-          label.className = "block";
-          label.innerHTML = `<input type="checkbox" data-zips='${JSON.stringify(entry["Zip Codes"])}' onchange="handleCityCheck(this)"> ${entry.City}`;
-          cityContainer.appendChild(label);
+        // Group cities by first letter
+        const grouped = {};
+        data.forEach(entry => {
+          const firstLetter = entry.City.charAt(0).toUpperCase();
+          if (!grouped[firstLetter]) grouped[firstLetter] = [];
+          grouped[firstLetter].push(entry);
         });
+
+        // Sort letters
+        const sortedLetters = Object.keys(grouped).sort();
+
+        // Populate grouped city list
+        cityContainer.innerHTML = "";
+        sortedLetters.forEach(letter => {
+          const section = document.createElement("div");
+          section.className = "mb-4";
+
+          const heading = document.createElement("h3");
+          heading.className = "text-md font-bold text-gray-700 mb-2";
+          heading.textContent = letter;
+          section.appendChild(heading);
+
+          grouped[letter].forEach((entry, index) => {
+            const label = document.createElement("label");
+            label.className = "block text-base text-gray-800 mb-1";
+            label.innerHTML = `<input type="checkbox" data-zips='${JSON.stringify(entry["Zip Codes"])}' onchange="handleCityCheck(this)" class="mr-2"> ${entry.City}`;
+            section.appendChild(label);
+          });
+
+          cityContainer.appendChild(section);
+        });
+
       } catch (err) {
         cityContainer.innerHTML = `<p class='text-red-600'>Failed to load cities for ${stateCode}.</p>`;
         console.error(err);
@@ -89,7 +114,7 @@
 
     <div class="mb-8">
       <label class="block font-semibold mb-2">Select Cities</label>
-      <div id="cityList" class="border p-4 bg-white rounded-md max-h-48 overflow-y-scroll text-sm"></div>
+      <div id="cityList" class="border p-4 bg-white rounded-md max-h-96 overflow-y-scroll text-sm"></div>
     </div>
 
     <div class="mb-8">
