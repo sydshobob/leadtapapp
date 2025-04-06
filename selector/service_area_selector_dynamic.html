@@ -1,0 +1,90 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>LeadTapApp – Service Area Selector</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <script>
+    async function loadCitiesByState() {
+      const stateCode = document.getElementById("state").value;
+      const cityContainer = document.getElementById("cityList");
+      const zipContainer = document.getElementById("zipList");
+
+      cityContainer.innerHTML = "<p class='text-sm text-gray-500'>Loading cities...</p>";
+      zipContainer.innerHTML = "";
+
+      try {
+        const res = await fetch(`zip_map_${stateCode}.json`);
+        const data = await res.json();
+
+        // Populate city list
+        cityContainer.innerHTML = "";
+        data.forEach((entry, index) => {
+          const id = `city_${index}`;
+          const label = document.createElement("label");
+          label.className = "block";
+          label.innerHTML = \`<input type="checkbox" data-zips='\${JSON.stringify(entry["Zip Codes"])}' onchange="handleCityCheck(this)"> \${entry.City}\`;
+          cityContainer.appendChild(label);
+        });
+      } catch (err) {
+        cityContainer.innerHTML = "<p class='text-red-600'>Failed to load cities.</p>";
+      }
+    }
+
+    function handleCityCheck(checkbox) {
+      const zipContainer = document.getElementById("zipList");
+      const zips = JSON.parse(checkbox.getAttribute("data-zips"));
+      if (checkbox.checked) {
+        zips.forEach(zip => {
+          const id = `zip_${zip}`;
+          if (!document.getElementById(id)) {
+            const label = document.createElement("label");
+            label.className = "block";
+            label.innerHTML = \`<input type="checkbox" id="\${id}" checked> \${zip}\`;
+            zipContainer.appendChild(label);
+          }
+        });
+      } else {
+        zips.forEach(zip => {
+          const el = document.getElementById(`zip_${zip}`);
+          if (el) el.parentElement.remove();
+        });
+      }
+    }
+  </script>
+</head>
+<body class="bg-gray-50 text-gray-800">
+  <div class="max-w-4xl mx-auto px-6 py-10">
+    <h1 class="text-3xl font-bold mb-6">Select Your Service Area</h1>
+
+    <div class="mb-6">
+      <label class="block font-semibold mb-1">Choose State</label>
+      <select id="state" onchange="loadCitiesByState()" class="w-full border border-gray-300 rounded-md px-4 py-2">
+        <option value="TX" selected>Texas</option>
+        <option value="CA">California</option>
+        <option value="FL">Florida</option>
+        <option value="NY">New York</option>
+        <option value="AZ">Arizona</option>
+      </select>
+    </div>
+
+    <div class="mb-8">
+      <label class="block font-semibold mb-2">Select Cities</label>
+      <div id="cityList" class="border p-4 bg-white rounded-md max-h-48 overflow-y-scroll text-sm"></div>
+    </div>
+
+    <div class="mb-8">
+      <label class="block font-semibold mb-2">Included ZIP Codes</label>
+      <div id="zipList" class="border p-4 bg-white rounded-md max-h-48 overflow-y-scroll text-sm"></div>
+    </div>
+
+    <div class="bg-yellow-100 border-l-4 border-yellow-500 text-yellow-700 p-4 rounded mb-6">
+      <p><strong>Best Practice:</strong> Selecting too many cities or ZIPs can reduce ROI. Stay focused on areas you know and can serve well.</p>
+    </div>
+
+    <button class="bg-blue-700 text-white font-semibold px-6 py-3 rounded-xl hover:bg-blue-800">Continue</button>
+  </div>
+</body>
+</html>
