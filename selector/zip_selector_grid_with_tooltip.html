@@ -67,13 +67,7 @@
 
       if (checkbox.checked) {
         const zipCount = document.querySelectorAll("#summaryList li").length + zips.length;
-        if (zipCount > maxZips) {
-          alert("You can only select up to 5 ZIP codes.");
-          checkbox.checked = false;
-          return;
-        }
-
-        const zipContainer = document.createElement("div");
+                const zipContainer = document.createElement("div");
         zipContainer.id = `zips_${state}_${city}`;
         zipContainer.className = "mb-4";
         zipContainer.innerHTML = `<div class="font-semibold text-sm mb-1">${city}</div>`;
@@ -88,7 +82,7 @@
 
         const summaryItem = document.createElement("li");
         summaryItem.id = `summary_${state}_${city}`;
-        summaryItem.textContent = `${city} (${zips.join(", ")})`;
+        summaryItem.textContent = `${city}`;
         summaryList.appendChild(summaryItem);
       } else {
         const zipBlock = document.getElementById(`zips_${state}_${city}`);
@@ -98,7 +92,7 @@
       }
 
       const newCount = document.querySelectorAll("#summaryList li").length;
-      counter.textContent = `ZIPs selected: ${newCount} of ${maxZips}`;
+      counter.textContent = `Cities selected: ${newCount}`;
     }
   </script>
 </head>
