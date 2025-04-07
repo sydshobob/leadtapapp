@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>LeadTapApp – Service Area Selector</title>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-
-  <script>
+  <script defer>
     document.addEventListener("DOMContentLoaded", () => {
       const stateSelect = document.getElementById("state");
       const states = [
@@ -24,13 +23,12 @@
         stateSelect.appendChild(opt);
       });
 
-      // Set default to Texas
-      stateSelect.value = "TX";
-      loadCitiesByState(); // Load cities for default
+      stateSelect.selectedIndex = 47; // Default select Texas
+      loadCitiesByState();
     });
 
     async function loadCitiesByState() {
-      const stateCode = document.getElementById("state").value;
+      const selectedStates = Array.from(document.getElementById("state").selectedOptions).map(opt => opt.value);
       const cityContainer = document.getElementById("cityList");
       const zipContainer = document.getElementById("zipList");
 
@@ -39,10 +37,11 @@
 
       try {
         const responses = await Promise.all(
-        selectedStates.map(code => fetch(`zip_map_${code}.json`).then(r => r.ok ? r.json() : [])));
-      const data = responses.flat();
-        if (!res.ok) throw new Error(`Missing file for ${stateCode}`);
-        const data = await res.json();
+          selectedStates.map(code =>
+            fetch(`zip_map_${code}.json`).then(r => r.ok ? r.json() : [])
+          )
+        );
+        const data = responses.flat();
 
         const grouped = {};
         data.forEach(entry => {
@@ -74,7 +73,7 @@
         });
 
       } catch (err) {
-        cityContainer.innerHTML = `<p class='text-red-600'>Failed to load cities for ${stateCode}.</p>`;
+        cityContainer.innerHTML = `<p class='text-red-600'>Failed to load cities.</p>`;
         console.error(err);
       }
     }
