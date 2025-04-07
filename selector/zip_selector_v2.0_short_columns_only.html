@@ -1,0 +1,168 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>LeadTap ZIP Selector v2.0</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <script defer>
+    let cityData = {};
+    const maxZips = 5;
+
+    document.addEventListener("DOMContentLoaded", () => {
+      const states = {
+        "AK": "Alaska", "AL": "Alabama", "AR": "Arkansas", "AS": "American Samoa", "AZ": "Arizona",
+        "CA": "California", "CO": "Colorado", "CT": "Connecticut", "DC": "District of Columbia", "DE": "Delaware",
+        "FL": "Florida", "GA": "Georgia", "GU": "Guam", "HI": "Hawaii", "IA": "Iowa", "ID": "Idaho",
+        "IL": "Illinois", "IN": "Indiana", "KS": "Kansas", "KY": "Kentucky", "LA": "Louisiana",
+        "MA": "Massachusetts", "MD": "Maryland", "ME": "Maine", "MI": "Michigan", "MN": "Minnesota",
+        "MO": "Missouri", "MS": "Mississippi", "MT": "Montana", "NC": "North Carolina", "ND": "North Dakota",
+        "NE": "Nebraska", "NH": "New Hampshire", "NJ": "New Jersey", "NM": "New Mexico", "NV": "Nevada",
+        "NY": "New York", "OH": "Ohio", "OK": "Oklahoma", "OR": "Oregon", "PA": "Pennsylvania",
+        "PR": "Puerto Rico", "RI": "Rhode Island", "SC": "South Carolina", "SD": "South Dakota", "TN": "Tennessee",
+        "TX": "Texas", "UT": "Utah", "VA": "Virginia", "VI": "U.S. Virgin Islands", "VT": "Vermont",
+        "WA": "Washington", "WI": "Wisconsin", "WV": "West Virginia", "WY": "Wyoming"
+      };
+
+      const stateList = document.getElementById("stateList");
+      for (const [abbr, full] of Object.entries(states)) {
+        const btn = document.createElement("button");
+        btn.textContent = full;
+        btn.className = "block w-full text-left text-sm px-2 py-1 hover:bg-blue-100 border-b";
+        btn.onclick = () => loadCities(abbr, full);
+        stateList.appendChild(btn);
+      }
+    });
+
+    async function loadCities(stateCode, stateName) {
+      const cityList = document.getElementById("cityList");
+      const zipList = document.getElementById("zipList");
+      cityList.innerHTML = `<p class='text-sm text-gray-500'>Loading cities in ${stateName}...</p>`;
+      zipList.innerHTML = "";
+
+      try {
+        if (!cityData[stateCode]) {
+          const res = await fetch(`zip_map_${stateCode}.json`);
+          const data = await res.json();
+          cityData[stateCode] = data;
+        }
+
+        const cities = cityData[stateCode];
+        cityList.innerHTML = "";
+        cities.forEach(entry => {
+          const label = document.createElement("label");
+          label.className = "block text-sm text-gray-800 mb-1";
+          label.innerHTML = `<input type="checkbox" data-state="${stateCode}" data-city="${entry.City}" data-zips='${JSON.stringify(entry["Zip Codes"])}' onchange="toggleCity(this)" class="mr-2"> ${entry.City}`;
+          cityList.appendChild(label);
+        });
+      } catch {
+        cityList.innerHTML = `<p class='text-red-600'>Could not load cities for ${stateName}.</p>`;
+      }
+    }
+
+    function toggleCity(box) {
+      const zipList = document.getElementById("zipList");
+      const summary = document.getElementById("summaryList");
+      const city = box.dataset.city;
+      const state = box.dataset.state;
+      const zips = JSON.parse(box.dataset.zips);
+
+      const zipBlockId = `zips_${state}_${city}`;
+      const groupBlockId = `group_${state}_${city}`;
+
+      if (box.checked) {
+        // ZIP display
+        const block = document.createElement("div");
+        block.id = zipBlockId;
+        block.className = "mb-4";
+        block.innerHTML = `<div class="font-semibold text-sm mb-1">${city}</div>`;
+        zips.forEach(zip => {
+          const label = document.createElement("label");
+          label.className = "block text-xs text-gray-800 mb-1";
+          label.innerHTML = `<input type="checkbox" data-state="${state}" data-city="${city}" data-zip="${zip}" onchange="toggleZip(this)" class="mr-2 zip-check"> ${zip}`;
+          block.appendChild(label);
+        });
+        zipList.appendChild(block);
+      } else {
+        const z = document.getElementById(zipBlockId);
+        if (z) z.remove();
+        const g = document.getElementById(groupBlockId);
+        if (g) g.remove();
+      }
+    }
+
+    function toggleZip(box) {
+      const zip = box.dataset.zip;
+      const city = box.dataset.city;
+      const state = box.dataset.state;
+      const groupId = `group_${state}_${city}`;
+      const zipId = `zip_${zip}`;
+      const summary = document.getElementById("summaryList");
+      const counter = document.getElementById("zipCounter");
+
+      if (box.checked) {
+        const selected = document.querySelectorAll("#summaryList input[type=checkbox]").length;
+        if (selected >= maxZips) {
+          alert("You can only select up to 5 ZIP codes.");
+          box.checked = false;
+          return;
+        }
+
+        let group = document.getElementById(groupId);
+        if (!group) {
+          group = document.createElement("div");
+          group.id = groupId;
+          group.className = "mb-2";
+          group.innerHTML = `<strong class='text-sm text-gray-800'>${city}</strong><ul class='list-disc ml-4 text-sm' id='zips_${city}'></ul>`;
+          summary.appendChild(group);
+        }
+
+        const ul = group.querySelector("ul");
+        const li = document.createElement("li");
+        li.id = zipId;
+        li.textContent = zip;
+        ul.appendChild(li);
+      } else {
+        const li = document.getElementById(zipId);
+        if (li) li.remove();
+
+        const ul = document.querySelector(`#zips_${city}`);
+        if (ul && ul.children.length === 0) {
+          const group = document.getElementById(groupId);
+          if (group) group.remove();
+        }
+      }
+
+      const count = document.querySelectorAll("#summaryList li").length;
+      counter.textContent = `ZIPs selected: ${count} of ${maxZips}`;
+    }
+  </script>
+</head>
+<body class="bg-gray-50 text-gray-800">
+  <div class="max-w-7xl mx-auto px-6 py-10">
+    <h1 class="text-3xl font-bold mb-6">Choose Your ZIP Code Service Area <span class="text-base font-normal text-gray-500">(v2.0)</span></h1>
+    <p class="text-sm text-gray-600 mb-6">Select up to 5 ZIP codes from any city or state.</p>
+
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
+      <div id="stateList" class="border rounded-md p-4 bg-white max-h-[20rem] overflow-y-auto">
+        <h2 class="font-semibold mb-2">States</h2>
+      </div>
+
+      <div id="cityList" class="border rounded-md p-4 bg-white max-h-[20rem] overflow-y-auto">
+        <h2 class="font-semibold mb-2">Cities</h2>
+      </div>
+
+      <div id="zipList" class="border rounded-md p-4 bg-white max-h-[20rem] overflow-y-auto">
+        <h2 class="font-semibold mb-2">ZIPs</h2>
+      </div>
+
+      <div class="border rounded-md p-4 bg-white max-h-[20rem] overflow-y-auto">
+        <h2 class="font-semibold mb-2">Selected</h2>
+        <p id="zipCounter" class="text-xs text-gray-500 mb-2">ZIPs selected: 0 of 5</p>
+        <div id="summaryList" class="text-sm"></div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
