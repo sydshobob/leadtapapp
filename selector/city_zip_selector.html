@@ -1,0 +1,155 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Select Cities and ZIPs – LeadTapApp</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <script defer>
+    document.addEventListener("DOMContentLoaded", () => {
+      const selectedStates = JSON.parse(localStorage.getItem("selectedStates") || "[]");
+      if (!selectedStates.length) {
+        alert("No states selected. Returning to previous page.");
+        window.location.href = "state_selector.html";
+        return;
+      }
+
+      loadCitiesFromStates(selectedStates);
+    });
+
+    async function loadCitiesFromStates(states) {
+      const cityContainer = document.getElementById("cityList");
+      const zipContainer = document.getElementById("zipList");
+
+      cityContainer.innerHTML = "<p class='text-sm text-gray-500'>Loading cities...</p>";
+      zipContainer.innerHTML = "";
+
+      try {
+        const responses = await Promise.all(
+          states.map(code =>
+            fetch(`zip_map_${code}.json`).then(r => r.ok ? r.json() : [])
+          )
+        );
+        const data = responses.flat();
+
+        const grouped = {};
+        data.forEach(entry => {
+          const firstLetter = entry.City.charAt(0).toUpperCase();
+          if (!grouped[firstLetter]) grouped[firstLetter] = [];
+          grouped[firstLetter].push(entry);
+        });
+
+        const sortedLetters = Object.keys(grouped).sort();
+
+        cityContainer.innerHTML = "";
+        sortedLetters.forEach(letter => {
+          const section = document.createElement("div");
+          section.className = "mb-4";
+
+          const heading = document.createElement("h3");
+          heading.className = "text-md font-bold text-gray-700 mb-2";
+          heading.textContent = letter;
+          section.appendChild(heading);
+
+          grouped[letter].forEach((entry, index) => {
+            const label = document.createElement("label");
+            label.className = "block text-base text-gray-800 mb-1";
+            label.innerHTML = `<input type="checkbox" data-zips='${JSON.stringify(entry["Zip Codes"])}' onchange="handleCityCheck(this)" class="mr-2"> ${entry.City}`;
+            section.appendChild(label);
+          });
+
+          cityContainer.appendChild(section);
+        });
+
+      } catch (err) {
+        cityContainer.innerHTML = `<p class='text-red-600'>Failed to load cities.</p>`;
+        console.error(err);
+      }
+    }
+
+    function handleCityCheck(checkbox) {
+      const zipContainer = document.getElementById("zipList");
+      const zips = JSON.parse(checkbox.getAttribute("data-zips"));
+      if (checkbox.checked) {
+        zips.forEach(zip => {
+          const id = `zip_${zip}`;
+          if (!document.getElementById(id)) {
+            const label = document.createElement("label");
+            label.className = "block";
+            label.innerHTML = `<input type="checkbox" id="${id}" checked> ${zip}`;
+            zipContainer.appendChild(label);
+          }
+        });
+      } else {
+        zips.forEach(zip => {
+          const el = document.getElementById(`zip_${zip}`);
+          if (el) el.parentElement.remove();
+        });
+      }
+    }
+
+    function showSummary() {
+      const cityCheckboxes = document.querySelectorAll('#cityList input[type="checkbox"]:checked');
+      const zipCheckboxes = document.querySelectorAll('#zipList input[type="checkbox"]:checked');
+
+      const cityNames = Array.from(cityCheckboxes).map(cb => cb.parentElement.textContent.trim());
+      const zipCount = zipCheckboxes.length;
+
+      document.getElementById("summaryCities").innerHTML = "";
+      cityNames.forEach(city => {
+        const li = document.createElement("li");
+        li.textContent = city;
+        document.getElementById("summaryCities").appendChild(li);
+      });
+
+      document.getElementById("summaryZipCount").textContent = zipCount;
+
+      document.getElementById("selectorSection").classList.add("hidden");
+      document.getElementById("summarySection").classList.remove("hidden");
+    }
+
+    function goBack() {
+      document.getElementById("summarySection").classList.add("hidden");
+      document.getElementById("selectorSection").classList.remove("hidden");
+    }
+
+    function finalSubmit() {
+      alert("Feature coming soon – send ZIPs to backend or email here!");
+    }
+  </script>
+</head>
+<body class="bg-gray-50 text-gray-800">
+  <div id="selectorSection" class="max-w-4xl mx-auto px-6 py-10">
+    <h1 class="text-3xl font-bold mb-6">Select Cities and ZIP Codes</h1>
+
+    <div class="mb-8">
+      <label class="block font-semibold mb-2">Select Cities</label>
+      <div id="cityList" class="border p-4 bg-white rounded-md max-h-96 overflow-y-scroll text-sm"></div>
+    </div>
+
+    <div class="mb-8">
+      <label class="block font-semibold mb-2">Included ZIP Codes</label>
+      <div id="zipList" class="border p-4 bg-white rounded-md max-h-48 overflow-y-scroll text-sm"></div>
+    </div>
+
+    <div class="bg-yellow-100 border-l-4 border-yellow-500 text-yellow-700 p-4 rounded mb-6">
+      <p><strong>Best Practice:</strong> Selecting too many cities or ZIPs can reduce ROI. Stay focused on areas you know and can serve well.</p>
+    </div>
+
+    <button onclick="showSummary()" class="bg-blue-700 text-white font-semibold px-6 py-3 rounded-xl hover:bg-blue-800">Continue</button>
+  </div>
+
+  <div id="summarySection" class="hidden bg-white p-6 rounded-md shadow-md max-w-4xl mx-auto mt-8">
+    <h2 class="text-2xl font-bold mb-4">Your Selected Service Area</h2>
+    <p><strong>Cities:</strong></p>
+    <ul id="summaryCities" class="list-disc ml-5 mb-2 text-gray-700"></ul>
+    <p><strong>Total ZIP Codes:</strong> <span id="summaryZipCount"></span></p>
+
+    <div class="mt-6 flex gap-4">
+      <button onclick="goBack()" class="bg-gray-300 text-gray-800 font-semibold px-4 py-2 rounded-md hover:bg-gray-400">Go Back</button>
+      <button onclick="finalSubmit()" class="bg-blue-700 text-white font-semibold px-4 py-2 rounded-md hover:bg-blue-800">Looks Good – Continue</button>
+    </div>
+  </div>
+</body>
+</html>
