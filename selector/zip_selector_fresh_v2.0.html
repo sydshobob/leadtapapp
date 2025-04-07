@@ -11,7 +11,7 @@
       margin: 0;
     }
     .fixed-grid-height {
-      height: calc(100vh - 200px);
+      height: calc(100vh - 240px);
     }
   </style>
   <script defer>
@@ -71,7 +71,6 @@
 
     function toggleCity(box) {
       const zipList = document.getElementById("zipList");
-      const summary = document.getElementById("summaryList");
       const city = box.dataset.city;
       const state = box.dataset.state;
       const zips = JSON.parse(box.dataset.zips);
@@ -107,12 +106,14 @@
       const zipId = `zip_${zip}`;
       const summary = document.getElementById("summaryList");
       const counter = document.getElementById("zipCounter");
+      const warning = document.getElementById("zipWarning");
 
       if (box.checked) {
-        const selected = document.querySelectorAll("#summaryList input[type=checkbox]").length;
+        const selected = document.querySelectorAll("#summaryList li").length;
         if (selected >= maxZips) {
-          alert("You can only select up to 5 ZIP codes.");
           box.checked = false;
+          warning.classList.remove("hidden");
+          setTimeout(() => warning.classList.add("hidden"), 3000);
           return;
         }
 
@@ -164,10 +165,14 @@
         <h2 class="font-semibold mb-2">ZIPs</h2>
       </div>
 
-      <div class="border rounded-md p-4 bg-white h-full overflow-y-auto">
-        <h2 class="font-semibold mb-2">Selected</h2>
-        <p id="zipCounter" class="text-xs text-gray-500 mb-2">ZIPs selected: 0 of 5</p>
-        <div id="summaryList" class="text-sm"></div>
+      <div class="border rounded-md p-4 bg-white h-full overflow-y-auto flex flex-col justify-between">
+        <div>
+          <h2 class="font-semibold mb-2">Selected</h2>
+          <p id="zipCounter" class="text-xs text-gray-500 mb-2">ZIPs selected: 0 of 5</p>
+          <div id="summaryList" class="text-sm"></div>
+          <p id="zipWarning" class="text-red-500 text-xs mt-2 hidden">You can only select up to 5 ZIP codes.</p>
+        </div>
+        <button class="mt-4 bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition">Continue</button>
       </div>
     </div>
   </div>
