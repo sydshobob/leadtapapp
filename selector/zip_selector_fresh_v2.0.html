@@ -70,7 +70,7 @@
           for (const [city, zips] of Object.entries(cities)) {
             const cityBlock = document.createElement("div");
             cityBlock.className = "mb-2";
-            cityBlock.innerHTML = `<strong>${city}</strong><ul class='list-disc ml-6 text-sm'>${zips.map(zip => `<li>${zip}</li>`).join('')}</ul>`;
+cityBlock.innerHTML = `<span class='text-sm font-medium'>${city}</span><ul class='list-disc ml-6 text-sm'>${zips.map(zip => `<li>${zip}</li>`).join('')}</ul>`;
             summaryOutput.appendChild(cityBlock);
           }
         }
@@ -144,7 +144,7 @@
       }
     }
 
-    function toggleZip(box) {
+    function toggleZip(box) {             
       const zip = box.dataset.zip;
       const city = box.dataset.city;
       const state = box.dataset.state;
