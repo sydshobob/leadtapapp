@@ -38,7 +38,9 @@
       zipContainer.innerHTML = "";
 
       try {
-        const res = await fetch(`zip_map_${stateCode}.json`);
+        const responses = await Promise.all(
+        selectedStates.map(code => fetch(`zip_map_${code}.json`).then(r => r.ok ? r.json() : [])));
+      const data = responses.flat();
         if (!res.ok) throw new Error(`Missing file for ${stateCode}`);
         const data = await res.json();
 
@@ -99,14 +101,14 @@
     }
 
     function showSummary() {
-      const state = document.getElementById("state").value;
+      const selectedStates = Array.from(document.getElementById("state").selectedOptions).map(opt => opt.value);
       const cityCheckboxes = document.querySelectorAll('#cityList input[type="checkbox"]:checked');
       const zipCheckboxes = document.querySelectorAll('#zipList input[type="checkbox"]:checked');
 
       const cityNames = Array.from(cityCheckboxes).map(cb => cb.parentElement.textContent.trim());
       const zipCount = zipCheckboxes.length;
 
-      document.getElementById("summaryState").textContent = state;
+      document.getElementById("summaryState").textContent = selectedStates.join(", ");
       const cityList = document.getElementById("summaryCities");
       cityList.innerHTML = "";
       cityNames.forEach(city => {
@@ -137,7 +139,7 @@
 
     <div class="mb-6">
       <label class="block font-semibold mb-1">Choose State</label>
-      <select id="state" onchange="loadCitiesByState()" class="w-full border border-gray-300 rounded-md px-4 py-2">
+      <select id="state" multiple size="10" onchange="loadCitiesByState()" class="w-full border border-gray-300 rounded-md px-4 py-2">
         <!-- States populated dynamically -->
       </select>
     </div>
