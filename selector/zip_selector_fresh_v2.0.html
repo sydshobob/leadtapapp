@@ -1,0 +1,79 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ZIP Selector v2.0</title>
+  <style>
+    body {
+      display: flex;
+      flex-direction: row;
+      height: 100vh;
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+    .column {
+      flex: 1;
+      overflow-y: auto;
+      border-right: 1px solid #ccc;
+      padding: 10px;
+      box-sizing: border-box;
+    }
+    .column:last-child {
+      border-right: none;
+    }
+    h2 {
+      font-size: 1.2em;
+      margin-top: 0;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      padding: 5px 0;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div class="column" id="state-column">
+    <h2>States</h2>
+    <ul>
+      <li>Texas</li>
+      <li>California</li>
+      <li>Florida</li>
+      <li>New York</li>
+      <li>Illinois</li>
+      <li>Ohio</li>
+      <li>Georgia</li>
+      <li>North Carolina</li>
+      <li>Michigan</li>
+      <li>Pennsylvania</li>
+      <li>Arizona</li>
+      <li>Washington</li>
+      <li>Massachusetts</li>
+      <li>Tennessee</li>
+      <li>Indiana</li>
+      <li>Missouri</li>
+      <li>Wisconsin</li>
+      <li>Colorado</li>
+      <li>Maryland</li>
+      <li>Minnesota</li>
+    </ul>
+  </div>
+  <div class="column" id="city-column">
+    <h2>Cities</h2>
+    <!-- Cities will be shown here -->
+  </div>
+  <div class="column" id="zip-column">
+    <h2>ZIP Codes</h2>
+    <!-- ZIP codes will be shown here -->
+  </div>
+  <div class="column" id="summary-column">
+    <h2>Summary</h2>
+    <!-- Summary will be shown here -->
+  </div>
+</body>
+</html>
