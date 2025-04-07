@@ -67,8 +67,20 @@
 
       if (checkbox.checked) {
         const zipCount = document.querySelectorAll("#summaryList li").length + zips.length;
-                const zipContainer = document.createElement("div");
+                
+        const zipContainer = document.createElement("div");
         zipContainer.id = `zips_${state}_${city}`;
+        zipContainer.className = "mb-4";
+        zipContainer.innerHTML = `<div class="font-semibold text-sm mb-1">${city}</div>`;
+
+        zips.forEach(zip => {
+          const label = document.createElement("label");
+          label.className = "block text-xs text-gray-800 mb-1";
+          label.innerHTML = `<input type="checkbox" data-state="${state}" data-city="${city}" data-zip="${zip}" onchange="toggleZipSelection(this)" class="mr-1 zip-check"> ${zip}`;
+          zipContainer.appendChild(label);
+        });
+        zipList.appendChild(zipContainer);
+
         zipContainer.className = "mb-4";
         zipContainer.innerHTML = `<div class="font-semibold text-sm mb-1">${city}</div>`;
 
@@ -94,7 +106,35 @@
       const newCount = document.querySelectorAll("#summaryList li").length;
       counter.textContent = `Cities selected: ${newCount}`;
     }
-  </script>
+  
+    function toggleZipSelection(box) {
+      const zip = box.dataset.zip;
+      const city = box.dataset.city;
+      const state = box.dataset.state;
+      const summary = document.getElementById("summaryList");
+      const counter = document.getElementById("zipCounter");
+      const count = document.querySelectorAll("#summaryList li").length;
+
+      if (box.checked) {
+        if (count >= maxZips) {
+          alert("You can only select up to 5 ZIP codes.");
+          box.checked = false;
+          return;
+        }
+        const li = document.createElement("li");
+        li.id = `zip_${zip}`;
+        li.textContent = `${city} ${zip}`;
+        summary.appendChild(li);
+      } else {
+        const li = document.getElementById(`zip_${zip}`);
+        if (li) li.remove();
+      }
+
+      const updated = document.querySelectorAll("#summaryList li").length;
+      counter.textContent = `ZIPs selected: ${updated} of ${maxZips}`;
+    }
+
+</script>
 </head>
 <body class="bg-gray-50 text-gray-800">
   <div class="max-w-7xl mx-auto px-6 py-10">
