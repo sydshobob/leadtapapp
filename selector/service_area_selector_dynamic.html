@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -41,7 +42,6 @@
         if (!res.ok) throw new Error(`Missing file for ${stateCode}`);
         const data = await res.json();
 
-        // Group cities by first letter
         const grouped = {};
         data.forEach(entry => {
           const firstLetter = entry.City.charAt(0).toUpperCase();
@@ -49,10 +49,8 @@
           grouped[firstLetter].push(entry);
         });
 
-        // Sort letters
         const sortedLetters = Object.keys(grouped).sort();
 
-        // Populate grouped city list
         cityContainer.innerHTML = "";
         sortedLetters.forEach(letter => {
           const section = document.createElement("div");
@@ -99,10 +97,42 @@
         });
       }
     }
+
+    function showSummary() {
+      const state = document.getElementById("state").value;
+      const cityCheckboxes = document.querySelectorAll('#cityList input[type="checkbox"]:checked');
+      const zipCheckboxes = document.querySelectorAll('#zipList input[type="checkbox"]:checked');
+
+      const cityNames = Array.from(cityCheckboxes).map(cb => cb.parentElement.textContent.trim());
+      const zipCount = zipCheckboxes.length;
+
+      document.getElementById("summaryState").textContent = state;
+      const cityList = document.getElementById("summaryCities");
+      cityList.innerHTML = "";
+      cityNames.forEach(city => {
+        const li = document.createElement("li");
+        li.textContent = city;
+        cityList.appendChild(li);
+      });
+
+      document.getElementById("summaryZipCount").textContent = zipCount;
+
+      document.getElementById("selectorSection").classList.add("hidden");
+      document.getElementById("summarySection").classList.remove("hidden");
+    }
+
+    function goBack() {
+      document.getElementById("summarySection").classList.add("hidden");
+      document.getElementById("selectorSection").classList.remove("hidden");
+    }
+
+    function finalSubmit() {
+      alert("Feature coming soon – send ZIPs to backend or email here!");
+    }
   </script>
 </head>
 <body class="bg-gray-50 text-gray-800">
-  <div class="max-w-4xl mx-auto px-6 py-10">
+  <div id="selectorSection" class="max-w-4xl mx-auto px-6 py-10">
     <h1 class="text-3xl font-bold mb-6">Select Your Service Area</h1>
 
     <div class="mb-6">
@@ -126,7 +156,20 @@
       <p><strong>Best Practice:</strong> Selecting too many cities or ZIPs can reduce ROI. Stay focused on areas you know and can serve well.</p>
     </div>
 
-    <button class="bg-blue-700 text-white font-semibold px-6 py-3 rounded-xl hover:bg-blue-800">Continue</button>
+    <button onclick="showSummary()" class="bg-blue-700 text-white font-semibold px-6 py-3 rounded-xl hover:bg-blue-800">Continue</button>
+  </div>
+
+  <div id="summarySection" class="hidden bg-white p-6 rounded-md shadow-md max-w-4xl mx-auto mt-8">
+    <h2 class="text-2xl font-bold mb-4">Your Selected Service Area</h2>
+    <p><strong>State:</strong> <span id="summaryState"></span></p>
+    <p><strong>Cities:</strong></p>
+    <ul id="summaryCities" class="list-disc ml-5 mb-2 text-gray-700"></ul>
+    <p><strong>Total ZIP Codes:</strong> <span id="summaryZipCount"></span></p>
+
+    <div class="mt-6 flex gap-4">
+      <button onclick="goBack()" class="bg-gray-300 text-gray-800 font-semibold px-4 py-2 rounded-md hover:bg-gray-400">Go Back</button>
+      <button onclick="finalSubmit()" class="bg-blue-700 text-white font-semibold px-4 py-2 rounded-md hover:bg-blue-800">Looks Good – Continue</button>
+    </div>
   </div>
 </body>
 </html>
