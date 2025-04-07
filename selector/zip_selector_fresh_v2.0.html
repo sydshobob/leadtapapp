@@ -89,6 +89,19 @@ cityBlock.innerHTML = `<span class='text-sm font-medium'>${city}</span><ul class
       });
     });
 
+document.getElementById("clearBtn").addEventListener("click", () => {
+  // Uncheck all city checkboxes
+  document.querySelectorAll("#cityList input[type=checkbox]").forEach(el => el.checked = false);
+  // Uncheck all zip checkboxes
+  document.querySelectorAll("#zipList input[type=checkbox]").forEach(el => el.checked = false);
+  // Clear ZIP list and summary
+  document.getElementById("zipList").innerHTML = "";
+  document.getElementById("summaryList").innerHTML = "";
+  document.getElementById("zipCounter").textContent = "ZIPs selected: 0 of 5";
+});
+
+
+    
     async function loadCities(stateCode, stateName) {
       const cityList = document.getElementById("cityList");
       const zipList = document.getElementById("zipList");
