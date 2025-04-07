@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>LeadTap ZIP Selector</title>
+  <title>LeadTap ZIP Selector v1.1</title>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
   <script defer>
     let currentState = null;
@@ -132,6 +132,52 @@
 
       const updated = document.querySelectorAll("#summaryList li").length;
       counter.textContent = `ZIPs selected: ${updated} of ${maxZips}`;
+    }
+
+
+    function toggleZipSelection(box) {
+      const zip = box.dataset.zip;
+      const city = box.dataset.city;
+      const state = box.dataset.state;
+      const summary = document.getElementById("summaryList");
+      const counter = document.getElementById("zipCounter");
+
+      let group = document.getElementById(`group_${city}`);
+      if (box.checked) {
+        const currentZipCount = document.querySelectorAll("#summaryList input[type=checkbox]:checked").length;
+        if (currentZipCount >= maxZips) {
+          alert("You can only select up to 5 ZIP codes.");
+          box.checked = false;
+          return;
+        }
+
+        if (!group) {
+          group = document.createElement("div");
+          group.id = `group_${city}`;
+          group.className = "mb-2";
+          group.innerHTML = `<strong class='text-sm text-gray-800'>${city}</strong><ul class='list-disc ml-4 text-sm' id='zips_${city}'></ul>`;
+          summary.appendChild(group);
+        }
+
+        const ul = document.getElementById(`zips_${city}`);
+        const li = document.createElement("li");
+        li.id = `zip_${zip}`;
+        li.textContent = zip;
+        ul.appendChild(li);
+      } else {
+        const li = document.getElementById(`zip_${zip}`);
+        if (li) li.remove();
+
+        const ul = document.getElementById(`zips_${city}`);
+        if (ul && ul.children.length === 0) {
+          const parentGroup = document.getElementById(`group_${city}`);
+          if (parentGroup) parentGroup.remove();
+        }
+      }
+
+      const updated = document.querySelectorAll("#summaryList input[type=checkbox]:checked").length;
+      const visibleZips = summary.querySelectorAll("li").length;
+      counter.textContent = `ZIPs selected: ${visibleZips} of ${maxZips}`;
     }
 
 </script>
