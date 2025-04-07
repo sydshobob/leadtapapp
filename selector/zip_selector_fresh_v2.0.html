@@ -20,16 +20,16 @@
 
     document.addEventListener("DOMContentLoaded", () => {
       const states = {
-        "AK": "Alaska", "AL": "Alabama", "AR": "Arkansas", "AS": "American Samoa", "AZ": "Arizona",
+        "AK": "Alaska", "AL": "Alabama", "AR": "Arkansas", "AZ": "Arizona",
         "CA": "California", "CO": "Colorado", "CT": "Connecticut", "DC": "District of Columbia", "DE": "Delaware",
-        "FL": "Florida", "GA": "Georgia", "GU": "Guam", "HI": "Hawaii", "IA": "Iowa", "ID": "Idaho",
+        "FL": "Florida", "GA": "Georgia", "HI": "Hawaii", "IA": "Iowa", "ID": "Idaho",
         "IL": "Illinois", "IN": "Indiana", "KS": "Kansas", "KY": "Kentucky", "LA": "Louisiana",
         "MA": "Massachusetts", "MD": "Maryland", "ME": "Maine", "MI": "Michigan", "MN": "Minnesota",
         "MO": "Missouri", "MS": "Mississippi", "MT": "Montana", "NC": "North Carolina", "ND": "North Dakota",
         "NE": "Nebraska", "NH": "New Hampshire", "NJ": "New Jersey", "NM": "New Mexico", "NV": "Nevada",
         "NY": "New York", "OH": "Ohio", "OK": "Oklahoma", "OR": "Oregon", "PA": "Pennsylvania",
-        "PR": "Puerto Rico", "RI": "Rhode Island", "SC": "South Carolina", "SD": "South Dakota", "TN": "Tennessee",
-        "TX": "Texas", "UT": "Utah", "VA": "Virginia", "VI": "U.S. Virgin Islands", "VT": "Vermont",
+        "RI": "Rhode Island", "SC": "South Carolina", "SD": "South Dakota", "TN": "Tennessee",
+        "TX": "Texas", "UT": "Utah", "VA": "Virginia", "VT": "Vermont",
         "WA": "Washington", "WI": "Wisconsin", "WV": "West Virginia", "WY": "Wyoming"
       };
 
@@ -41,6 +41,52 @@
         btn.onclick = () => loadCities(abbr, full);
         stateList.appendChild(btn);
       }
+
+      document.getElementById("continueBtn").addEventListener("click", () => {
+        const selectedZips = document.querySelectorAll("#summaryList li");
+        const summaryPage = document.getElementById("summaryPage");
+        const selectionPage = document.getElementById("selectionPage");
+        const summaryOutput = document.getElementById("summaryOutput");
+
+        const grouped = {};
+
+        selectedZips.forEach(li => {
+          const cityGroup = li.closest("[id^='group_']");
+          const city = cityGroup.querySelector("strong").textContent;
+          const state = cityGroup.id.split("_")[1];
+
+          if (!grouped[state]) grouped[state] = {};
+          if (!grouped[state][city]) grouped[state][city] = [];
+          grouped[state][city].push(li.textContent);
+        });
+
+        summaryOutput.innerHTML = "";
+        for (const [state, cities] of Object.entries(grouped)) {
+          const stateHeader = document.createElement("h3");
+          stateHeader.className = "text-lg font-bold mt-4 mb-2";
+          stateHeader.textContent = states[state] || state;
+          summaryOutput.appendChild(stateHeader);
+
+          for (const [city, zips] of Object.entries(cities)) {
+            const cityBlock = document.createElement("div");
+            cityBlock.className = "mb-2";
+            cityBlock.innerHTML = `<strong>${city}</strong><ul class='list-disc ml-6 text-sm'>${zips.map(zip => `<li>${zip}</li>`).join('')}</ul>`;
+            summaryOutput.appendChild(cityBlock);
+          }
+        }
+
+        selectionPage.classList.add("hidden");
+        summaryPage.classList.remove("hidden");
+      });
+
+      document.getElementById("backBtn").addEventListener("click", () => {
+        document.getElementById("summaryPage").classList.add("hidden");
+        document.getElementById("selectionPage").classList.remove("hidden");
+      });
+
+      document.getElementById("confirmBtn").addEventListener("click", () => {
+        alert("ZIP code selection confirmed! (You can replace this with a real action.)");
+      });
     });
 
     async function loadCities(stateCode, stateName) {
@@ -149,30 +195,41 @@
 </head>
 <body class="bg-gray-50 text-gray-800">
   <div class="max-w-7xl mx-auto px-6 py-10">
-    <h1 class="text-3xl font-bold mb-6">Choose Your ZIP Code Service Area <span class="text-base font-normal text-gray-500">(v2.0)</span></h1>
-    <p class="text-sm text-gray-600 mb-6">Select up to 5 ZIP codes from any city or state.</p>
+    <div id="selectionPage">
+      <h1 class="text-3xl font-bold mb-6">Choose Your ZIP Code Service Area <span class="text-base font-normal text-gray-500">(v2.0)</span></h1>
+      <p class="text-sm text-gray-600 mb-6">Select up to 5 ZIP codes from any city or state.</p>
 
-    <div class="grid grid-cols-1 md:grid-cols-4 gap-4 fixed-grid-height">
-      <div id="stateList" class="border rounded-md p-4 bg-white h-full overflow-y-auto">
-        <h2 class="font-semibold mb-2">States</h2>
-      </div>
-
-      <div id="cityList" class="border rounded-md p-4 bg-white h-full overflow-y-auto">
-        <h2 class="font-semibold mb-2">Cities</h2>
-      </div>
-
-      <div id="zipList" class="border rounded-md p-4 bg-white h-full overflow-y-auto">
-        <h2 class="font-semibold mb-2">ZIPs</h2>
-      </div>
-
-      <div class="border rounded-md p-4 bg-white h-full overflow-y-auto flex flex-col justify-between">
-        <div>
-          <h2 class="font-semibold mb-2">Selected</h2>
-          <p id="zipCounter" class="text-xs text-gray-500 mb-2">ZIPs selected: 0 of 5</p>
-          <div id="summaryList" class="text-sm"></div>
-          <p id="zipWarning" class="text-red-500 text-xs mt-2 hidden">You can only select up to 5 ZIP codes.</p>
+      <div class="grid grid-cols-1 md:grid-cols-4 gap-4 fixed-grid-height">
+        <div id="stateList" class="border rounded-md p-4 bg-white h-full overflow-y-auto">
+          <h2 class="font-semibold mb-2">States</h2>
         </div>
-        <button class="mt-4 bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition">Continue</button>
+
+        <div id="cityList" class="border rounded-md p-4 bg-white h-full overflow-y-auto">
+          <h2 class="font-semibold mb-2">Cities</h2>
+        </div>
+
+        <div id="zipList" class="border rounded-md p-4 bg-white h-full overflow-y-auto">
+          <h2 class="font-semibold mb-2">ZIPs</h2>
+        </div>
+
+        <div class="border rounded-md p-4 bg-white h-full overflow-y-auto flex flex-col justify-between">
+          <div>
+            <h2 class="font-semibold mb-2">Selected</h2>
+            <p id="zipCounter" class="text-xs text-gray-500 mb-2">ZIPs selected: 0 of 5</p>
+            <div id="summaryList" class="text-sm"></div>
+            <p id="zipWarning" class="text-red-500 text-xs mt-2 hidden">You can only select up to 5 ZIP codes.</p>
+          </div>
+          <button id="continueBtn" class="mt-4 bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition">Continue</button>
+        </div>
+      </div>
+    </div>
+
+    <div id="summaryPage" class="hidden">
+      <h2 class="text-2xl font-bold mb-4">Your Selected ZIP Codes</h2>
+      <div id="summaryOutput" class="bg-white p-4 rounded shadow mb-6"></div>
+      <div class="flex gap-4">
+        <button id="backBtn" class="bg-gray-300 text-gray-800 px-4 py-2 rounded hover:bg-gray-400">Back</button>
+        <button id="confirmBtn" class="bg-green-600 text-white px-4 py-2 rounded hover:bg-green-700">Confirm</button>
       </div>
     </div>
   </div>
